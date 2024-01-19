@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-01-19 08:51\n"
+"PO-Revision-Date: 2024-01-19 14:37\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -37,7 +37,7 @@ msgstr "{0, plural, one {# kode undangan tersedia} other {# kode undangan tersed
 #: src/view/com/modals/CreateOrEditList.tsx:185
 #: src/view/screens/Settings.tsx:294
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: src/view/com/modals/CreateOrEditList.tsx:176
 #~ msgid "{0} {purposeLabel} List"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:632
 msgid "{following} following"
-msgstr ""
+msgstr "{following} mengikuti"
 
 #: src/view/shell/desktop/RightNav.tsx:151
 msgid "{invitesAvailable, plural, one {Invite codes: # available} other {Invite codes: # available}}"
@@ -63,15 +63,15 @@ msgstr "{invitesAvailable} kode undangan tersedia"
 
 #: src/view/screens/Search/Search.tsx:87
 msgid "{message}"
-msgstr ""
+msgstr "{message}"
 
 #: src/view/shell/Drawer.tsx:440
 msgid "{numUnreadNotifications} unread"
-msgstr ""
+msgstr "{numUnreadNotifications} belum dibaca"
 
 #: src/Navigation.tsx:147
 msgid "@{0}"
-msgstr ""
+msgstr "@{0}"
 
 #: src/view/com/threadgate/WhoCanReply.tsx:158
 msgid "<0/> members"
@@ -79,7 +79,7 @@ msgstr "<0/> anggota"
 
 #: src/view/com/profile/ProfileHeader.tsx:634
 msgid "<0>{following} </0><1>following</1>"
-msgstr ""
+msgstr "<0>{following} </0><1>mengikuti</1>"
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:30
 msgid "<0>Choose your</0><1>Recommended</1><2>Feeds</2>"
@@ -103,7 +103,7 @@ msgstr "<0>Ikuti</0><1>Rekomendasi</1><2>Pengguna</2>"
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:21
 msgid "<0>Welcome to</0><1>Bluesky</1>"
-msgstr ""
+msgstr "<0>Selamat datang di</0><1>Bluesky</1>"
 
 #: src/view/com/profile/ProfileHeader.tsx:597
 msgid "⚠Invalid Handle"
