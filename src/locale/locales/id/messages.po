@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-01-19 14:37\n"
+"PO-Revision-Date: 2024-01-21 08:36\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:142
 msgid "(no email)"
-msgstr ""
+msgstr "(tidak ada email)"
 
 #: src/view/shell/desktop/RightNav.tsx:168
 msgid "{0, plural, one {# invite code available} other {# invite codes available}}"
@@ -107,7 +107,7 @@ msgstr "<0>Selamat datang di</0><1>Bluesky</1>"
 
 #: src/view/com/profile/ProfileHeader.tsx:597
 msgid "⚠Invalid Handle"
-msgstr ""
+msgstr "⚠Handle Tidak Valid"
 
 #: src/view/com/util/moderation/LabelInfo.tsx:45
 msgid "A content warning has been applied to this {0}."
@@ -120,11 +120,11 @@ msgstr "Versi terbaru aplikasi telah tersedia. Mohon perbarui untuk melanjutkan.
 #: src/view/com/util/ViewHeader.tsx:83
 #: src/view/screens/Search/Search.tsx:538
 msgid "Access navigation links and settings"
-msgstr ""
+msgstr "Akses tautan navigasi dan pengaturan"
 
 #: src/view/com/pager/FeedsTabBarMobile.tsx:78
 msgid "Access profile and other navigation links"
-msgstr ""
+msgstr "Akses profil dan tautan navigasi lainnya"
 
 #: src/view/com/modals/EditImage.tsx:299
 #: src/view/screens/Settings.tsx:445
@@ -138,7 +138,7 @@ msgstr "Akun"
 
 #: src/view/com/profile/ProfileHeader.tsx:293
 msgid "Account blocked"
-msgstr ""
+msgstr "Akun diblokir"
 
 #: src/view/com/profile/ProfileHeader.tsx:260
 msgid "Account muted"
