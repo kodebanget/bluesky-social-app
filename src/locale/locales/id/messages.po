@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-01-24 14:37\n"
+"PO-Revision-Date: 2024-01-27 04:21\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -265,7 +265,7 @@ msgstr "Sudah masuk sebagai @{0}"
 
 #: src/view/com/composer/photos/Gallery.tsx:130
 msgid "ALT"
-msgstr ""
+msgstr "ALT"
 
 #: src/view/com/modals/EditImage.tsx:315
 msgid "Alt text"
@@ -463,11 +463,11 @@ msgstr "Blokir bersifat publik. Akun yang diblokir tidak dapat membalas postinga
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:93
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:31
 msgid "Bluesky"
-msgstr ""
+msgstr "Bluesky"
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:80
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:80
@@ -494,7 +494,7 @@ msgstr "Bluesky tidak akan menampilkan profil dan postingan Anda ke pengguna yan
 
 #: src/view/com/modals/ServerInput.tsx:78
 msgid "Bluesky.Social"
-msgstr ""
+msgstr "Bluesky.Social"
 
 #: src/view/screens/Settings.tsx:792
 msgid "Build version {0} {1}"
@@ -1172,7 +1172,7 @@ msgstr "Ubah deskripsi profil Anda"
 #: src/view/com/modals/ChangeEmail.tsx:141
 #: src/view/com/modals/Waitlist.tsx:88
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: src/view/com/auth/create/Step1.tsx:134
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:143
@@ -1194,7 +1194,7 @@ msgstr "Email terverifikasi"
 
 #: src/view/screens/Settings.tsx:312
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: src/view/com/modals/EmbedConsent.tsx:113
 msgid "Enable {0} only"
@@ -1350,7 +1350,7 @@ msgstr "Feed oleh {0}"
 
 #: src/view/screens/Feeds.tsx:560
 msgid "Feed offline"
-msgstr ""
+msgstr "Feed offline"
 
 #: src/view/com/feeds/FeedPage.tsx:143
 msgid "Feed Preferences"
