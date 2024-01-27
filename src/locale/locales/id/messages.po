@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-01-27 04:21\n"
+"PO-Revision-Date: 2024-01-27 12:56\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1342,7 +1342,7 @@ msgstr "Gagal memuat rekomendasi feed"
 
 #: src/Navigation.tsx:192
 msgid "Feed"
-msgstr ""
+msgstr "Feed"
 
 #: src/view/com/feeds/FeedSourceCard.tsx:229
 msgid "Feed by {0}"
@@ -1538,7 +1538,7 @@ msgstr "Berikutnya"
 
 #: src/view/com/modals/ChangeHandle.tsx:265
 msgid "Handle"
-msgstr ""
+msgstr "Handle"
 
 #: src/view/com/auth/create/CreateAccount.tsx:190
 msgid "Having trouble?"
@@ -2008,7 +2008,7 @@ msgstr "Pastikan ini adalah website yang Anda tuju!"
 
 #: src/view/screens/Profile.tsx:163
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: src/view/com/threadgate/WhoCanReply.tsx:139
 msgid "mentioned users"
@@ -2021,7 +2021,7 @@ msgstr "Pengguna yang disebutkan"
 #: src/view/com/util/ViewHeader.tsx:81
 #: src/view/screens/Search/Search.tsx:544
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:194
 #~ msgid "Message from server"
@@ -3479,7 +3479,7 @@ msgstr "Persegi"
 
 #: src/view/com/modals/ServerInput.tsx:62
 msgid "Staging"
-msgstr ""
+msgstr "Staging"
 
 #: src/view/screens/Settings.tsx:804
 msgid "Status page"
@@ -3500,7 +3500,7 @@ msgstr "Penyimpanan dihapus, Anda perlu memulai ulang aplikasi sekarang."
 #: src/Navigation.tsx:202
 #: src/view/screens/Settings.tsx:740
 msgid "Storybook"
-msgstr ""
+msgstr "Storybook"
 
 #: src/view/com/modals/AppealLabel.tsx:101
 msgid "Submit"
