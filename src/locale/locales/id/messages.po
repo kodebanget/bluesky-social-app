@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-04-20 10:57\n"
+"PO-Revision-Date: 2024-04-21 08:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -412,7 +412,7 @@ msgstr "Blokir akun"
 #: src/view/screens/ProfileList.tsx:480
 #: src/view/screens/ProfileList.tsx:636
 msgid "Block list"
-msgstr "Daftar blokir"
+msgstr "Blokir daftar"
 
 #: src/view/screens/ProfileList.tsx:631
 msgid "Block these accounts?"
@@ -2544,7 +2544,7 @@ msgstr ""
 #: src/view/screens/ProfileList.tsx:463
 #: src/view/screens/ProfileList.tsx:626
 msgid "Mute list"
-msgstr "Daftar akun yang dibisukan"
+msgstr "Bisukan daftar"
 
 #: src/view/screens/ProfileList.tsx:621
 msgid "Mute these accounts?"
