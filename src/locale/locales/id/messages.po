@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-04-21 08:34\n"
+"PO-Revision-Date: 2024-04-21 15:02\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -37,7 +37,7 @@ msgstr "<0/> anggota"
 
 #: src/view/shell/Drawer.tsx:97
 msgid "<0>{0}</0> following"
-msgstr ""
+msgstr "<0> {0} </0> mengikuti"
 
 #: src/components/ProfileHoverCard/index.web.tsx:314
 msgid "<0>{followers} </0><1>{pluralizedFollowers}</1>"
@@ -80,7 +80,7 @@ msgstr "Aksesibilitas"
 
 #: src/components/moderation/LabelsOnMe.tsx:42
 msgid "account"
-msgstr ""
+msgstr "akun"
 
 #: src/screens/Login/LoginForm.tsx:144
 #: src/view/screens/Settings/index.tsx:330
@@ -94,7 +94,7 @@ msgstr "Akun diblokir"
 
 #: src/view/com/profile/ProfileMenu.tsx:153
 msgid "Account followed"
-msgstr ""
+msgstr "Akun diikuti"
 
 #: src/view/com/profile/ProfileMenu.tsx:113
 msgid "Account muted"
@@ -124,7 +124,7 @@ msgstr "Akun batal diblokir"
 
 #: src/view/com/profile/ProfileMenu.tsx:166
 msgid "Account unfollowed"
-msgstr ""
+msgstr "Akun batal diikuti"
 
 #: src/view/com/profile/ProfileMenu.tsx:102
 msgid "Account unmuted"
@@ -178,7 +178,7 @@ msgstr ""
 
 #: src/components/dialogs/MutedWords.tsx:86
 msgid "Add muted words and tags"
-msgstr ""
+msgstr "Tambah kata dan tag untuk dibisukan"
 
 #: src/view/com/modals/ChangeHandle.tsx:416
 msgid "Add the following DNS record to your domain:"
@@ -218,7 +218,7 @@ msgstr "Konten Dewasa"
 
 #: src/components/moderation/LabelPreference.tsx:242
 msgid "Adult content is disabled."
-msgstr ""
+msgstr "Konten dewasa dinonaktifkan."
 
 #: src/screens/Moderation/index.tsx:375
 #: src/view/screens/Settings/index.tsx:635
@@ -227,7 +227,7 @@ msgstr "Lanjutan"
 
 #: src/view/screens/Feeds.tsx:691
 msgid "All the feeds you've saved, right in one place."
-msgstr ""
+msgstr "Semua feed yang Anda simpan, terkumpul di satu tempat."
 
 #: src/screens/Login/ForgotPasswordForm.tsx:178
 #: src/view/com/modals/ChangePassword.tsx:170
@@ -282,7 +282,7 @@ msgstr "Hewan"
 
 #: src/lib/moderation/useReportOptions.ts:31
 msgid "Anti-Social Behavior"
-msgstr ""
+msgstr "Perilaku Anti-Sosial"
 
 #: src/view/screens/LanguageSettings.tsx:95
 msgid "App Language"
@@ -313,7 +313,7 @@ msgstr "Kata sandi Aplikasi"
 #: src/components/moderation/LabelsOnMeDialog.tsx:133
 #: src/components/moderation/LabelsOnMeDialog.tsx:136
 msgid "Appeal"
-msgstr ""
+msgstr "Ajukan Banding"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:201
 msgid "Appeal \"{0}\" label"
@@ -321,7 +321,7 @@ msgstr ""
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:192
 msgid "Appeal submitted."
-msgstr ""
+msgstr "Banding diajukan."
 
 #: src/view/screens/Settings/index.tsx:436
 msgid "Appearance"
@@ -333,7 +333,7 @@ msgstr "Anda yakin untuk menghapus kata sandi aplikasi \"{name}\"?"
 
 #: src/view/com/feeds/FeedSourceCard.tsx:280
 msgid "Are you sure you want to remove {0} from your feeds?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus {0} dari daftar feed Anda?"
 
 #: src/view/com/composer/Composer.tsx:509
 msgid "Are you sure you'd like to discard this draft?"
@@ -357,7 +357,7 @@ msgstr "Ketelanjangan artistik atau non-erotis."
 
 #: src/screens/Signup/StepHandle.tsx:119
 msgid "At least 3 characters"
-msgstr ""
+msgstr "Sedikitnya 3 karakter"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:246
 #: src/components/moderation/LabelsOnMeDialog.tsx:247
@@ -394,7 +394,7 @@ msgstr "Tanggal lahir:"
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:286
 #: src/view/com/profile/ProfileMenu.tsx:361
 msgid "Block"
-msgstr ""
+msgstr "Blokir"
 
 #: src/view/com/profile/ProfileMenu.tsx:300
 #: src/view/com/profile/ProfileMenu.tsx:307
@@ -403,7 +403,7 @@ msgstr "Blokir Akun"
 
 #: src/view/com/profile/ProfileMenu.tsx:344
 msgid "Block Account?"
-msgstr ""
+msgstr "Blokir Akun?"
 
 #: src/view/screens/ProfileList.tsx:532
 msgid "Block accounts"
@@ -5114,7 +5114,7 @@ msgstr ""
 
 #: src/screens/Hashtag.tsx:133
 msgid "We couldn't find any results for that hashtag."
-msgstr ""
+msgstr "Kami tidak dapat menemukan hasil apa pun untuk tagar tersebut."
 
 #: src/screens/Deactivated.tsx:133
 msgid "We estimate {estimatedTime} until your account is ready."
@@ -5130,7 +5130,7 @@ msgstr "Kami kehabisan postingan dari akun yang Anda ikuti. Inilah yang terbaru 
 
 #: src/components/dialogs/MutedWords.tsx:203
 msgid "We recommend avoiding common words that appear in many posts, since it can result in no posts being shown."
-msgstr ""
+msgstr "Sebaiknya hindari kata-kata umum yang muncul dalam postingan, karena dapat mengakibatkan tidak adanya postingan yang ditampilkan."
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:125
 msgid "We recommend our \"Discover\" feed:"
@@ -5210,15 +5210,15 @@ msgstr "Siapa yang dapat membalas"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:43
 msgid "Why should this content be reviewed?"
-msgstr ""
+msgstr "Mengapa konten ini perlu ditinjau?"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:56
 msgid "Why should this feed be reviewed?"
-msgstr ""
+msgstr "Mengapa feed ini perlu ditinjau?"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:53
 msgid "Why should this list be reviewed?"
-msgstr ""
+msgstr "Mengapa daftar ini perlu ditinjau?"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:50
 msgid "Why should this post be reviewed?"
@@ -5362,7 +5362,7 @@ msgstr ""
 
 #: src/screens/Signup/StepInfo/Policies.tsx:79
 msgid "You must be 13 years of age or older to sign up."
-msgstr ""
+msgstr "Anda harus berusia 13 tahun atau lebih untuk mendaftar."
 
 #: src/screens/Onboarding/StepModeration/AdultContentEnabledPref.tsx:110
 msgid "You must be 18 years or older to enable adult content"
