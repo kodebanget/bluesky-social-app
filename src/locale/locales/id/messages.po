@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-04-24 04:48\n"
+"PO-Revision-Date: 2024-04-26 03:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -852,7 +852,7 @@ msgstr "Konfigurasikan pengaturan penyaringan konten untuk kategori: {0}"
 
 #: src/components/moderation/LabelPreference.tsx:81
 msgid "Configure content filtering setting for category: {name}"
-msgstr ""
+msgstr "Konfigurasikan pengaturan penyaringan konten untuk kategori: {name}"
 
 #: src/components/moderation/LabelPreference.tsx:244
 msgid "Configured in <0>moderation settings</0>."
@@ -885,7 +885,7 @@ msgstr "Konfirmasi hapus akun"
 
 #: src/screens/Moderation/index.tsx:301
 msgid "Confirm your age:"
-msgstr ""
+msgstr "Konfirmasikan usia Anda:"
 
 #: src/screens/Moderation/index.tsx:292
 msgid "Confirm your birthdate"
@@ -919,7 +919,7 @@ msgstr ""
 
 #: src/screens/Moderation/index.tsx:285
 msgid "Content filters"
-msgstr ""
+msgstr "Penyaring konten"
 
 #: src/view/com/modals/lang-settings/ContentLanguagesSettings.tsx:74
 #: src/view/screens/LanguageSettings.tsx:278
@@ -1721,7 +1721,7 @@ msgstr ""
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:66
 msgid "Filter from feeds"
-msgstr ""
+msgstr "Saring dari feed"
 
 #: src/screens/Onboarding/StepFinished.tsx:155
 msgid "Finalizing"
@@ -2303,7 +2303,7 @@ msgstr "Pelajari Lebih Lanjut"
 #: src/components/moderation/ContentHider.tsx:65
 #: src/components/moderation/ContentHider.tsx:128
 msgid "Learn more about the moderation applied to this content."
-msgstr ""
+msgstr "Pelajari lebih lanjut tentang moderasi yang diterapkan pada konten ini."
 
 #: src/components/moderation/PostHider.tsx:85
 #: src/components/moderation/ScreenHider.tsx:125
@@ -2530,7 +2530,7 @@ msgstr "Moderasi"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:112
 msgid "Moderation details"
-msgstr ""
+msgstr "Detail moderasi"
 
 #: src/view/com/lists/ListCard.tsx:93
 #: src/view/com/modals/UserAddRemoveLists.tsx:206
@@ -2570,11 +2570,11 @@ msgstr "Pengaturan moderasi"
 
 #: src/Navigation.tsx:217
 msgid "Moderation states"
-msgstr ""
+msgstr "Status moderasi"
 
 #: src/screens/Moderation/index.tsx:215
 msgid "Moderation tools"
-msgstr ""
+msgstr "Alat moderasi"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:48
 #: src/lib/moderation/useModerationCauseDescription.ts:40
@@ -4207,11 +4207,11 @@ msgstr "Tetap tampilkan"
 #: src/lib/moderation/useLabelBehaviorDescription.ts:27
 #: src/lib/moderation/useLabelBehaviorDescription.ts:63
 msgid "Show badge"
-msgstr ""
+msgstr "Tampilkan lencana"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:61
 msgid "Show badge and filter from feeds"
-msgstr ""
+msgstr "Tampilkan lencana dan saring dari feed"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:198
 msgid "Show follows similar to {0}"
@@ -4286,7 +4286,7 @@ msgstr ""
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:56
 msgid "Show warning and filter from feeds"
-msgstr ""
+msgstr "Tampilkan peringatan dan saring dari feed"
 
 #: src/view/com/post-thread/PostThreadFollowBtn.tsx:130
 msgid "Shows posts from {0} in your feed"
@@ -5270,7 +5270,7 @@ msgstr ""
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:46
 msgid "Warn content and filter from feeds"
-msgstr ""
+msgstr "Peringatkan konten dan saring dari feed"
 
 #: src/screens/Hashtag.tsx:210
 msgid "We couldn't find any results for that hashtag."
