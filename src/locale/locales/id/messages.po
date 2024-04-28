@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-04-28 11:09\n"
+"PO-Revision-Date: 2024-04-28 17:39\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -187,7 +187,7 @@ msgstr "Tambahkan Kata Sandi Aplikasi"
 
 #: src/components/dialogs/MutedWords.tsx:157
 msgid "Add mute word for configured settings"
-msgstr "Tambahkan kata untuk dibisukan dengan konfigurasi ini"
+msgstr "Tambahkan kata yang akan dibisukan ke pengaturan terpilih"
 
 #: src/components/dialogs/MutedWords.tsx:86
 msgid "Add muted words and tags"
