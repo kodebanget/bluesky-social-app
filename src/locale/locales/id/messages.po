@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-04-30 04:47\n"
+"PO-Revision-Date: 2024-05-01 11:21\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -663,11 +663,11 @@ msgstr "Ubah Email Anda"
 
 #: src/Navigation.tsx:302
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: src/screens/Messages/Conversation/index.tsx:26
 msgid "Chat with {chatId}"
-msgstr ""
+msgstr "Chat dengan {chatId}"
 
 #: src/screens/Deactivated.tsx:79
 #: src/screens/Deactivated.tsx:83
@@ -2519,18 +2519,18 @@ msgstr "Pesan dari server: {0}"
 
 #: src/screens/Messages/List/index.tsx:34
 msgid "Message settings"
-msgstr ""
+msgstr "Pengaturan pesan"
 
 #: src/Navigation.tsx:517
 #: src/screens/Messages/List/index.tsx:103
 #: src/view/shell/bottom-bar/BottomBar.tsx:261
 #: src/view/shell/desktop/LeftNav.tsx:360
 msgid "Messages"
-msgstr ""
+msgstr "Pesan"
 
 #: src/Navigation.tsx:307
 msgid "Messaging settings"
-msgstr ""
+msgstr "Pengaturan perpesanan"
 
 #: src/lib/moderation/useReportOptions.ts:45
 msgid "Misleading Account"
@@ -3157,7 +3157,7 @@ msgstr "Membuka situs web tertaut"
 
 #: src/screens/Messages/List/index.tsx:35
 msgid "Opens the message settings page"
-msgstr ""
+msgstr "Membuka halaman pengaturan perpesanan"
 
 #: src/view/screens/Settings/index.tsx:788
 #: src/view/screens/Settings/index.tsx:798
@@ -3586,7 +3586,7 @@ msgstr "Hapus kata yang dibisukan dari daftar Anda"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:208
 msgid "Remove quote"
-msgstr ""
+msgstr "Hapus kutipan"
 
 #: src/view/com/modals/Repost.tsx:48
 msgid "Remove repost"
@@ -3615,7 +3615,7 @@ msgstr "Menghapus gambar pra tinjau bawaan dari {0}"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:209
 msgid "Removes quoted post"
-msgstr ""
+msgstr "Hapus kutipan postingan"
 
 #: src/view/screens/Profile.tsx:194
 msgid "Replies"
@@ -3915,7 +3915,7 @@ msgstr "Cari \"{query}\""
 
 #: src/view/screens/Search/Search.tsx:839
 msgid "Search for \"{searchText}\""
-msgstr ""
+msgstr "Cari \"{searchText}\""
 
 #: src/components/TagMenu/index.tsx:145
 msgid "Search for all posts by @{authorHandle} with tag {displayTag}"
@@ -5527,7 +5527,7 @@ msgstr "Anda tidak punya daftar."
 
 #: src/screens/Messages/List/index.tsx:92
 msgid "You have no messages yet. Start a conversation with someone!"
-msgstr ""
+msgstr "Anda belum memiliki pesan. Mulailah percakapan dengan seseorang!"
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:137
 msgid "You have not blocked any accounts yet. To block an account, go to their profile and select \"Block account\" from the menu on their account."
