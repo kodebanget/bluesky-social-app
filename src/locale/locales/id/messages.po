@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-08 04:48\n"
+"PO-Revision-Date: 2024-05-14 10:07\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -24,69 +24,69 @@ msgstr "(tidak ada email)"
 
 #: src/view/com/notifications/FeedItem.tsx:239
 msgid "{0, plural, one {{formattedCount} other} other {{formattedCount} others}}"
-msgstr ""
+msgstr "{0, plural, other {{formattedCount} lainnya}}"
 
 #: src/components/moderation/LabelsOnMe.tsx:57
 msgid "{0, plural, one {# label has been placed on this account} other {# labels has been placed on this account}}"
-msgstr ""
+msgstr "{0, plural, other {# label telah diterapkan pada akun ini}}"
 
 #: src/components/moderation/LabelsOnMe.tsx:63
 msgid "{0, plural, one {# label has been placed on this content} other {# labels has been placed on this content}}"
-msgstr ""
+msgstr "{0, plural, other {# label telah diterapkan pada konten ini}}"
 
 #: src/view/com/util/post-ctrls/RepostButton.tsx:61
 msgid "{0, plural, one {# repost} other {# reposts}}"
-msgstr ""
+msgstr "{0, plural, other {# postingan ulang}}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:373
 #: src/screens/Profile/Header/Metrics.tsx:23
 msgid "{0, plural, one {follower} other {followers}}"
-msgstr ""
+msgstr "{0, plural, other {pengikut}}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:377
 #: src/screens/Profile/Header/Metrics.tsx:27
 msgid "{0, plural, one {following} other {following}}"
-msgstr ""
+msgstr "{0, plural, other {mengikuti}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:245
 msgid "{0, plural, one {Like (# like)} other {Like (# likes)}}"
-msgstr ""
+msgstr "{0, plural, other {Suka(# menyukai)}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:359
 msgid "{0, plural, one {like} other {likes}}"
-msgstr ""
+msgstr "{0, plural, other {suka}}"
 
 #: src/view/com/feeds/FeedSourceCard.tsx:267
 msgid "{0, plural, one {Liked by # user} other {Liked by # users}}"
-msgstr ""
+msgstr "{0, plural, other {Disukai oleh # pengguna}}"
 
 #: src/screens/Profile/Header/Metrics.tsx:59
 msgid "{0, plural, one {post} other {posts}}"
-msgstr ""
+msgstr "{0, plural, other {postingan}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:204
 msgid "{0, plural, one {Reply (# reply)} other {Reply (# replies)}}"
-msgstr ""
+msgstr "{0, plural, other {Balas (# balasan)}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:339
 msgid "{0, plural, one {repost} other {reposts}}"
-msgstr ""
+msgstr "{0, plural, other {posting ulang}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:241
 msgid "{0, plural, one {Unlike (# like)} other {Unlike (# likes)}}"
-msgstr ""
+msgstr "{0, plural, other {Batal suka (# menyukai)}}"
 
 #: src/components/LabelingServiceCard/index.tsx:71
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
-msgstr ""
+msgstr "{count, plural, other {Disukai oleh # pengguna}}"
 
 #: src/screens/Deactivated.tsx:207
 msgid "{estimatedTimeHrs, plural, one {hour} other {hours}}"
-msgstr ""
+msgstr "{estimatedTimeHrs, plural, other {jam}}"
 
 #: src/screens/Deactivated.tsx:213
 msgid "{estimatedTimeMins, plural, one {minute} other {minutes}}"
-msgstr ""
+msgstr "{estimatedTimeMins, plural, other {menit}}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:454
 #: src/screens/Profile/Header/Metrics.tsx:50
@@ -97,7 +97,7 @@ msgstr "{following} mengikuti"
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:298
 #: src/view/screens/ProfileFeed.tsx:604
 msgid "{likeCount, plural, one {Liked by # user} other {Liked by # users}}"
-msgstr ""
+msgstr "{likeCount, plural, other {Disukai oleh # pengguna}}"
 
 #: src/view/shell/Drawer.tsx:464
 msgid "{numUnreadNotifications} unread"
@@ -105,7 +105,7 @@ msgstr "{numUnreadNotifications} belum dibaca"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:66
 msgid "{value, plural, =0 {Show all replies} one {Show replies with at least # like} other {Show replies with at least # likes}}"
-msgstr ""
+msgstr "{value, plural, =0 {Tampilkan semua balasan} other {Tampilkan balasan dengan minimal # suka}}"
 
 #: src/view/com/threadgate/WhoCanReply.tsx:159
 msgid "<0/> members"
@@ -113,11 +113,11 @@ msgstr "<0/> anggota"
 
 #: src/view/shell/Drawer.tsx:92
 msgid "<0>{0}</0> {1, plural, one {follower} other {followers}}"
-msgstr ""
+msgstr "<0>{0}</0> {1, plural, other {pengikut}}"
 
 #: src/view/shell/Drawer.tsx:103
 msgid "<0>{0}</0> {1, plural, one {following} other {following}}"
-msgstr ""
+msgstr "<0>{0}</0> {1, plural, other {mengikuti}}"
 
 #: src/view/shell/Drawer.tsx:96
 #~ msgid "<0>{0}</0> following"
@@ -142,7 +142,7 @@ msgstr ""
 
 #: src/view/com/modals/SelfLabel.tsx:134
 msgid "<0>Not Applicable.</0> This warning is only available for posts with media attached."
-msgstr ""
+msgstr "<0>Tidak bisa diterapkan.</0> Peringatan ini hanya tersedia untuk postingan dengan lampiran media."
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:21
 #~ msgid "<0>Welcome to</0><1>Bluesky</1>"
@@ -452,7 +452,7 @@ msgstr "Banding label \"{0}\""
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:193
 msgid "Appeal submitted"
-msgstr ""
+msgstr "Banding diajukan"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:193
 #~ msgid "Appeal submitted."
@@ -2303,7 +2303,7 @@ msgstr "Host:"
 #: src/screens/Signup/StepInfo/index.tsx:40
 #: src/view/com/modals/ChangeHandle.tsx:282
 msgid "Hosting provider"
-msgstr "Provider hosting"
+msgstr "Penyedia hosting"
 
 #: src/view/com/modals/InAppBrowserConsent.tsx:44
 msgid "How should we open this link?"
@@ -4770,7 +4770,7 @@ msgstr ""
 
 #: src/view/screens/Settings/index.tsx:896
 msgid "Status Page"
-msgstr ""
+msgstr "Halaman Status"
 
 #: src/screens/Signup/index.tsx:145
 #~ msgid "Step"
@@ -4778,7 +4778,7 @@ msgstr ""
 
 #: src/screens/Signup/index.tsx:154
 msgid "Step {0} of {1}"
-msgstr ""
+msgstr "Langkah {0} dari {1}"
 
 #: src/view/screens/Settings/index.tsx:301
 msgid "Storage cleared, you need to restart the app now."
@@ -4977,7 +4977,7 @@ msgstr "Ada masalah saat menghapus feed ini. Periksa koneksi internet Anda dan c
 
 #: src/view/screens/ProfileFeed.tsx:219
 msgid "There was an an issue updating your feeds, please check your internet connection and try again."
-msgstr "Ada masalah saat memperbarui feed Anda, periksa koneksi internet Anda dan coba lagi."
+msgstr "Ada masalah saat memperbarui feed Anda, periksa koneksi internet dan coba lagi."
 
 #: src/components/dialogs/GifSelect.tsx:201
 msgid "There was an issue connecting to Tenor."
@@ -5132,7 +5132,7 @@ msgstr "Ini penting jika Anda butuh untuk mengganti email atau reset kata sandi 
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:127
 msgid "This label was applied by <0>{0}</0>."
-msgstr ""
+msgstr "Label ini diterapkan oleh <0>{0}</0>."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
@@ -5280,7 +5280,7 @@ msgstr "Autentikasi dua faktor"
 
 #: src/screens/Messages/Conversation/MessageInput.tsx:80
 msgid "Type your message here"
-msgstr ""
+msgstr "Ketik pesan Anda di sini"
 
 #: src/view/com/modals/ChangeHandle.tsx:429
 msgid "Type:"
@@ -5561,7 +5561,7 @@ msgstr "Nilai:"
 
 #: src/view/com/modals/ChangeHandle.tsx:511
 msgid "Verify DNS Record"
-msgstr ""
+msgstr "Verifikasi Catatan DNS"
 
 #: src/view/screens/Settings/index.tsx:915
 msgid "Verify email"
@@ -5582,7 +5582,7 @@ msgstr "Verifikasi Email Baru"
 
 #: src/view/com/modals/ChangeHandle.tsx:512
 msgid "Verify Text File"
-msgstr ""
+msgstr "Verifikasi Berkas"
 
 #: src/view/com/modals/VerifyEmail.tsx:112
 msgid "Verify Your Email"
@@ -5594,7 +5594,7 @@ msgstr "Verifikasi Email Anda"
 
 #: src/view/screens/Settings/index.tsx:868
 msgid "Version {appVersion} {bundleInfo}"
-msgstr ""
+msgstr "Versi {appVersion} {bundleInfo}"
 
 #: src/screens/Onboarding/index.tsx:42
 msgid "Video Games"
@@ -5785,7 +5785,7 @@ msgstr "Lebar"
 #: src/screens/Messages/Conversation/MessageInput.tsx:81
 #: src/screens/Messages/Conversation/MessageInput.web.tsx:70
 msgid "Write a message"
-msgstr ""
+msgstr "Tulis pesan"
 
 #: src/view/com/composer/Composer.tsx:505
 msgid "Write post"
@@ -5812,7 +5812,7 @@ msgstr "Ya"
 
 #: src/components/dms/MessageItem.tsx:152
 msgid "Yesterday, {time}"
-msgstr ""
+msgstr "Kemarin, {time}"
 
 #: src/screens/Deactivated.tsx:136
 msgid "You are in line."
@@ -5949,7 +5949,7 @@ msgstr "Anda akan menerima email berisikan \"kode reset\". Masukkan kode tersebu
 
 #: src/screens/Messages/List/index.tsx:238
 msgid "You: {0}"
-msgstr ""
+msgstr "Anda: {0}"
 
 #: src/screens/Onboarding/StepModeration/index.tsx:60
 msgid "You're in control"
