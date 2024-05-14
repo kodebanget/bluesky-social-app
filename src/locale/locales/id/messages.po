@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-14 10:07\n"
+"PO-Revision-Date: 2024-05-14 17:06\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -262,7 +262,7 @@ msgstr "Tambahkan teks alt"
 
 #: src/view/com/composer/GifAltText.tsx:175
 msgid "Add ALT text"
-msgstr ""
+msgstr "Tambahkan teks ALT"
 
 #: src/view/screens/AppPasswords.tsx:104
 #: src/view/screens/AppPasswords.tsx:145
@@ -358,7 +358,7 @@ msgstr "Teks alt"
 
 #: src/view/com/util/post-embeds/GifEmbed.tsx:179
 msgid "Alt Text"
-msgstr ""
+msgstr "Teks Alt"
 
 #: src/view/com/composer/photos/Gallery.tsx:224
 msgid "Alt text describes images for blind and low-vision users, and helps give context to everyone."
@@ -379,7 +379,7 @@ msgstr "Terjadi kesalahan"
 
 #: src/components/dms/MessageMenu.tsx:132
 msgid "An error occurred while trying to delete the message. Please try again."
-msgstr ""
+msgstr "Terjadi kesalahan saat mencoba menghapus pesan. Harap coba lagi."
 
 #: src/lib/moderation/useReportOptions.ts:26
 msgid "An issue not included in these options"
@@ -396,7 +396,7 @@ msgstr "Terjadi masalah, silakan coba lagi."
 
 #: src/screens/Onboarding/StepInterests/index.tsx:194
 msgid "an unknown error occurred"
-msgstr ""
+msgstr "terjadi kesalahan tidak dikenal"
 
 #: src/view/com/notifications/FeedItem.tsx:236
 #: src/view/com/threadgate/WhoCanReply.tsx:180
@@ -468,7 +468,7 @@ msgstr "Anda yakin untuk menghapus kata sandi aplikasi \"{name}\"?"
 
 #: src/components/dms/MessageMenu.tsx:121
 msgid "Are you sure you want to delete this message? The message will be deleted for you, but not for other participants."
-msgstr ""
+msgstr "Anda yakin ingin menghapus pesan ini? Pesan akan dihapus untuk Anda, tetapi tidak dihapus untuk partisipan lainnya."
 
 #: src/components/dms/ConvoMenu.tsx:173
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for other participants."
@@ -543,7 +543,7 @@ msgstr "Blokir"
 #: src/components/dms/ConvoMenu.tsx:135
 #: src/components/dms/ConvoMenu.tsx:139
 msgid "Block account"
-msgstr ""
+msgstr "Blokir akun"
 
 #: src/view/com/profile/ProfileMenu.tsx:300
 #: src/view/com/profile/ProfileMenu.tsx:307
@@ -666,7 +666,7 @@ msgstr "Oleh {0}"
 
 #: src/screens/Onboarding/StepAlgoFeeds/FeedCard.tsx:112
 msgid "by @{0}"
-msgstr ""
+msgstr "oleh @{0}"
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:161
 msgid "by <0/>"
@@ -797,16 +797,16 @@ msgstr "Chat"
 
 #: src/components/dms/ConvoMenu.tsx:55
 msgid "Chat muted"
-msgstr ""
+msgstr "Chat dibisukan"
 
 #: src/components/dms/ConvoMenu.tsx:87
 #: src/components/dms/MessageMenu.tsx:69
 msgid "Chat settings"
-msgstr ""
+msgstr "Pengaturan chat"
 
 #: src/components/dms/ConvoMenu.tsx:65
 msgid "Chat unmuted"
-msgstr ""
+msgstr "Chat batal dibisukan"
 
 #: src/screens/Messages/Conversation/index.tsx:26
 #~ msgid "Chat with {chatId}"
@@ -1179,7 +1179,7 @@ msgstr "Salin tautan postingan"
 #: src/components/dms/MessageMenu.tsx:89
 #: src/components/dms/MessageMenu.tsx:91
 msgid "Copy message text"
-msgstr ""
+msgstr "Salin teks pesan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:256
 #: src/view/com/util/forms/PostDropdownBtn.tsx:258
@@ -1193,7 +1193,7 @@ msgstr "Kebijakan Hak Cipta"
 
 #: src/components/dms/ConvoMenu.tsx:79
 msgid "Could not leave chat"
-msgstr ""
+msgstr "Tidak dapat meninggalkan chat"
 
 #: src/view/screens/ProfileFeed.tsx:103
 msgid "Could not load feed"
@@ -1205,11 +1205,11 @@ msgstr "Tidak dapat memuat daftar"
 
 #: src/components/dms/NewChat.tsx:241
 msgid "Could not load profiles. Please try again later."
-msgstr ""
+msgstr "Tidak dapat memuat profil. Harap coba lagi nanti."
 
 #: src/components/dms/ConvoMenu.tsx:58
 msgid "Could not mute chat"
-msgstr ""
+msgstr "Tidak dapat membisukan chat"
 
 #: src/components/dms/ConvoMenu.tsx:68
 msgid "Could not unmute chat"
@@ -1318,7 +1318,7 @@ msgstr "Hapus akun"
 
 #: src/view/com/modals/DeleteAccount.tsx:87
 msgid "Delete Account <0>\"</0><1>{0}</1><2>\"</2>"
-msgstr ""
+msgstr "Hapus Akun <0>\"</0><1>{0}</1><2>\"</2>"
 
 #: src/view/screens/AppPasswords.tsx:239
 msgid "Delete app password"
@@ -1330,7 +1330,7 @@ msgstr "Hapus kata sandi aplikasi?"
 
 #: src/components/dms/MessageMenu.tsx:101
 msgid "Delete for me"
-msgstr ""
+msgstr "Hapus untuk saya"
 
 #: src/view/screens/ProfileList.tsx:417
 msgid "Delete List"
@@ -1338,7 +1338,7 @@ msgstr "Hapus Daftar"
 
 #: src/components/dms/MessageMenu.tsx:119
 msgid "Delete message"
-msgstr ""
+msgstr "Hapus pesan"
 
 #: src/components/dms/MessageMenu.tsx:99
 msgid "Delete message for me"
@@ -1382,7 +1382,7 @@ msgstr "Deskripsi"
 
 #: src/view/com/composer/GifAltText.tsx:140
 msgid "Descriptive alt text"
-msgstr ""
+msgstr "Teks alt deskriptif"
 
 #: src/view/com/composer/Composer.tsx:248
 msgid "Did you want to say anything?"
@@ -1851,7 +1851,7 @@ msgstr "Gagal membuat daftar. Periksa koneksi internet Anda dan coba lagi."
 
 #: src/components/dms/MessageMenu.tsx:130
 msgid "Failed to delete message"
-msgstr ""
+msgstr "Gagal menghapus pesan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:139
 msgid "Failed to delete post, please try again"
@@ -2167,11 +2167,11 @@ msgstr "Berikutnya"
 
 #: src/components/dms/ConvoMenu.tsx:114
 msgid "Go to profile"
-msgstr ""
+msgstr "Buka profil"
 
 #: src/components/dms/ConvoMenu.tsx:111
 msgid "Go to user's profile"
-msgstr ""
+msgstr "Buka profil pengguna"
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:46
 msgid "Graphic Media"
@@ -2742,7 +2742,7 @@ msgstr "Pesan dari server: {0}"
 
 #: src/screens/Messages/Conversation/MessageInput.tsx:79
 msgid "Message input field"
-msgstr ""
+msgstr "Kotak input pesan"
 
 #: src/screens/Messages/List/index.tsx:62
 #: src/screens/Messages/List/index.tsx:374
@@ -2877,7 +2877,7 @@ msgstr "Bisukan daftar"
 #: src/components/dms/ConvoMenu.tsx:119
 #: src/components/dms/ConvoMenu.tsx:125
 msgid "Mute notifications"
-msgstr ""
+msgstr "Bisukan notifikasi"
 
 #: src/view/screens/ProfileList.tsx:615
 msgid "Mute these accounts?"
@@ -3010,7 +3010,7 @@ msgstr "Baru"
 #: src/screens/Messages/List/index.tsx:384
 #: src/screens/Messages/List/index.tsx:392
 msgid "New chat"
-msgstr ""
+msgstr "Chat baru"
 
 #: src/view/com/modals/CreateOrEditList.tsx:255
 msgid "New Moderation List"
@@ -3110,7 +3110,7 @@ msgstr "Tidak lebih dari 253 karakter"
 #: src/screens/Messages/List/index.tsx:174
 #: src/screens/Messages/List/index.tsx:234
 msgid "No messages yet"
-msgstr ""
+msgstr "Belum ada pesan"
 
 #: src/view/com/notifications/Feed.tsx:110
 msgid "No notifications yet!"
@@ -3141,7 +3141,7 @@ msgstr "Tidak ada hasil pencarian yang ditemukan untuk \"{search}\"."
 
 #: src/components/dms/NewChat.tsx:240
 msgid "No search results found for \"{searchText}\"."
-msgstr ""
+msgstr "Tidak ada hasil pencarian yang ditemukan untuk \"{searchText}\"."
 
 #: src/components/dialogs/EmbedConsent.tsx:105
 #: src/components/dialogs/EmbedConsent.tsx:112
@@ -3612,7 +3612,7 @@ msgstr "Posting"
 #: src/view/com/post-thread/PostThread.tsx:295
 msgctxt "description"
 msgid "Post"
-msgstr "Posting"
+msgstr "Postingan"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:176
 msgid "Post by {0}"
@@ -3689,7 +3689,7 @@ msgstr "Tekan untuk mengulangi"
 #: src/screens/Messages/Conversation/MessagesList.tsx:47
 #: src/screens/Messages/Conversation/MessagesList.tsx:53
 msgid "Press to Retry"
-msgstr ""
+msgstr "Tekan untuk Mengulangi"
 
 #: src/view/com/lightbox/Lightbox.web.tsx:150
 msgid "Previous image"
@@ -3911,12 +3911,12 @@ msgstr "Membalas <0><1/></0>"
 
 #: src/components/dms/MessageMenu.tsx:109
 msgid "Report"
-msgstr ""
+msgstr "Laporkan"
 
 #: src/components/dms/ConvoMenu.tsx:146
 #: src/components/dms/ConvoMenu.tsx:150
 msgid "Report account"
-msgstr ""
+msgstr "Laporkan akun"
 
 #: src/view/com/profile/ProfileMenu.tsx:319
 #: src/view/com/profile/ProfileMenu.tsx:322
@@ -3938,7 +3938,7 @@ msgstr "Laporkan Daftar"
 
 #: src/components/dms/MessageMenu.tsx:107
 msgid "Report message"
-msgstr ""
+msgstr "Laporkan pesan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:363
 #: src/view/com/util/forms/PostDropdownBtn.tsx:365
@@ -4087,7 +4087,7 @@ msgstr "Ulangi"
 
 #: src/screens/Messages/Conversation/MessageListError.tsx:54
 msgid "Retry."
-msgstr ""
+msgstr "Ulangi."
 
 #: src/components/Error.tsx:98
 #: src/view/screens/ProfileList.tsx:913
@@ -4149,7 +4149,7 @@ msgstr "Feed Tersimpan"
 
 #: src/view/com/lightbox/Lightbox.tsx:81
 msgid "Saved to your camera roll"
-msgstr ""
+msgstr "Disimpan ke rol kamera Anda"
 
 #: src/view/com/lightbox/Lightbox.tsx:81
 #~ msgid "Saved to your camera roll."
@@ -4229,7 +4229,7 @@ msgstr "Cari GIF"
 
 #: src/components/dms/NewChat.tsx:183
 msgid "Search profiles"
-msgstr ""
+msgstr "Cari profil"
 
 #: src/components/dialogs/GifSelect.tsx:159
 msgid "Search Tenor"
@@ -4370,7 +4370,7 @@ msgstr "Kirim masukan"
 #: src/screens/Messages/Conversation/MessageInput.tsx:96
 #: src/screens/Messages/Conversation/MessageInput.web.tsx:80
 msgid "Send message"
-msgstr ""
+msgstr "Kirim pesan"
 
 #: src/components/ReportDialog/SubmitView.tsx:215
 #: src/components/ReportDialog/SubmitView.tsx:219
@@ -4531,7 +4531,7 @@ msgstr "Tampilkan"
 
 #: src/view/com/util/post-embeds/GifEmbed.tsx:167
 msgid "Show alt text"
-msgstr ""
+msgstr "Tampilkan teks alt"
 
 #: src/components/moderation/ScreenHider.tsx:169
 #: src/components/moderation/ScreenHider.tsx:172
@@ -4762,7 +4762,7 @@ msgstr "Persegi"
 
 #: src/components/dms/NewChat.tsx:178
 msgid "Start a new chat"
-msgstr ""
+msgstr "Mulai chat baru"
 
 #: src/view/screens/Settings/index.tsx:862
 #~ msgid "Status page"
@@ -5077,7 +5077,7 @@ msgstr "Banding ini akan dikirim ke <0>{0}</0>."
 
 #: src/screens/Messages/Conversation/MessageListError.tsx:26
 msgid "This chat was disconnected due to a network error."
-msgstr ""
+msgstr "Koneksi chat ini terputus akibat kesalahan pada jaringan."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:19
 msgid "This content has been hidden by the moderators."
