@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-15 05:10\n"
+"PO-Revision-Date: 2024-05-15 14:37\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -50,7 +50,7 @@ msgstr "{0, plural, other {mengikuti}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:245
 msgid "{0, plural, one {Like (# like)} other {Like (# likes)}}"
-msgstr "{0, plural, other {Suka(# menyukai)}}"
+msgstr "{0, plural, other {Suka (# suka)}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:359
 msgid "{0, plural, one {like} other {likes}}"
