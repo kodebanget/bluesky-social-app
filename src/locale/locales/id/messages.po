@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-15 14:37\n"
+"PO-Revision-Date: 2024-05-17 15:36\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -50,7 +50,7 @@ msgstr "{0, plural, other {mengikuti}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:245
 msgid "{0, plural, one {Like (# like)} other {Like (# likes)}}"
-msgstr "{0, plural, other {Suka (# suka)}}"
+msgstr "{0, plural, other {Suka (# menyukai)}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:359
 msgid "{0, plural, one {like} other {likes}}"
@@ -293,7 +293,7 @@ msgstr "Tambah kata dan tagar untuk dibisukan"
 
 #: src/screens/Home/NoFeedsPinned.tsx:112
 msgid "Add recommended feeds"
-msgstr ""
+msgstr "Tambahkan feed yang direkomendasikan"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:43
 msgid "Add the default feed of only people you follow"
@@ -669,7 +669,7 @@ msgstr "Buku"
 #: src/screens/Home/NoFeedsPinned.tsx:116
 #: src/screens/Home/NoFeedsPinned.tsx:123
 msgid "Browse other feeds"
-msgstr ""
+msgstr "Telusuri feed lain"
 
 #: src/view/com/auth/SplashScreen.web.tsx:151
 msgid "Business"
@@ -920,7 +920,7 @@ msgstr "klik di sini"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:46
 msgid "Click here to add one."
-msgstr ""
+msgstr "Klik di sini untuk menambahkan."
 
 #: src/components/TagMenu/index.web.tsx:138
 msgid "Click here to open tag menu for {tag}"
@@ -2604,7 +2604,7 @@ msgstr ""
 #: src/components/dms/ConvoMenu.tsx:177
 #: src/components/dms/ConvoMenu.tsx:187
 msgid "Leave conversation"
-msgstr ""
+msgstr "Tinggalkan percakapan"
 
 #: src/view/com/modals/lang-settings/ContentLanguagesSettings.tsx:82
 msgid "Leave them all unchecked to see any language."
@@ -2775,11 +2775,11 @@ msgstr "Seperti XXXXX-XXXXX"
 
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:39
 msgid "Looks like you haven't saved any feeds! Use our recommendations or browse more below."
-msgstr ""
+msgstr "Sepertinya Anda belum menyimpan feed apa pun! Gunakan rekomendasi kami atau telusuri lebih banyak di bawah ini."
 
 #: src/screens/Home/NoFeedsPinned.tsx:96
 msgid "Looks like you unpinned all your feeds. But don't worry, you can add some below 😄"
-msgstr ""
+msgstr "Sepertinya Anda menghapus semua feed tersemat. Tapi jangan khawatir, Anda dapat menambahkan beberapa di bawah ini 😄"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:38
 msgid "Looks like you're missing a following feed."
@@ -3734,12 +3734,12 @@ msgstr "Postingan disembunyikan"
 #: src/components/moderation/ModerationDetailsDialog.tsx:97
 #: src/lib/moderation/useModerationCauseDescription.ts:99
 msgid "Post Hidden by Muted Word"
-msgstr "Postingan Disembunyikan oleh Kata yang Dibisukan"
+msgstr "Disembunyikan oleh Kata yang Dibisukan"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:100
 #: src/lib/moderation/useModerationCauseDescription.ts:108
 msgid "Post Hidden by You"
-msgstr "Postingan Disembunyikan oleh Anda"
+msgstr "Postingan yang Anda sembunyikan"
 
 #: src/view/com/composer/select-language/SelectLangBtn.tsx:87
 msgid "Post language"
@@ -3838,7 +3838,7 @@ msgstr "Profil diperbarui"
 
 #: src/view/screens/Settings/index.tsx:954
 msgid "Protect your account by verifying your email."
-msgstr "Amankan akun Anda dengan memverifikasi email Anda."
+msgstr "Verifikasi email untuk mengamankan akun Anda."
 
 #: src/screens/Onboarding/StepFinished.tsx:204
 msgid "Public"
@@ -6250,7 +6250,7 @@ msgstr "Balasan Anda telah dipublikasikan"
 
 #: src/components/dms/MessageReportDialog.tsx:140
 msgid "Your report will be sent to the Bluesky Moderation Service"
-msgstr ""
+msgstr "Laporan Anda akan dikirim ke Layanan Moderasi Bluesky"
 
 #: src/screens/Signup/index.tsx:166
 msgid "Your user handle"
