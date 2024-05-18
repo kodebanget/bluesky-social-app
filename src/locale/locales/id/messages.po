@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-17 21:33\n"
+"PO-Revision-Date: 2024-05-18 03:41\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -113,7 +113,7 @@ msgstr "{value, plural, =0 {Tampilkan semua balasan} other {Tampilkan balasan de
 
 #: src/view/com/threadgate/WhoCanReply.tsx:159
 msgid "<0/> members"
-msgstr "<0/> anggota"
+msgstr "anggota <0/>"
 
 #: src/view/shell/Drawer.tsx:101
 msgid "<0>{0}</0> {1, plural, one {follower} other {followers}}"
@@ -490,7 +490,7 @@ msgstr "Anda yakin ingin menghapus pesan ini? Pesan akan dihapus untuk Anda, tet
 
 #: src/components/dms/ConvoMenu.tsx:189
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for other participants."
-msgstr ""
+msgstr "Apakah Anda yakin ingin meninggalkan percakapan ini? Pesan Anda akan dihapus untuk Anda, tetapi tidak untuk partisipan lain."
 
 #: src/view/com/feeds/FeedSourceCard.tsx:282
 msgid "Are you sure you want to remove {0} from your feeds?"
@@ -1038,7 +1038,7 @@ msgstr "Konfigurasikan pengaturan penyaringan konten untuk kategori: {name}"
 
 #: src/components/moderation/LabelPreference.tsx:244
 msgid "Configured in <0>moderation settings</0>."
-msgstr "Diatur pada <0>pengaturan moderasi</0>."
+msgstr "Dikonfigurasi dalam <0>pengaturan moderasi</0>."
 
 #: src/components/Prompt.tsx:159
 #: src/components/Prompt.tsx:162
@@ -1067,7 +1067,7 @@ msgstr "Konfirmasi hapus akun"
 
 #: src/screens/Moderation/index.tsx:301
 msgid "Confirm your age:"
-msgstr "Konfirmasikan usia Anda:"
+msgstr "Konfirmasi usia Anda:"
 
 #: src/screens/Moderation/index.tsx:292
 msgid "Confirm your birthdate"
@@ -1435,7 +1435,7 @@ msgstr "Nonaktifkan pemutaran otomatis untuk GIF"
 
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:90
 msgid "Disable Email 2FA"
-msgstr "Nonaktfikan Email 2FA"
+msgstr "Nonaktifkan Email 2FA"
 
 #: src/view/screens/AccessibilitySettings.tsx:108
 msgid "Disable haptic feedback"
@@ -2073,7 +2073,7 @@ msgstr "Diikuti oleh {0}"
 
 #: src/view/com/modals/Threadgate.tsx:98
 msgid "Followed users"
-msgstr "Pengguna yang diikuti"
+msgstr "Pengguna yang Anda ikuti"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:153
 msgid "Followed users only"
@@ -2268,7 +2268,7 @@ msgstr "Bantuan"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:231
 msgid "Help people know you're not a bot by uploading a picture or creating an avatar."
-msgstr ""
+msgstr "Beri tahu orang-orang bahwa Anda bukan bot dengan mengunggah gambar atau membuat avatar."
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:140
 msgid "Here are some accounts for you to follow"
@@ -2809,7 +2809,7 @@ msgstr "pengguna yang disebutkan"
 
 #: src/view/com/modals/Threadgate.tsx:93
 msgid "Mentioned users"
-msgstr "Pengguna yang disebutkan"
+msgstr "Pengguna yang Anda sebut"
 
 #: src/view/com/util/ViewHeader.tsx:89
 #: src/view/screens/Search/Search.tsx:649
@@ -3341,7 +3341,7 @@ msgstr "Hanya mendukung file .jpg dan .png"
 
 #: src/view/com/threadgate/WhoCanReply.tsx:100
 msgid "Only {0} can reply."
-msgstr "Hanya {0} dapat membalas."
+msgstr "Hanya {0} yang dapat membalas."
 
 #: src/screens/Signup/StepHandle.tsx:98
 msgid "Only contains letters, numbers, and hyphens"
@@ -3684,7 +3684,7 @@ msgstr "Jelaskan menurut Anda mengapa {0} salah menerapkan label ini"
 
 #: src/lib/hooks/useAccountSwitcher.ts:48
 msgid "Please sign in as @{0}"
-msgstr ""
+msgstr "Silakan masuk sebagai @{0}"
 
 #: src/view/com/modals/VerifyEmail.tsx:109
 msgid "Please Verify Your Email"
@@ -5406,7 +5406,7 @@ msgstr "Untuk menonaktifkan metode 2FA email, silakan verifikasi akses Anda ke a
 
 #: src/components/dms/ConvoMenu.tsx:200
 msgid "To report a conversation, please report one of its messages via the conversation screen. This lets our moderators understand the context of your issue."
-msgstr ""
+msgstr "Untuk melaporkan percakapan, silakan laporkan salah satu pesannya melalui laman percakapan. Ini akan membantu moderator kami memahami konteks masalah Anda."
 
 #: src/components/ReportDialog/SelectLabelerView.tsx:33
 msgid "To whom would you like to send this report?"
@@ -5729,7 +5729,7 @@ msgstr "pengguna yang diikuti <0/>"
 
 #: src/view/com/modals/Threadgate.tsx:106
 msgid "Users in \"{0}\""
-msgstr "Pengguna di \"{0}\""
+msgstr "Pengguna di daftar \"{0}\""
 
 #: src/components/LikesDialog.tsx:85
 msgid "Users that have liked this content or profile"
