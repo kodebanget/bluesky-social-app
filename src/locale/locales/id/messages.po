@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-18 03:41\n"
+"PO-Revision-Date: 2024-05-18 09:41\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -78,7 +78,7 @@ msgstr "{0, plural, other {Batal suka (# menyukai)}}"
 
 #: src/view/screens/ProfileList.tsx:286
 msgid "{0} your feeds"
-msgstr ""
+msgstr "{0} feed Anda"
 
 #: src/components/LabelingServiceCard/index.tsx:71
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
@@ -297,7 +297,7 @@ msgstr "Tambahkan feed rekomendasi"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:43
 msgid "Add the default feed of only people you follow"
-msgstr ""
+msgstr "Tambahkan feed bawaan hanya dari orang yang Anda ikuti"
 
 #: src/view/com/modals/ChangeHandle.tsx:410
 msgid "Add the following DNS record to your domain:"
@@ -478,7 +478,7 @@ msgstr "Tampilan"
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:47
 #: src/screens/Home/NoFeedsPinned.tsx:106
 msgid "Apply default recommended feeds"
-msgstr "Tambahkan feed bawaan yang direkomendasikan"
+msgstr "Terapkan feed yang direkomendasikan secara default"
 
 #: src/view/screens/AppPasswords.tsx:265
 msgid "Are you sure you want to delete the app password \"{name}\"?"
@@ -633,7 +633,7 @@ msgstr "Bluesky"
 
 #: src/view/com/auth/server-input/index.tsx:154
 msgid "Bluesky is an open network where you can choose your hosting provider. Custom hosting is now available in beta for developers."
-msgstr "Bluesky adalah jaringan terbuka yang memungkinkan Anda memilih penyedia hosting Anda. Hosting khusus kini tersedia dalam versi beta untuk pengembang."
+msgstr "Bluesky adalah jaringan terbuka di mana Anda dapat memilih penyedia hosting Anda. Hosting kustom kini tersedia dalam versi beta untuk pengembang."
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:80
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:82
@@ -866,7 +866,7 @@ msgstr "Pilih Layanan"
 
 #: src/screens/Onboarding/StepFinished.tsx:238
 msgid "Choose the algorithms that power your custom feeds."
-msgstr "Pilih algoritma yang akan digunakan untuk feed khusus Anda."
+msgstr "Pilih algoritma yang akan digunakan untuk feed kustom Anda."
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:83
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:85
@@ -1038,7 +1038,7 @@ msgstr "Konfigurasikan pengaturan penyaringan konten untuk kategori: {name}"
 
 #: src/components/moderation/LabelPreference.tsx:244
 msgid "Configured in <0>moderation settings</0>."
-msgstr "Dikonfigurasi dalam <0>pengaturan moderasi</0>."
+msgstr "Diatur pada <0>pengaturan moderasi</0>."
 
 #: src/components/Prompt.tsx:159
 #: src/components/Prompt.tsx:162
@@ -1126,7 +1126,7 @@ msgstr "Peringatan konten"
 
 #: src/components/Menu/index.web.tsx:83
 msgid "Context menu backdrop, click to close the menu."
-msgstr "Latar belakang menu konteks, klik untuk menutup menu."
+msgstr "Latar menu konteks, klik untuk menutup menu."
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:161
 #: src/screens/Onboarding/StepFollowingFeed.tsx:154
@@ -1139,7 +1139,7 @@ msgstr "Lanjutkan"
 
 #: src/components/AccountList.tsx:113
 msgid "Continue as {0} (currently signed in)"
-msgstr "Lanjutkan sebagai {0} (saat ini masuk)"
+msgstr "Lanjutkan sebagai {0} (sudah masuk)"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:151
 #: src/screens/Onboarding/StepInterests/index.tsx:260
@@ -1307,7 +1307,7 @@ msgstr "Domain kustom"
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:107
 #: src/view/screens/Feeds.tsx:823
 msgid "Custom feeds built by the community bring you new experiences and help you find the content you love."
-msgstr "Feed khusus yang dibuat oleh komunitas memberikan pengalaman baru dan membantu Anda menemukan konten yang Anda sukai."
+msgstr "Feed kustom yang dibangun oleh komunitas memberikan pengalaman baru dan membantu Anda menemukan konten yang Anda sukai."
 
 #: src/view/screens/PreferencesExternalEmbeds.tsx:56
 msgid "Customize media from external sites."
@@ -1472,7 +1472,7 @@ msgstr "Cegah aplikasi untuk menampilkan akun saya ke pengguna yang tidak login"
 #: src/view/com/posts/FollowingEmptyState.tsx:74
 #: src/view/com/posts/FollowingEndOfFeed.tsx:75
 msgid "Discover new custom feeds"
-msgstr "Temukan feed khusus baru"
+msgstr "Temukan feed kustom baru"
 
 #: src/view/screens/Feeds.tsx:820
 msgid "Discover New Feeds"
@@ -1908,7 +1908,7 @@ msgstr "Gagal memuat GIF"
 
 #: src/screens/Messages/Conversation/MessageListError.tsx:28
 msgid "Failed to load past messages."
-msgstr ""
+msgstr "Gagal memuat pesan sebelumnya."
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:110
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:143
@@ -1921,7 +1921,7 @@ msgstr "Gagal menyimpan gambar: {0}"
 
 #: src/screens/Messages/Conversation/MessageListError.tsx:29
 msgid "Failed to send message(s)."
-msgstr ""
+msgstr "Gagal mengirim pesan."
 
 #: src/Navigation.tsx:203
 msgid "Feed"
@@ -1957,7 +1957,7 @@ msgstr "Feed"
 
 #: src/view/screens/SavedFeeds.tsx:179
 msgid "Feeds are custom algorithms that users build with a little coding expertise. <0/> for more information."
-msgstr "Feed adalah algoritma khusus yang dibuat oleh pengguna dengan sedikit keahlian pengkodean. <0/> untuk informasi lebih lanjut."
+msgstr "Feeds adalah algoritma kustom yang dibuat pengguna dengan sedikit keahlian pemrograman. <0/> untuk informasi lebih lanjut."
 
 #: src/screens/Onboarding/StepTopicalFeeds.tsx:80
 msgid "Feeds can be topical as well!"
@@ -2672,7 +2672,7 @@ msgstr "Disukai Oleh"
 
 #: src/view/com/notifications/FeedItem.tsx:168
 msgid "liked your custom feed"
-msgstr "menyukai feed khusus Anda"
+msgstr "menyukai feed kustom Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:153
 msgid "liked your post"
@@ -3018,7 +3018,7 @@ msgstr "Kata & tagar yang dibisukan"
 
 #: src/view/screens/ProfileList.tsx:670
 msgid "Muting is private. Muted accounts can interact with you, but you will not see their posts or receive notifications from them."
-msgstr "Pembisuan akun bersifat privat. Akun yang dibisukan tetap dapat berinteraksi dengan Anda, namun Anda tidak akan melihat postingan atau notifikasi dari mereka."
+msgstr "Pembisuan bersifat privat. Akun yang dibisukan tetap dapat berinteraksi dengan Anda, tetapi Anda tidak akan melihat postingan atau notifikasi dari mereka."
 
 #: src/components/dialogs/BirthDateSettings.tsx:35
 #: src/components/dialogs/BirthDateSettings.tsx:38
@@ -3463,7 +3463,7 @@ msgstr "Membuka modal untuk mengubah kata sandi Bluesky Anda"
 
 #: src/view/screens/Settings/index.tsx:686
 msgid "Opens modal for choosing a new Bluesky handle"
-msgstr "Buka modal untuk memilih handle baru Bluesky"
+msgstr "Membuka modal untuk memilih handle baru Bluesky"
 
 #: src/view/screens/Settings/index.tsx:754
 msgid "Opens modal for downloading your Bluesky account data (repository)"
@@ -3846,7 +3846,7 @@ msgstr "Publik"
 
 #: src/view/screens/ModerationModlists.tsx:61
 msgid "Public, shareable lists of users to mute or block in bulk."
-msgstr "Daftar publik yang dapat dibagikan oleh pengguna untuk dibisukan atau diblokir secara massal."
+msgstr "Daftar publik yang dapat dibagikan untuk memblokir atau membisukan pengguna secara massal."
 
 #: src/view/screens/Lists.tsx:61
 msgid "Public, shareable lists which can drive feeds."
@@ -4267,7 +4267,7 @@ msgstr "Simpan potongan gambar"
 #: src/view/screens/ProfileFeed.tsx:331
 #: src/view/screens/ProfileFeed.tsx:337
 msgid "Save to my feeds"
-msgstr "Tambakan ke feed saya"
+msgstr "Simpan ke feed saya"
 
 #: src/view/screens/SavedFeeds.tsx:144
 msgid "Saved Feeds"
@@ -4409,7 +4409,7 @@ msgstr "Pilih akun"
 
 #: src/screens/Onboarding/StepProfile/AvatarCircle.tsx:66
 msgid "Select an avatar"
-msgstr ""
+msgstr "Pilih avatar"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:65
 msgid "Select an emoji"
@@ -4626,7 +4626,7 @@ msgstr "Aktivitas seksual atau ketelanjangan erotis."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:38
 msgid "Sexually Suggestive"
-msgstr "Mengarah ke Seksualitas"
+msgstr "Bermuatan Seksual"
 
 #: src/view/com/lightbox/Lightbox.tsx:142
 msgctxt "action"
@@ -4694,7 +4694,7 @@ msgstr "Tampilkan lencana dan saring dari feed"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:200
 msgid "Show follows similar to {0}"
-msgstr "Tampilkan berikut ini mirip dengan {0}"
+msgstr "Tampilkan pengguna lain yang serupa dengan {0}"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:305
 #: src/view/com/util/forms/PostDropdownBtn.tsx:307
@@ -4946,7 +4946,7 @@ msgstr "Kirim"
 
 #: src/view/screens/ProfileList.tsx:639
 msgid "Subscribe"
-msgstr "Langganan"
+msgstr "Berlangganan"
 
 #: src/screens/Profile/Sections/Labels.tsx:194
 msgid "Subscribe to @{0} to use these labels:"
@@ -4959,7 +4959,7 @@ msgstr "Berlangganan Pelabel"
 #: src/screens/Onboarding/StepAlgoFeeds/FeedCard.tsx:172
 #: src/screens/Onboarding/StepAlgoFeeds/FeedCard.tsx:307
 msgid "Subscribe to the {0} feed"
-msgstr "Langganan ke feed {0}"
+msgstr "Berlangganan ke feed {0}"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:193
 msgid "Subscribe to this labeler"
@@ -4967,7 +4967,7 @@ msgstr "Berlangganan pelabel ini"
 
 #: src/view/screens/ProfileList.tsx:635
 msgid "Subscribe to this list"
-msgstr "Langganan ke daftar ini"
+msgstr "Berlangganan ke daftar ini"
 
 #: src/view/screens/Search/Search.tsx:417
 msgid "Suggested Follows"
@@ -5224,7 +5224,7 @@ msgstr "Berikut adalah akun populer yang mungkin Anda sukai:"
 
 #: src/components/moderation/ScreenHider.tsx:116
 msgid "This {screenDescription} has been flagged:"
-msgstr "Ini {screenDescription} telah ditandai:"
+msgstr "{screenDescription} ini telah ditandai:"
 
 #: src/components/moderation/ScreenHider.tsx:111
 msgid "This account has requested that users sign in to view their profile."
@@ -5307,7 +5307,7 @@ msgstr "Label ini diterapkan oleh Anda"
 
 #: src/screens/Profile/Sections/Labels.tsx:181
 msgid "This labeler hasn't declared what labels it publishes, and may not be active."
-msgstr "Pelabel ini belum menyatakan label yang dia publikasikan, dan mungkin tidak aktif."
+msgstr "Pelabel ini belum menyatakan label apa yang diterbitkannya, dan mungkin tidak aktif."
 
 #: src/view/com/modals/LinkWarning.tsx:72
 msgid "This link is taking you to the following website:"
@@ -5361,7 +5361,7 @@ msgstr "Pengguna ini telah memblokir Anda. Anda tidak dapat melihat konten merek
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:30
 msgid "This user has requested that their content only be shown to signed-in users."
-msgstr "Pengguna ini telah meminta agar kontennya hanya ditampilkan ke pengguna yang masuk."
+msgstr "Pengguna ini telah meminta agar kontennya hanya ditampilkan kepada pengguna yang sudah masuk."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:55
 msgid "This user is included in the <0>{0}</0> list which you have blocked."
@@ -5494,7 +5494,7 @@ msgstr "Buka blokir Akun"
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:280
 #: src/view/com/profile/ProfileMenu.tsx:343
 msgid "Unblock Account?"
-msgstr "Buka blokir Akun?"
+msgstr "Buka Blokir Akun?"
 
 #: src/view/com/modals/Repost.tsx:43
 #: src/view/com/modals/Repost.tsx:56
@@ -5563,7 +5563,7 @@ msgstr "Lepas sematan"
 
 #: src/view/screens/ProfileFeed.tsx:287
 msgid "Unpin from home"
-msgstr "Batal sematkan dari beranda"
+msgstr "Lepaskan sematan dari beranda"
 
 #: src/view/screens/ProfileList.tsx:495
 msgid "Unpin moderation list"
@@ -5852,7 +5852,7 @@ msgstr "Kami tidak dapat menemukan hasil apa pun untuk tagar tersebut."
 
 #: src/screens/Messages/Conversation/index.tsx:90
 msgid "We couldn't load this conversation"
-msgstr ""
+msgstr "Kami tidak dapat memuat percakapan ini"
 
 #: src/screens/Deactivated.tsx:139
 msgid "We estimate {estimatedTime} until your account is ready."
@@ -6021,7 +6021,7 @@ msgstr "Anda tidak mengikuti siapa pun."
 #: src/view/com/posts/FollowingEmptyState.tsx:67
 #: src/view/com/posts/FollowingEndOfFeed.tsx:68
 msgid "You can also discover new Custom Feeds to follow."
-msgstr "Anda juga dapat menemukan Feed Khusus baru untuk diikuti."
+msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 msgid "You can change these settings later."
@@ -6133,7 +6133,7 @@ msgstr "Anda harus berusia 18 tahun atau lebih untuk mengaktifkan konten dewasa"
 
 #: src/components/ReportDialog/SubmitView.tsx:205
 msgid "You must select at least one labeler for a report"
-msgstr "Anda harus memilih setidaknya satu pelabel untuk laporan"
+msgstr "Anda harus memilih setidaknya satu pelabel untuk sebuah laporan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:158
 msgid "You will no longer receive notifications for this thread"
@@ -6238,7 +6238,7 @@ msgstr "Postingan Anda telah dipublikasikan"
 
 #: src/screens/Onboarding/StepFinished.tsx:208
 msgid "Your posts, likes, and blocks are public. Mutes are private."
-msgstr "Postingan, suka, dan blokir Anda bersifat publik. Bisukan bersifat privat."
+msgstr "Postingan, suka, dan pemblokiran Anda bersifat publik. Sedangkan pembisuan bersifat privat."
 
 #: src/view/screens/Settings/index.tsx:145
 msgid "Your profile"
