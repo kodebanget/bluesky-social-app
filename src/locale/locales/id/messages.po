@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-18 09:41\n"
+"PO-Revision-Date: 2024-05-21 04:18\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1268,7 +1268,7 @@ msgstr "Buat akun"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:286
 msgid "Create an avatar instead"
-msgstr ""
+msgstr "Buat avatar saja"
 
 #: src/view/com/modals/AddAppPasswords.tsx:227
 msgid "Create App Password"
@@ -2172,7 +2172,7 @@ msgstr "Memulai"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:228
 msgid "Give your profile a face"
-msgstr ""
+msgstr "Tambahkan profil Anda sebuah wajah"
 
 #: src/lib/moderation/useReportOptions.ts:38
 msgid "Glaring violations of law or terms of service"
@@ -2598,7 +2598,7 @@ msgstr "Pelajari lebih lanjut."
 
 #: src/components/dms/ConvoMenu.tsx:191
 msgid "Leave"
-msgstr ""
+msgstr "Tinggalkan"
 
 #: src/components/dms/ConvoMenu.tsx:174
 #: src/components/dms/ConvoMenu.tsx:177
@@ -2783,7 +2783,7 @@ msgstr "Sepertinya Anda menghapus semua feed tersemat. Tapi jangan khawatir, And
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:38
 msgid "Looks like you're missing a following feed."
-msgstr ""
+msgstr "Sepertinya Anda kehilangan feed yang Anda ikuti."
 
 #: src/view/com/modals/LinkWarning.tsx:79
 msgid "Make sure this is where you intend to go!"
@@ -2796,7 +2796,7 @@ msgstr "Kelola kata dan tagar yang dibisukan"
 #: src/components/dms/ConvoMenu.tsx:115
 #: src/components/dms/ConvoMenu.tsx:122
 msgid "Mark as read"
-msgstr ""
+msgstr "Tandai telah dibaca"
 
 #: src/view/screens/AccessibilitySettings.tsx:89
 #: src/view/screens/Profile.tsx:195
@@ -3287,7 +3287,7 @@ msgstr "Notifikasi"
 
 #: src/components/dms/MessageItem.tsx:145
 msgid "Now"
-msgstr ""
+msgstr "Sekarang"
 
 #: src/view/com/modals/SelfLabel.tsx:104
 msgid "Nudity"
@@ -3363,7 +3363,7 @@ msgstr "Buka"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:280
 msgid "Open avatar creator"
-msgstr ""
+msgstr "Buka pembuat avatar"
 
 #: src/view/com/composer/Composer.tsx:555
 #: src/view/com/composer/Composer.tsx:556
@@ -4868,7 +4868,7 @@ msgstr "Pengembang Perangkat Lunak"
 
 #: src/screens/Messages/Conversation/index.tsx:89
 msgid "Something went wrong"
-msgstr ""
+msgstr "Sepertinya ada yang salah"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
@@ -5142,7 +5142,7 @@ msgstr "Ada masalah saat menghubungkan ke Tenor."
 
 #: src/screens/Messages/Conversation/MessageListError.tsx:23
 msgid "There was an issue connecting to the chat."
-msgstr ""
+msgstr "Ada masalah saat menyambung ke chat."
 
 #: src/view/screens/ProfileFeed.tsx:233
 #: src/view/screens/ProfileList.tsx:298
@@ -5299,7 +5299,7 @@ msgstr "Label ini diterapkan oleh <0>{0}</0>."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
-msgstr ""
+msgstr "Label ini diterapkan oleh pembuat label."
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:165
 msgid "This label was applied by you"
@@ -5549,7 +5549,7 @@ msgstr "Batal bisukan semua postingan {displayTag}"
 
 #: src/components/dms/ConvoMenu.tsx:140
 msgid "Unmute notifications"
-msgstr ""
+msgstr "Bunyikan notifikasi"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:321
 #: src/view/com/util/forms/PostDropdownBtn.tsx:326
@@ -5600,7 +5600,7 @@ msgstr "Memperbarui..."
 
 #: src/screens/Onboarding/StepProfile/index.tsx:284
 msgid "Upload a photo instead"
-msgstr ""
+msgstr "Unggah foto saja"
 
 #: src/view/com/modals/ChangeHandle.tsx:448
 msgid "Upload a text file to:"
