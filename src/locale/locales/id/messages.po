@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-21 23:12\n"
+"PO-Revision-Date: 2024-05-22 05:38\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -224,7 +224,7 @@ msgstr "Akun Dibisukan"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:82
 msgid "Account Muted by List"
-msgstr "Akun Dibisukan Berdasarkan Daftar"
+msgstr "Akun Dibisukan oleh Daftar"
 
 #: src/view/com/util/AccountDropdownBtn.tsx:41
 msgid "Account options"
@@ -426,7 +426,7 @@ msgstr "Terjadi masalah, silakan coba lagi."
 
 #: src/screens/Onboarding/StepInterests/index.tsx:204
 msgid "an unknown error occurred"
-msgstr "terjadi kesalahan tidak dikenal"
+msgstr "terjadi kesalahan yang tidak diketahui"
 
 #: src/view/com/notifications/FeedItem.tsx:236
 #: src/view/com/threadgate/WhoCanReply.tsx:180
@@ -503,7 +503,7 @@ msgstr "Tampilan"
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:47
 #: src/screens/Home/NoFeedsPinned.tsx:106
 msgid "Apply default recommended feeds"
-msgstr "Terapkan feed yang direkomendasikan secara default"
+msgstr "Tambahkan feed yang direkomendasikan secara default"
 
 #: src/view/screens/AppPasswords.tsx:265
 msgid "Are you sure you want to delete the app password \"{name}\"?"
@@ -668,7 +668,7 @@ msgstr "Bluesky"
 
 #: src/view/com/auth/server-input/index.tsx:154
 msgid "Bluesky is an open network where you can choose your hosting provider. Custom hosting is now available in beta for developers."
-msgstr "Bluesky adalah jaringan terbuka di mana Anda dapat memilih penyedia hosting Anda. Hosting kustom kini tersedia dalam versi beta untuk pengembang."
+msgstr "Bluesky adalah jaringan terbuka di mana Anda dapat memilih penyedia hosting sendiri. Hosting kustom kini tersedia dalam versi beta untuk pengembang."
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:80
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:82
@@ -2955,7 +2955,7 @@ msgstr "Menu"
 
 #: src/components/dms/MessageProfileButton.tsx:67
 msgid "Message {0}"
-msgstr "Pesan {0}"
+msgstr "Kirim pesan ke {0}"
 
 #: src/components/dms/MessageMenu.tsx:58
 msgid "Message deleted"
@@ -3113,7 +3113,7 @@ msgstr "Bisukan daftar"
 
 #: src/view/screens/ProfileList.tsx:672
 msgid "Mute these accounts?"
-msgstr "Bisukan akun ini?"
+msgstr "Bisukan akun-akun ini?"
 
 #: src/components/dialogs/MutedWords.tsx:126
 msgid "Mute this word in post text and tags"
@@ -3152,7 +3152,7 @@ msgstr "Postingan dari akun yang dibisukan akan dihilangkan dari feed dan notifi
 
 #: src/lib/moderation/useModerationCauseDescription.ts:85
 msgid "Muted by \"{0}\""
-msgstr "Dibisukan dengan \"{0}\""
+msgstr "Dibisukan oleh \"{0}\""
 
 #: src/screens/Moderation/index.tsx:231
 msgid "Muted words & tags"
@@ -3441,7 +3441,7 @@ msgstr "Catatan: Bluesky merupakan jaringan terbuka dan publik. Pengaturan ini h
 
 #: src/screens/Messages/List/index.tsx:195
 msgid "Nothing here"
-msgstr "Tidak ada apa pun di sini"
+msgstr "Kosong"
 
 #: src/screens/Messages/Settings.tsx:108
 msgid "Notification sounds"
@@ -4115,7 +4115,7 @@ msgstr "Pencarian Terakhir"
 
 #: src/screens/Messages/Conversation/MessageListError.tsx:20
 msgid "Reconnect"
-msgstr "Hubungkan lagi"
+msgstr "Hubungkan kembali"
 
 #: src/screens/Messages/List/index.tsx:180
 msgid "Reload conversations"
@@ -4209,7 +4209,7 @@ msgstr "Menghapus gambar pra tinjau bawaan dari {0}"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:224
 msgid "Removes quoted post"
-msgstr "Hapus kutipan postingan"
+msgstr "Hapus postingan yang dikutip"
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:126
 #: src/view/com/posts/FeedShutdownMsg.tsx:130
@@ -4723,7 +4723,7 @@ msgstr "Pilih feed algoritma sekunder Anda"
 
 #: src/components/dms/ChatEmptyPill.tsx:38
 msgid "Send a neat website!"
-msgstr "Kirimkan situs web yang keren!"
+msgstr "Kirimkan situs web yang bagus!"
 
 #: src/view/com/modals/VerifyEmail.tsx:210
 #: src/view/com/modals/VerifyEmail.tsx:212
@@ -5174,7 +5174,7 @@ msgstr "Mulai obrolan dengan {displayName}"
 
 #: src/components/dms/MessagesNUX.tsx:161
 msgid "Start chatting"
-msgstr "Mulai obrolan"
+msgstr "Mulai mengobrol"
 
 #: src/view/screens/Settings/index.tsx:862
 #~ msgid "Status page"
@@ -5294,7 +5294,7 @@ msgstr "Teknologi"
 
 #: src/components/dms/ChatEmptyPill.tsx:35
 msgid "Tell a joke!"
-msgstr "Kirimkan lawakan!"
+msgstr "Ceritakan sebuah lelucon!"
 
 #: src/view/shell/desktop/RightNav.tsx:85
 msgid "Terms"
@@ -5596,7 +5596,7 @@ msgstr "Pelabel ini belum menyatakan label apa yang diterbitkannya, dan mungkin 
 
 #: src/view/com/modals/LinkWarning.tsx:72
 msgid "This link is taking you to the following website:"
-msgstr "Tautan ini akan membawa Anda ke situs web:"
+msgstr "Tautan ini akan membawa Anda ke situs web berikut:"
 
 #: src/view/screens/ProfileList.tsx:906
 msgid "This list is empty!"
@@ -5691,7 +5691,7 @@ msgstr "Preferensi Utas"
 
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:102
 msgid "To disable the email 2FA method, please verify your access to the email address."
-msgstr "Untuk menonaktifkan metode 2FA email, silakan verifikasi akses Anda ke alamat email."
+msgstr "Untuk menonaktifkan metode 2FA melalui email, silakan verifikasi akses Anda ke alamat email tersebut."
 
 #: src/components/dms/ReportConversationPrompt.tsx:20
 msgid "To report a conversation, please report one of its messages via the conversation screen. This lets our moderators understand the context of your issue."
@@ -5988,7 +5988,7 @@ msgstr "Pengguna diblokir oleh daftar"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:53
 msgid "User Blocked by List"
-msgstr "Pengguna Diblokir Berdasarkan Daftar"
+msgstr "Pengguna Diblokir oleh Daftar"
 
 #: src/lib/moderation/useModerationCauseDescription.ts:66
 msgid "User Blocking You"
@@ -6146,7 +6146,7 @@ msgstr "Lihat pengguna yang menyukai feed ini"
 #: src/view/com/modals/LinkWarning.tsx:89
 #: src/view/com/modals/LinkWarning.tsx:95
 msgid "Visit Site"
-msgstr "Kunjungi Halaman"
+msgstr "Kunjungi Situs"
 
 #: src/components/moderation/LabelPreference.tsx:135
 #: src/lib/moderation/useLabelBehaviorDescription.ts:17
@@ -6422,7 +6422,7 @@ msgstr "Anda telah membisukan pengguna ini"
 
 #: src/screens/Messages/List/index.tsx:205
 msgid "You have no conversations yet. Start one!"
-msgstr "Anda belum memiliki percakapan. Mari mulai!"
+msgstr "Anda belum melakukan percakapan. Mulai sekarang!"
 
 #: src/view/com/feeds/ProfileFeedgens.tsx:144
 msgid "You have no feeds."
