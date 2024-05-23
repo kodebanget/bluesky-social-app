@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-22 05:38\n"
+"PO-Revision-Date: 2024-05-23 09:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -503,7 +503,7 @@ msgstr "Tampilan"
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:47
 #: src/screens/Home/NoFeedsPinned.tsx:106
 msgid "Apply default recommended feeds"
-msgstr "Tambahkan feed yang direkomendasikan secara default"
+msgstr "Tambahkan feed bawaan yang direkomendasikan"
 
 #: src/view/screens/AppPasswords.tsx:265
 msgid "Are you sure you want to delete the app password \"{name}\"?"
@@ -2066,7 +2066,7 @@ msgstr "Feeds adalah algoritma kustom yang dibuat pengguna dengan sedikit keahli
 
 #: src/screens/Onboarding/StepTopicalFeeds.tsx:80
 msgid "Feeds can be topical as well!"
-msgstr "Feed juga bisa berdasarkan topik!"
+msgstr "Feed juga bisa bersifat topikal!"
 
 #: src/view/com/modals/ChangeHandle.tsx:475
 msgid "File Contents"
@@ -4699,7 +4699,7 @@ msgstr "Pilih bahasa yang ingin Anda sertakan dalam feed langganan Anda. Jika ti
 
 #: src/view/screens/LanguageSettings.tsx:98
 msgid "Select your app language for the default text to display in the app."
-msgstr "Pilih bahasa untuk teks default yang akan ditampilkan dalam aplikasi."
+msgstr "Pilih bahasa untuk teks bawaan yang akan ditampilkan dalam aplikasi."
 
 #: src/screens/Signup/StepInfo/index.tsx:135
 msgid "Select your date of birth"
