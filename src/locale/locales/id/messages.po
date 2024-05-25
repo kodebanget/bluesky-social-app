@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-25 04:48\n"
+"PO-Revision-Date: 2024-05-25 11:27\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -297,7 +297,7 @@ msgstr "Tambahkan Kata Sandi Aplikasi"
 
 #: src/components/dialogs/MutedWords.tsx:158
 msgid "Add mute word for configured settings"
-msgstr "Tambahkan kata yang akan dibisukan ke pengaturan terpilih"
+msgstr "Tambahkan kata untuk dibisukan dengan konfigurasi ini"
 
 #: src/components/dialogs/MutedWords.tsx:87
 msgid "Add muted words and tags"
@@ -363,7 +363,7 @@ msgstr "Berisi semua feed yang telah Anda simpan dalam satu tempat."
 #: src/view/com/modals/AddAppPasswords.tsx:188
 #: src/view/com/modals/AddAppPasswords.tsx:195
 msgid "Allow access to your direct messages"
-msgstr ""
+msgstr "Izinkan akses ke pesan langsung Anda"
 
 #: src/screens/Messages/Settings.tsx:61
 #: src/screens/Messages/Settings.tsx:64
@@ -373,7 +373,7 @@ msgstr ""
 #: src/screens/Messages/Settings.tsx:62
 #: src/screens/Messages/Settings.tsx:65
 msgid "Allow new messages from"
-msgstr ""
+msgstr "Izinkan pesan baru dari"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:178
 #: src/view/com/modals/ChangePassword.tsx:172
@@ -479,7 +479,7 @@ msgstr "Pengaturan kata sandi aplikasi"
 #: src/view/screens/AppPasswords.tsx:192
 #: src/view/screens/Settings/index.tsx:699
 msgid "App Passwords"
-msgstr "Kata sandi Aplikasi"
+msgstr "Kata Sandi Aplikasi"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:153
 #: src/components/moderation/LabelsOnMeDialog.tsx:156
@@ -880,7 +880,7 @@ msgstr "Pengaturan obrolan"
 #: src/screens/Messages/Settings.tsx:59
 #: src/view/screens/Settings/index.tsx:640
 msgid "Chat Settings"
-msgstr ""
+msgstr "Pengaturan Obrolan"
 
 #: src/components/dms/ConvoMenu.tsx:82
 msgid "Chat unmuted"
@@ -1489,7 +1489,7 @@ msgstr "Postingan dihapus."
 
 #: src/view/screens/Settings/index.tsx:861
 msgid "Deletes the chat declaration record"
-msgstr "Hapus catatan deklarasi obrolan"
+msgstr "Menghapus catatan deklarasi obrolan"
 
 #: src/view/com/modals/CreateOrEditList.tsx:303
 #: src/view/com/modals/CreateOrEditList.tsx:324
@@ -2288,7 +2288,7 @@ msgstr "Galeri"
 
 #: src/components/dms/MessagesNUX.tsx:168
 msgid "Get started"
-msgstr "Memulai"
+msgstr "Mulai"
 
 #: src/view/com/modals/VerifyEmail.tsx:197
 #: src/view/com/modals/VerifyEmail.tsx:199
@@ -2405,7 +2405,7 @@ msgstr "Berikut beberapa akun untuk Anda ikuti"
 
 #: src/screens/Onboarding/StepTopicalFeeds.tsx:89
 msgid "Here are some popular topical feeds. You can choose to follow as many as you like."
-msgstr "Berikut beberapa feed topikal yang populer. Anda dapat memilih untuk mengikuti sebanyak yang Anda suka."
+msgstr "Berikut adalah beberapa feed topikal populer. Anda dapat memilih untuk mengikuti sebanyak yang Anda suka."
 
 #: src/screens/Onboarding/StepTopicalFeeds.tsx:84
 msgid "Here are some topical feeds based on your interests: {interestsText}. You can choose to follow as many as you like."
@@ -3623,7 +3623,7 @@ msgstr "Membuka kamera pada perangkat"
 
 #: src/view/screens/Settings/index.tsx:632
 msgid "Opens chat settings"
-msgstr ""
+msgstr "Buka pengaturan obrolan"
 
 #: src/view/com/composer/Prompt.tsx:25
 msgid "Opens composer"
@@ -3930,7 +3930,7 @@ msgstr "Pornografi"
 #: src/view/com/composer/Composer.tsx:443
 msgctxt "action"
 msgid "Post"
-msgstr "Posting"
+msgstr "Kirim"
 
 #: src/view/com/post-thread/PostThread.tsx:331
 msgctxt "description"
@@ -4161,7 +4161,7 @@ msgstr "Hapus Avatar"
 
 #: src/view/com/util/UserBanner.tsx:155
 msgid "Remove Banner"
-msgstr "Hapus Spanduk"
+msgstr "Hapus Sampul"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:169
 #: src/view/com/posts/FeedShutdownMsg.tsx:113
@@ -4732,7 +4732,7 @@ msgstr "Pilih minat Anda dari opsi di bawah ini"
 
 #: src/view/screens/LanguageSettings.tsx:190
 msgid "Select your preferred language for translations in your feed."
-msgstr "Pilih bahasa yang disukai untuk penerjemahaan feed Anda."
+msgstr "Pilih bahasa yang disukai untuk terjemahan di feed Anda."
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:117
 msgid "Select your primary algorithmic feeds"
@@ -4964,7 +4964,7 @@ msgstr "Tampilkan pengguna lain yang serupa dengan {0}"
 
 #: src/view/com/post-thread/PostThreadShowHiddenReplies.tsx:21
 msgid "Show hidden replies"
-msgstr ""
+msgstr "Tampilkan balasan yang disembunyikan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:305
 #: src/view/com/util/forms/PostDropdownBtn.tsx:307
@@ -4984,7 +4984,7 @@ msgstr "Tampilkan lebih banyak"
 
 #: src/view/com/post-thread/PostThreadShowHiddenReplies.tsx:21
 msgid "Show muted replies"
-msgstr ""
+msgstr "Tampilkan balasan yang dibisukan"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:257
 msgid "Show Posts from My Feeds"
@@ -5146,7 +5146,7 @@ msgstr "Beberapa orang dapat membalas"
 
 #: src/screens/Messages/Conversation/index.tsx:94
 msgid "Something went wrong"
-msgstr "Terjadi kesalahan"
+msgstr "Ada yang tidak beres"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
@@ -5282,7 +5282,7 @@ msgstr "Dukungan"
 #: src/components/dialogs/SwitchAccount.tsx:47
 #: src/components/dialogs/SwitchAccount.tsx:50
 msgid "Switch Account"
-msgstr "Pindah Akun"
+msgstr "Beralih Akun"
 
 #: src/view/screens/Settings/index.tsx:158
 msgid "Switch to {0}"
@@ -5367,7 +5367,7 @@ msgstr "Handle telah terpakai."
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:291
 #: src/view/com/profile/ProfileMenu.tsx:349
 msgid "The account will be able to interact with you after unblocking."
-msgstr "Akun ini dapat berinteraksi kembali dengan Anda setelah pemblokiran dibuka."
+msgstr "Akun ini dapat berinteraksi kembali dengan Anda setelah blokir dibuka."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:127
 #~ msgid "the author"
@@ -6033,7 +6033,7 @@ msgstr "Daftar pengguna {0}"
 
 #: src/view/screens/ProfileList.tsx:830
 msgid "User list by <0/>"
-msgstr "Daftar pengguna oleh<0/>"
+msgstr "Daftar pengguna <0/>"
 
 #: src/view/com/lists/ListCard.tsx:83
 #: src/view/com/modals/UserAddRemoveLists.tsx:196
@@ -6387,7 +6387,7 @@ msgstr "Anda dapat mengubah ini kapan saja."
 
 #: src/screens/Messages/Settings.tsx:111
 msgid "You can continue ongoing conversations regardless of which setting you choose."
-msgstr ""
+msgstr "Anda dapat melanjutkan percakapan yang sedang berlangsung terlepas dari pengaturan mana yang Anda pilih."
 
 #: src/screens/Login/index.tsx:158
 #: src/screens/Login/PasswordUpdatedForm.tsx:33
