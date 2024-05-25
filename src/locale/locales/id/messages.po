@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-25 11:27\n"
+"PO-Revision-Date: 2024-05-25 17:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -627,7 +627,7 @@ msgstr "Blokir daftar"
 
 #: src/view/screens/ProfileList.tsx:682
 msgid "Block these accounts?"
-msgstr "Blokir akun ini?"
+msgstr "Blokir akun-akun ini?"
 
 #: src/view/com/lists/ListCard.tsx:110
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:71
@@ -2473,7 +2473,7 @@ msgstr "Hmm, kami kesulitan menemukan feed ini. Mungkin sudah dihapus."
 
 #: src/screens/Moderation/index.tsx:59
 msgid "Hmmmm, it seems we're having trouble loading this data. See below for more details. If this issue persists, please contact us."
-msgstr "Hmmmm, tampaknya kami mengalami kesulitan memuat data ini. Lihat detail lebih lanjut di bawah ini. Jika masalah berlanjut, silakan hubungi kami."
+msgstr "Hmmmm, sepertinya kami kesulitan memuat data ini. Lihat di bawah untuk keterangan lebih lanjut. Jika masalah berlanjut, mohon hubungi kami."
 
 #: src/screens/Profile/ErrorState.tsx:31
 msgid "Hmmmm, we couldn't load that moderation service."
@@ -2728,7 +2728,7 @@ msgstr "Pelajari lebih lanjut tentang peringatan ini"
 
 #: src/screens/Moderation/index.tsx:549
 msgid "Learn more about what is public on Bluesky."
-msgstr "Pelajari lebih lanjut tentang apa yang publik di Bluesky."
+msgstr "Pelajari lebih lanjut tentang apa yang bersifat publik di Bluesky."
 
 #: src/components/moderation/ContentHider.tsx:152
 msgid "Learn more."
@@ -2861,11 +2861,11 @@ msgstr "Nama Daftar"
 
 #: src/view/screens/ProfileList.tsx:371
 msgid "List unblocked"
-msgstr "Daftar tidak diblokir"
+msgstr "Daftar batal diblokir"
 
 #: src/view/screens/ProfileList.tsx:343
 msgid "List unmuted"
-msgstr "Daftar tidak dibisukan"
+msgstr "Daftar batal dibisukan"
 
 #: src/Navigation.tsx:121
 #: src/view/screens/Profile.tsx:192
@@ -3027,7 +3027,7 @@ msgstr "Daftar moderasi {0}"
 
 #: src/view/screens/ProfileList.tsx:842
 msgid "Moderation list by <0/>"
-msgstr "Daftar moderasi oleh <0/>"
+msgstr "Daftar moderasi <0/>"
 
 #: src/view/com/lists/ListCard.tsx:91
 #: src/view/com/modals/UserAddRemoveLists.tsx:204
@@ -3394,13 +3394,13 @@ msgstr "Tidak ditemukan hasil"
 
 #: src/view/screens/Feeds.tsx:555
 msgid "No results found for \"{query}\""
-msgstr "Tidak ada hasil ditemukan untuk \"{query}\""
+msgstr "Tidak ditemukan hasil untuk \"{query}\""
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:127
 #: src/view/screens/Search/Search.tsx:289
 #: src/view/screens/Search/Search.tsx:328
 msgid "No results found for {query}"
-msgstr "Tidak ada hasil ditemukan untuk {query}"
+msgstr "Tidak ditemukan hasil untuk {query}"
 
 #: src/components/dialogs/GifSelect.tsx:205
 msgid "No search results found for \"{search}\"."
@@ -3548,7 +3548,7 @@ msgstr "Ups, sepertinya ada yang salah!"
 #: src/view/screens/AppPasswords.tsx:69
 #: src/view/screens/Profile.tsx:100
 msgid "Oops!"
-msgstr "Uups!"
+msgstr "Ups!"
 
 #: src/screens/Onboarding/StepFinished.tsx:218
 msgid "Open"
@@ -4732,7 +4732,7 @@ msgstr "Pilih minat Anda dari opsi di bawah ini"
 
 #: src/view/screens/LanguageSettings.tsx:190
 msgid "Select your preferred language for translations in your feed."
-msgstr "Pilih bahasa yang disukai untuk terjemahan di feed Anda."
+msgstr "Pilih bahasa yang disukai untuk terjemahan dalam feed Anda."
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:117
 msgid "Select your primary algorithmic feeds"
@@ -5290,7 +5290,7 @@ msgstr "Beralih ke {0}"
 
 #: src/view/screens/Settings/index.tsx:159
 msgid "Switches the account you are logged in to"
-msgstr "Mengganti akun yang Anda masuki"
+msgstr "Alihkan akun yang Anda gunakan untuk masuk"
 
 #: src/view/screens/Settings/index.tsx:438
 msgid "System"
@@ -5987,7 +5987,7 @@ msgstr "Gunakan peramban bawaan saya"
 
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:53
 msgid "Use recommended"
-msgstr "Gunakan rekomendasi"
+msgstr "Gunakan yang direkomendasikan"
 
 #: src/view/com/modals/ChangeHandle.tsx:394
 msgid "Use the DNS panel"
@@ -6020,7 +6020,7 @@ msgstr "Pengguna Diblokir oleh Daftar"
 
 #: src/lib/moderation/useModerationCauseDescription.ts:66
 msgid "User Blocking You"
-msgstr "Pengguna yang Memblokir Anda"
+msgstr "Pengguna Memblokir Anda"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:70
 msgid "User Blocks You"
@@ -6454,16 +6454,16 @@ msgstr "Anda telah membisukan pengguna ini"
 
 #: src/screens/Messages/List/index.tsx:225
 msgid "You have no conversations yet. Start one!"
-msgstr "Anda belum melakukan percakapan. Mulai sekarang!"
+msgstr "Anda belum memiliki percakapan. Mulai sekarang!"
 
 #: src/view/com/feeds/ProfileFeedgens.tsx:144
 msgid "You have no feeds."
-msgstr "Anda tidak punya feed."
+msgstr "Anda tidak memiliki feed."
 
 #: src/view/com/lists/MyLists.tsx:89
 #: src/view/com/lists/ProfileLists.tsx:148
 msgid "You have no lists."
-msgstr "Anda tidak punya daftar."
+msgstr "Anda tidak memiliki daftar."
 
 #: src/screens/Messages/List/index.tsx:200
 #~ msgid "You have no messages yet. Start a conversation with someone!"
