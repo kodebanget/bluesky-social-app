@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-26 03:19\n"
+"PO-Revision-Date: 2024-05-26 09:18\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -297,7 +297,7 @@ msgstr "Tambahkan Kata Sandi Aplikasi"
 
 #: src/components/dialogs/MutedWords.tsx:158
 msgid "Add mute word for configured settings"
-msgstr "Tambahkan kata untuk dibisukan dengan konfigurasi ini"
+msgstr "Tambahkan kata yang akan dibisukan ke pengaturan terpilih"
 
 #: src/components/dialogs/MutedWords.tsx:87
 msgid "Add muted words and tags"
@@ -884,7 +884,7 @@ msgstr "Pengaturan Obrolan"
 
 #: src/components/dms/ConvoMenu.tsx:82
 msgid "Chat unmuted"
-msgstr "Obrolan batal dibisukan"
+msgstr "Obrolan dibunyikan"
 
 #: src/screens/Messages/Conversation/index.tsx:26
 #~ msgid "Chat with {chatId}"
@@ -1776,17 +1776,17 @@ msgstr "Email:"
 
 #: src/components/dialogs/Embed.tsx:112
 msgid "Embed HTML code"
-msgstr "Sematkan kode HTML"
+msgstr "Sisipkan kode HTML"
 
 #: src/components/dialogs/Embed.tsx:97
 #: src/view/com/util/forms/PostDropdownBtn.tsx:283
 #: src/view/com/util/forms/PostDropdownBtn.tsx:285
 msgid "Embed post"
-msgstr "Sematkan postingan"
+msgstr "Sisipkan postingan"
 
 #: src/components/dialogs/Embed.tsx:101
 msgid "Embed this post in your website. Simply copy the following snippet and paste it into the HTML code of your website."
-msgstr "Sematkan postingan ini di situs web Anda. Salin potongan kode berikut dan tempelkan ke dalam kode HTML situs web Anda."
+msgstr "Sisipkan postingan ini di situs web Anda. Salin potongan kode berikut dan tempelkan ke dalam kode HTML situs web Anda."
 
 #: src/components/dialogs/EmbedConsent.tsx:101
 msgid "Enable {0} only"
@@ -3079,7 +3079,7 @@ msgstr "Feed lainnya"
 
 #: src/view/screens/ProfileList.tsx:652
 msgid "More options"
-msgstr "Pilihan lainnya"
+msgstr "Opsi lainnya"
 
 #: src/view/screens/PreferencesThreads.tsx:82
 msgid "Most-liked replies first"
@@ -3623,7 +3623,7 @@ msgstr "Membuka kamera pada perangkat"
 
 #: src/view/screens/Settings/index.tsx:632
 msgid "Opens chat settings"
-msgstr "Buka pengaturan obrolan"
+msgstr "Membuka pengaturan obrolan"
 
 #: src/view/com/composer/Prompt.tsx:25
 msgid "Opens composer"
@@ -3639,7 +3639,7 @@ msgstr "Membuka galeri foto perangkat"
 
 #: src/view/screens/Settings/index.tsx:664
 msgid "Opens external embeds settings"
-msgstr "Membuka pengaturan penyematan eksternal"
+msgstr "Membuka pengaturan sisipan eksternal"
 
 #: src/view/com/auth/SplashScreen.tsx:50
 #: src/view/com/auth/SplashScreen.web.tsx:99
@@ -3649,7 +3649,7 @@ msgstr "Membuka alur untuk membuat akun baru Bluesky"
 #: src/view/com/auth/SplashScreen.tsx:65
 #: src/view/com/auth/SplashScreen.web.tsx:114
 msgid "Opens flow to sign into your existing Bluesky account"
-msgstr "Membuka alur untuk masuk ke akun Bluesky Anda yang telah ada"
+msgstr "Membuka alur untuk masuk ke akun Bluesky Anda yang sudah ada"
 
 #: src/view/com/composer/photos/SelectGifBtn.tsx:37
 msgid "Opens GIF select dialog"
@@ -3661,31 +3661,31 @@ msgstr "Membuka daftar kode undangan"
 
 #: src/view/screens/Settings/index.tsx:800
 msgid "Opens modal for account deletion confirmation. Requires email code"
-msgstr "Buka modal untuk konfirmasi penghapusan akun. Membutuhkan kode email"
+msgstr "Membuka jendela modal untuk konfirmasi penghapusan akun. Membutuhkan kode email"
 
 #: src/view/screens/Settings/index.tsx:758
 msgid "Opens modal for changing your Bluesky password"
-msgstr "Buka modal untuk mengubah kata sandi Bluesky Anda"
+msgstr "Membuka jendela modal untuk mengubah kata sandi Bluesky Anda"
 
 #: src/view/screens/Settings/index.tsx:713
 msgid "Opens modal for choosing a new Bluesky handle"
-msgstr "Membuka modal untuk memilih handle baru Bluesky"
+msgstr "Membuka jendela modal untuk memilih handle baru Bluesky"
 
 #: src/view/screens/Settings/index.tsx:781
 msgid "Opens modal for downloading your Bluesky account data (repository)"
-msgstr "Buka modal untuk mengunduh data akun (repositori) Bluesky Anda"
+msgstr "Membuka jendela modal untuk mengunduh data akun (repositori) Bluesky Anda"
 
 #: src/view/screens/Settings/index.tsx:978
 msgid "Opens modal for email verification"
-msgstr "Membuka modal untuk verifikasi email"
+msgstr "Membuka jendela modal untuk verifikasi email"
 
 #: src/view/com/modals/ChangeHandle.tsx:276
 msgid "Opens modal for using custom domain"
-msgstr "Buka modal untuk menggunakan domain kustom"
+msgstr "Membuka jendela modal untuk menggunakan domain kustom"
 
 #: src/view/screens/Settings/index.tsx:549
 msgid "Opens moderation settings"
-msgstr "Buka pengaturan moderasi"
+msgstr "Membuka pengaturan moderasi"
 
 #: src/screens/Login/LoginForm.tsx:225
 msgid "Opens password reset form"
@@ -3698,11 +3698,11 @@ msgstr "Membuka layar untuk mengedit Feed Tersimpan"
 
 #: src/view/screens/Settings/index.tsx:610
 msgid "Opens screen with all saved feeds"
-msgstr "Buka halaman dengan semua feed tersimpan"
+msgstr "Membuka layar berisi semua feed tersimpan"
 
 #: src/view/screens/Settings/index.tsx:691
 msgid "Opens the app password settings"
-msgstr "Buka pengaturan kata sandi aplikasi"
+msgstr "Membuka pengaturan kata sandi aplikasi"
 
 #: src/view/screens/Settings/index.tsx:567
 msgid "Opens the Following feed preferences"
@@ -3719,15 +3719,15 @@ msgstr "Membuka situs web tertaut"
 #: src/view/screens/Settings/index.tsx:831
 #: src/view/screens/Settings/index.tsx:841
 msgid "Opens the storybook page"
-msgstr "Buka halaman storybook"
+msgstr "Membuka halaman storybook"
 
 #: src/view/screens/Settings/index.tsx:819
 msgid "Opens the system log page"
-msgstr "Buka halaman log sistem"
+msgstr "Membuka halaman log sistem"
 
 #: src/view/screens/Settings/index.tsx:588
 msgid "Opens the threads preferences"
-msgstr "Buka preferensi utasan"
+msgstr "Membuka preferensi utasan"
 
 #: src/view/com/util/forms/DropdownButton.tsx:280
 msgid "Option {0} of {numItems}"
@@ -4230,7 +4230,7 @@ msgstr "Menghapus gambar pra tinjau bawaan dari {0}"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:224
 msgid "Removes quoted post"
-msgstr "Hapus postingan yang dikutip"
+msgstr "Menghapus postingan yang dikutip"
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:126
 #: src/view/com/posts/FeedShutdownMsg.tsx:130
@@ -4828,7 +4828,7 @@ msgstr "Atur akun Anda"
 
 #: src/view/com/modals/ChangeHandle.tsx:261
 msgid "Sets Bluesky username"
-msgstr "Atur nama pengguna Bluesky"
+msgstr "Mengatur nama pengguna Bluesky"
 
 #: src/view/screens/Settings/index.tsx:454
 msgid "Sets color theme to dark"
@@ -5862,7 +5862,7 @@ msgstr "Bunyikan"
 
 #: src/components/TagMenu/index.web.tsx:104
 msgid "Unmute {truncatedTag}"
-msgstr "Batal bisukan {truncatedTag}"
+msgstr "Bunyikan {truncatedTag}"
 
 #: src/view/com/profile/ProfileMenu.tsx:278
 #: src/view/com/profile/ProfileMenu.tsx:284
