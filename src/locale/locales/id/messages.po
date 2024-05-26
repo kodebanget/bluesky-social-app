@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-25 17:44\n"
+"PO-Revision-Date: 2024-05-26 03:19\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5832,7 +5832,7 @@ msgstr "Batalkan posting ulang"
 #: src/view/com/profile/FollowButton.tsx:60
 msgctxt "action"
 msgid "Unfollow"
-msgstr "Berhenti mengikuti"
+msgstr "Berhenti Ikuti"
 
 #: src/view/com/profile/ProfileHeaderSuggestedFollows.tsx:247
 msgid "Unfollow"
