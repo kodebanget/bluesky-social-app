@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-26 09:18\n"
+"PO-Revision-Date: 2024-05-29 10:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -913,7 +913,7 @@ msgstr "Periksa kotak masuk email Anda untuk kode konfirmasi dan masukkan di baw
 
 #: src/view/com/modals/Threadgate.tsx:72
 msgid "Choose \"Everybody\" or \"Nobody\""
-msgstr "Pilih \"Semua Orang\" atau \"Tidak Ada\""
+msgstr "Pilih \"Semua orang\" atau \"Tak seorang pun\""
 
 #: src/view/com/auth/server-input/index.tsx:79
 msgid "Choose Service"
