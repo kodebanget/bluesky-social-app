@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-01 11:33\n"
+"PO-Revision-Date: 2024-06-01 17:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -697,7 +697,7 @@ msgstr "Bluesky adalah jaringan terbuka di mana Anda dapat memilih penyedia host
 
 #: src/screens/Moderation/index.tsx:533
 msgid "Bluesky will not show your profile and posts to logged-out users. Other apps may not honor this request. This does not make your account private."
-msgstr "Bluesky tidak akan menampilkan profil dan postingan Anda kepada pengguna yang tidak masuk. Aplikasi lain mungkin tidak akan mematuhi permintaan ini. Ini tidak membuat akun Anda menjadi privat."
+msgstr "Bluesky will not show your profile and posts to logged-out users. Other apps may not honor this request. This does not make your account private."
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:53
 msgid "Blur images"
@@ -1340,7 +1340,7 @@ msgstr "Buat akun"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:286
 msgid "Create an avatar instead"
-msgstr "Buat avatar saja"
+msgstr "Create an avatar instead"
 
 #: src/view/com/modals/AddAppPasswords.tsx:243
 msgid "Create App Password"
@@ -1512,7 +1512,7 @@ msgstr "Redup"
 
 #: src/components/dms/MessagesNUX.tsx:88
 msgid "Direct messages are here!"
-msgstr "Pesan langsung telah hadir!"
+msgstr "Direct messages are here!"
 
 #: src/view/screens/AccessibilitySettings.tsx:94
 msgid "Disable autoplay for GIFs"
@@ -1554,7 +1554,7 @@ msgstr "Buang draf?"
 #: src/screens/Moderation/index.tsx:518
 #: src/screens/Moderation/index.tsx:522
 msgid "Discourage apps from showing my account to logged-out users"
-msgstr "Cegah aplikasi menampilkan akun saya ke pengguna yang tidak masuk"
+msgstr "Discourage apps from showing my account to logged-out users"
 
 #: src/view/com/posts/FollowingEmptyState.tsx:74
 #: src/view/com/posts/FollowingEndOfFeed.tsx:75
@@ -1670,7 +1670,7 @@ msgstr "contoh: Spammer"
 
 #: src/view/com/modals/CreateOrEditList.tsx:315
 msgid "e.g. The posters who never miss."
-msgstr "contoh: Pemosting yang selalu kekinian."
+msgstr "e.g. The posters who never miss."
 
 #: src/view/com/modals/CreateOrEditList.tsx:316
 msgid "e.g. Users that repeatedly reply with ads."
@@ -2473,7 +2473,7 @@ msgstr "Hmm, kami kesulitan menemukan feed ini. Mungkin sudah dihapus."
 
 #: src/screens/Moderation/index.tsx:59
 msgid "Hmmmm, it seems we're having trouble loading this data. See below for more details. If this issue persists, please contact us."
-msgstr "Hmmmm, sepertinya kami kesulitan memuat data ini. Lihat di bawah untuk keterangan lebih lanjut. Jika masalah berlanjut, mohon hubungi kami."
+msgstr "Hmmmm, it seems we're having trouble loading this data. See below for more details. If this issue persists, please contact us."
 
 #: src/screens/Profile/ErrorState.tsx:31
 msgid "Hmmmm, we couldn't load that moderation service."
@@ -2908,7 +2908,7 @@ msgstr "Keluar"
 
 #: src/screens/Moderation/index.tsx:442
 msgid "Logged-out visibility"
-msgstr "Visibilitas pengguna yang tidak masuk"
+msgstr "Logged-out visibility"
 
 #: src/components/AccountList.tsx:58
 msgid "Login to account that is not listed"
@@ -3071,7 +3071,7 @@ msgstr "Moderator telah memilih untuk menetapkan peringatan umum pada konten."
 
 #: src/view/com/post-thread/PostThreadItem.tsx:542
 msgid "More"
-msgstr "Selengkapnya"
+msgstr "More"
 
 #: src/view/shell/desktop/Feeds.tsx:55
 msgid "More feeds"
@@ -3454,7 +3454,7 @@ msgstr "Catatan tentang berbagi"
 
 #: src/screens/Moderation/index.tsx:540
 msgid "Note: Bluesky is an open and public network. This setting only limits the visibility of your content on the Bluesky app and website, and other apps may not respect this setting. Your content may still be shown to logged-out users by other apps and websites."
-msgstr "Catatan: Bluesky merupakan jaringan terbuka dan publik. Pengaturan ini hanya membatasi visibilitas konten Anda pada aplikasi dan situs web Bluesky. Konten Anda mungkin tetap ditampilkan oleh aplikasi atau situs web lain kepada pengguna yang tidak masuk."
+msgstr "Note: Bluesky is an open and public network. This setting only limits the visibility of your content on the Bluesky app and website, and other apps may not respect this setting. Your content may still be shown to logged-out users by other apps and websites."
 
 #: src/screens/Messages/List/index.tsx:215
 msgid "Nothing here"
@@ -3556,7 +3556,7 @@ msgstr "Buka"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:280
 msgid "Open avatar creator"
-msgstr "Buka pembuat avatar"
+msgstr "Open avatar creator"
 
 #: src/screens/Messages/List/ChatListItem.tsx:164
 #: src/screens/Messages/List/ChatListItem.tsx:165
@@ -3930,7 +3930,7 @@ msgstr "Pornografi"
 #: src/view/com/composer/Composer.tsx:443
 msgctxt "action"
 msgid "Post"
-msgstr "Kirim"
+msgstr "Post"
 
 #: src/view/com/post-thread/PostThread.tsx:331
 msgctxt "description"
@@ -4140,7 +4140,7 @@ msgstr "Hubungkan kembali"
 
 #: src/screens/Messages/List/index.tsx:200
 msgid "Reload conversations"
-msgstr "Memuat ulang percakapan"
+msgstr "Reload conversations"
 
 #: src/components/dialogs/MutedWords.tsx:288
 #: src/view/com/feeds/FeedSourceCard.tsx:285
@@ -4161,7 +4161,7 @@ msgstr "Hapus Avatar"
 
 #: src/view/com/util/UserBanner.tsx:155
 msgid "Remove Banner"
-msgstr "Hapus Sampul"
+msgstr "Remove Banner"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:169
 #: src/view/com/posts/FeedShutdownMsg.tsx:113
@@ -5146,7 +5146,7 @@ msgstr "Beberapa orang dapat membalas"
 
 #: src/screens/Messages/Conversation/index.tsx:94
 msgid "Something went wrong"
-msgstr "Ada yang tidak beres"
+msgstr "Something went wrong"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
@@ -5202,7 +5202,7 @@ msgstr "Mulai obrolan dengan {displayName}"
 
 #: src/components/dms/MessagesNUX.tsx:161
 msgid "Start chatting"
-msgstr "Mulai mengobrol"
+msgstr "Start chatting"
 
 #: src/view/screens/Settings/index.tsx:862
 #~ msgid "Status page"
@@ -5645,7 +5645,7 @@ msgstr "Postingan ini telah dihapus."
 #: src/view/com/util/forms/PostDropdownBtn.tsx:417
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:301
 msgid "This post is only visible to logged-in users. It won't be visible to people who aren't logged in."
-msgstr "Postingan ini hanya dapat dilihat oleh pengguna yang masuk. Ini tidak akan terlihat bagi pengguna yang belum masuk."
+msgstr "This post is only visible to logged-in users. It won't be visible to people who aren't logged in."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:399
 msgid "This post will be hidden from feeds."
@@ -5653,7 +5653,7 @@ msgstr "Postingan ini akan disembunyikan dari feed."
 
 #: src/view/com/profile/ProfileMenu.tsx:370
 msgid "This profile is only visible to logged-in users. It won't be visible to people who aren't logged in."
-msgstr "Profil ini hanya dapat dilihat oleh pengguna yang masuk. Ini tidak akan terlihat bagi pengguna yang belum masuk."
+msgstr "This profile is only visible to logged-in users. It won't be visible to people who aren't logged in."
 
 #: src/screens/Signup/StepInfo/Policies.tsx:37
 msgid "This service has not provided terms of service or a privacy policy."
@@ -5678,7 +5678,7 @@ msgstr "Pengguna ini telah memblokir Anda. Anda tidak dapat melihat konten merek
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:30
 msgid "This user has requested that their content only be shown to signed-in users."
-msgstr "Pengguna ini telah meminta agar kontennya hanya ditampilkan kepada pengguna yang sudah masuk."
+msgstr "This user has requested that their content only be shown to signed-in users."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:55
 msgid "This user is included in the <0>{0}</0> list which you have blocked."
@@ -5832,7 +5832,7 @@ msgstr "Batalkan posting ulang"
 #: src/view/com/profile/FollowButton.tsx:60
 msgctxt "action"
 msgid "Unfollow"
-msgstr "Berhenti ikuti"
+msgstr "Unfollow"
 
 #: src/view/com/profile/ProfileHeaderSuggestedFollows.tsx:247
 msgid "Unfollow"
