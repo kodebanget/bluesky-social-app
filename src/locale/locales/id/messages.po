@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-05-31 11:21\n"
+"PO-Revision-Date: 2024-06-01 11:33\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -285,7 +285,7 @@ msgstr "Tambahkan teks alt"
 #: src/view/screens/AppPasswords.tsx:148
 #: src/view/screens/AppPasswords.tsx:161
 msgid "Add App Password"
-msgstr "Tambahkan Kata Sandi Aplikasi"
+msgstr "Tambahkan Sandi Aplikasi"
 
 #: src/view/com/composer/Composer.tsx:467
 #~ msgid "Add link card"
@@ -884,7 +884,7 @@ msgstr "Pengaturan Obrolan"
 
 #: src/components/dms/ConvoMenu.tsx:82
 msgid "Chat unmuted"
-msgstr "Pembicaraan dibunyikan"
+msgstr "Obrolan dibunyikan"
 
 #: src/screens/Messages/Conversation/index.tsx:26
 #~ msgid "Chat with {chatId}"
@@ -1554,7 +1554,7 @@ msgstr "Buang draf?"
 #: src/screens/Moderation/index.tsx:518
 #: src/screens/Moderation/index.tsx:522
 msgid "Discourage apps from showing my account to logged-out users"
-msgstr "Cegah aplikasi untuk menampilkan akun saya ke pengguna yang tidak login"
+msgstr "Cegah aplikasi menampilkan akun saya ke pengguna yang tidak masuk"
 
 #: src/view/com/posts/FollowingEmptyState.tsx:74
 #: src/view/com/posts/FollowingEndOfFeed.tsx:75
@@ -2668,7 +2668,7 @@ msgstr "Dilabeli oleh {0}."
 
 #: src/components/moderation/ContentHider.tsx:142
 msgid "Labeled by the author."
-msgstr "Dilabeli oleh pemosting."
+msgstr "Dilabeli oleh penulis."
 
 #: src/view/screens/Profile.tsx:191
 msgid "Labels"
@@ -2912,7 +2912,7 @@ msgstr "Visibilitas pengguna yang tidak masuk"
 
 #: src/components/AccountList.tsx:58
 msgid "Login to account that is not listed"
-msgstr "Masuk ke akun yang tidak ada di daftar"
+msgstr "Masuk ke akun yang tidak tercantum dalam daftar"
 
 #: src/components/RichText.tsx:218
 msgid "Long press to open tag menu for #{tag}"
@@ -3113,11 +3113,11 @@ msgstr "Bisukan percakapan"
 
 #: src/components/dialogs/MutedWords.tsx:149
 msgid "Mute in tags only"
-msgstr "Bisukan di tagar saja"
+msgstr "Bisukan tagar saja"
 
 #: src/components/dialogs/MutedWords.tsx:134
 msgid "Mute in text & tags"
-msgstr "Bisukan di teks & tagar"
+msgstr "Bisukan teks & tagar"
 
 #: src/view/screens/ProfileList.tsx:677
 msgid "Mute list"
@@ -3454,7 +3454,7 @@ msgstr "Catatan tentang berbagi"
 
 #: src/screens/Moderation/index.tsx:540
 msgid "Note: Bluesky is an open and public network. This setting only limits the visibility of your content on the Bluesky app and website, and other apps may not respect this setting. Your content may still be shown to logged-out users by other apps and websites."
-msgstr "Catatan: Bluesky merupakan jaringan terbuka dan publik. Pengaturan ini hanya akan membatasi visibilitas konten Anda pada aplikasi dan situs web Bluesky, dan aplikasi lain mungkin tidak menghormati pengaturan ini. Konten Anda mungkin tetap ditampilkan kepada pengguna yang tidak login oleh aplikasi dan website lain."
+msgstr "Catatan: Bluesky merupakan jaringan terbuka dan publik. Pengaturan ini hanya membatasi visibilitas konten Anda pada aplikasi dan situs web Bluesky. Konten Anda mungkin tetap ditampilkan oleh aplikasi atau situs web lain kepada pengguna yang tidak masuk."
 
 #: src/screens/Messages/List/index.tsx:215
 msgid "Nothing here"
@@ -4704,7 +4704,7 @@ msgstr "Pilih layanan moderasi untuk melaporkan"
 
 #: src/view/com/auth/server-input/index.tsx:82
 msgid "Select the service that hosts your data."
-msgstr "Pilih layanan yang akan menyimpan data Anda."
+msgstr "Pilih layanan yang akan menjadi tempat penyimpanan data Anda."
 
 #: src/screens/Onboarding/StepTopicalFeeds.tsx:100
 msgid "Select topical feeds to follow from the list below"
@@ -5608,7 +5608,7 @@ msgstr "Label ini diterapkan oleh <0>{0}</0>."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
-msgstr "Label ini diterapkan oleh pemosting."
+msgstr "Label ini diterapkan oleh penulis."
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:165
 #~ msgid "This label was applied by you"
@@ -5832,7 +5832,7 @@ msgstr "Batalkan posting ulang"
 #: src/view/com/profile/FollowButton.tsx:60
 msgctxt "action"
 msgid "Unfollow"
-msgstr "Berhenti Ikuti"
+msgstr "Berhenti ikuti"
 
 #: src/view/com/profile/ProfileHeaderSuggestedFollows.tsx:247
 msgid "Unfollow"
@@ -5845,7 +5845,7 @@ msgstr "Berhenti mengikuti {0}"
 #: src/view/com/profile/ProfileMenu.tsx:241
 #: src/view/com/profile/ProfileMenu.tsx:251
 msgid "Unfollow Account"
-msgstr "Batal Ikuti Akun"
+msgstr "Berhenti Ikuti Akun"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:197
 #~ msgid "Unlike"
