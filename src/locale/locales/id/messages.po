@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-05 17:12\n"
+"PO-Revision-Date: 2024-06-05 23:31\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -988,7 +988,7 @@ msgstr "klik di sini"
 
 #: src/view/com/modals/DeleteAccount.tsx:208
 msgid "Click here for more information on deactivating your account"
-msgstr "Klik di sini untuk informasi lebih lanjut tentang menonaktifkan akun Anda"
+msgstr "Klik di sini untuk informasi selengkapnya cara menonaktifkan akun Anda"
 
 #: src/view/com/modals/DeleteAccount.tsx:216
 msgid "Click here for more information."
@@ -3999,7 +3999,7 @@ msgstr "Pornografi"
 #: src/view/com/composer/Composer.tsx:470
 msgctxt "action"
 msgid "Post"
-msgstr "Kirim"
+msgstr "Posting"
 
 #: src/view/com/post-thread/PostThread.tsx:427
 msgctxt "description"
@@ -5245,12 +5245,12 @@ msgstr "Beberapa orang dapat membalas"
 
 #: src/screens/Messages/Conversation/index.tsx:94
 msgid "Something went wrong"
-msgstr "Ada yang tidak beres"
+msgstr "Oops, sepertinya ada kesalahan teknis"
 
 #: src/screens/Deactivated.tsx:94
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:59
 msgid "Something went wrong, please try again"
-msgstr "Ada yang tidak beres, silakan coba lagi"
+msgstr "Ada kesalahan teknis, silakan coba lagi"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
