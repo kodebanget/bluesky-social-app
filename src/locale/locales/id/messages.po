@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-05 11:01\n"
+"PO-Revision-Date: 2024-06-05 17:12\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: src/screens/Messages/List/ChatListItem.tsx:119
 msgid "(contains embedded content)"
-msgstr "(berisi konten yang disematkan)"
+msgstr "(berisi konten yang disisipkan)"
 
 #: src/view/com/modals/VerifyEmail.tsx:150
 msgid "(no email)"
@@ -94,7 +94,7 @@ msgstr "{0, plural, other {Batal suka (# menyukai)}}"
 
 #: src/view/com/util/UserAvatar.tsx:406
 msgid "{0}'s avatar"
-msgstr "avatar {0}"
+msgstr "Avatar {0}"
 
 #: src/components/LabelingServiceCard/index.tsx:71
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
@@ -992,7 +992,7 @@ msgstr "Klik di sini untuk informasi lebih lanjut tentang menonaktifkan akun And
 
 #: src/view/com/modals/DeleteAccount.tsx:216
 msgid "Click here for more information."
-msgstr "Klik disini untuk informasi lebih lanjut."
+msgstr "Klik di sini untuk informasi lebih lanjut."
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:46
 #~ msgid "Click here to add one."
@@ -1088,7 +1088,7 @@ msgstr "Menutup penampil untuk gambar header"
 
 #: src/view/com/notifications/FeedItem.tsx:205
 msgid "Collapse list of users"
-msgstr "Sembunyikan daftar pengguna"
+msgstr "Ciutkan daftar pengguna"
 
 #: src/view/com/notifications/FeedItem.tsx:341
 msgid "Collapses list of users for a given notification"
@@ -1920,7 +1920,7 @@ msgstr "Terjadi kesalahan saat menyimpan berkas"
 
 #: src/screens/Signup/StepCaptcha/index.tsx:51
 msgid "Error receiving captcha response."
-msgstr "Gagal menerima respons captcha."
+msgstr "Kesalahan saat menerima respons captcha."
 
 #: src/screens/Onboarding/StepInterests/index.tsx:192
 #: src/view/screens/Search/Search.tsx:115
@@ -1973,11 +1973,11 @@ msgstr "Keluar dari memasukkan permintaan pencarian"
 
 #: src/view/com/lightbox/Lightbox.web.tsx:183
 msgid "Expand alt text"
-msgstr "Tampilkan teks alt"
+msgstr "Perluas teks alt"
 
 #: src/view/com/notifications/FeedItem.tsx:206
 msgid "Expand list of users"
-msgstr "Perbesar daftar server "
+msgstr "Perluas daftar pengguna"
 
 #: src/view/com/composer/ComposerReplyTo.tsx:82
 #: src/view/com/composer/ComposerReplyTo.tsx:85
@@ -2584,7 +2584,7 @@ msgstr "Jika Anda ingin mengubah kata sandi, kami akan mengirimkan kode untuk me
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:92
 msgid "If you're trying to change your handle or email, do so before you deactivate."
-msgstr "Jika Anda mencoba mengubah nama pengguna atau email, lakukanlah sebelum Anda menonaktifkannya."
+msgstr "Jika Anda mencoba mengubah handle atau email, lakukanlah sebelum Anda menonaktifkannya."
 
 #: src/lib/moderation/useReportOptions.ts:37
 msgid "Illegal and Urgent"
@@ -3788,7 +3788,7 @@ msgstr "Membuka preferensi utasan"
 #: src/view/com/notifications/FeedItem.tsx:427
 #: src/view/com/util/UserAvatar.tsx:409
 msgid "Opens this profile"
-msgstr "Buka profil "
+msgstr "Membuka profil ini"
 
 #: src/view/com/util/forms/DropdownButton.tsx:293
 msgid "Option {0} of {numItems}"
@@ -3809,7 +3809,7 @@ msgstr "Atau, lanjutkan dengan akun lain."
 
 #: src/screens/Deactivated.tsx:194
 msgid "Or, log into one of your other accounts."
-msgstr ""
+msgstr "Atau, masuk ke salah satu akun Anda yang lain."
 
 #: src/lib/moderation/useReportOptions.ts:26
 msgid "Other"
@@ -4241,7 +4241,7 @@ msgstr "Hapus Sampul"
 
 #: src/screens/Messages/Conversation/MessageInputEmbed.tsx:218
 msgid "Remove embed"
-msgstr "Hapus sematan"
+msgstr "Hapus sisipan"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:169
 #: src/view/com/posts/FeedShutdownMsg.tsx:113
@@ -4279,7 +4279,7 @@ msgstr "Hapus kata yang dibisukan dari daftar Anda"
 
 #: src/view/screens/Search/Search.tsx:1014
 msgid "Remove profile"
-msgstr "Hapus profil "
+msgstr "Hapus profil"
 
 #: src/view/screens/Search/Search.tsx:1016
 msgid "Remove profile from search history"
@@ -4531,7 +4531,7 @@ msgstr "Mencoba masuk kembali"
 #: src/view/com/util/error/ErrorMessage.tsx:57
 #: src/view/com/util/error/ErrorScreen.tsx:74
 msgid "Retries the last action, which errored out"
-msgstr "Coba kembali tindakan terakhir, yang gagal"
+msgstr "Mencoba kembali tindakan terakhir, yang gagal"
 
 #: src/components/dms/MessageItem.tsx:241
 #: src/components/Error.tsx:90
@@ -4885,7 +4885,7 @@ msgstr "Kirim email verifikasi"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:299
 #: src/view/com/util/forms/PostDropdownBtn.tsx:302
 msgid "Send via direct message"
-msgstr ""
+msgstr "Kirim melalui pesan"
 
 #: src/view/com/modals/DeleteAccount.tsx:151
 msgid "Sends email with confirmation code for account deletion"
@@ -5250,7 +5250,7 @@ msgstr "Ada yang tidak beres"
 #: src/screens/Deactivated.tsx:94
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:59
 msgid "Something went wrong, please try again"
-msgstr "Terjadi kesalahan, mohon coba lagi"
+msgstr "Ada yang tidak beres, silakan coba lagi"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
@@ -5524,7 +5524,7 @@ msgstr "Ketentuan Layanan telah dipindahkan ke"
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:86
 msgid "There is no time limit for account deactivation, come back any time."
-msgstr ""
+msgstr "Tidak ada batasan waktu untuk penonaktifan akun, Anda bisa kembali kapan saja."
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:115
 #: src/view/screens/ProfileFeed.tsx:541
@@ -6246,7 +6246,7 @@ msgstr "Lihat avatar {0}"
 
 #: src/view/com/notifications/FeedItem.tsx:213
 msgid "View {0}'s profile"
-msgstr ""
+msgstr "Lihat profil {0}"
 
 #: src/view/screens/Log.tsx:52
 msgid "View debug entry"
@@ -6482,11 +6482,11 @@ msgstr "Ya"
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:106
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:108
 msgid "Yes, deactivate"
-msgstr ""
+msgstr "Ya, nonaktifkan"
 
 #: src/screens/Deactivated.tsx:150
 msgid "Yes, reactivate my account"
-msgstr ""
+msgstr "Ya, aktifkan kembali akun saya"
 
 #: src/components/dms/MessageItem.tsx:188
 msgid "Yesterday, {time}"
@@ -6507,7 +6507,7 @@ msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/view/com/modals/DeleteAccount.tsx:202
 msgid "You can also temporarily deactivate your account instead, and reactivate it at any time."
-msgstr "Anda juga dapat menonaktifkan sementara akun Anda, dan mengaktifkannya kembali kapan saja."
+msgstr "Anda juga dapat menonaktifkan sementara akun Anda dan mengaktifkannya kembali kapan saja."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 #~ msgid "You can change these settings later."
@@ -6528,7 +6528,7 @@ msgstr "Sekarang Anda dapat masuk dengan kata sandi baru."
 
 #: src/screens/Deactivated.tsx:136
 msgid "You can reactivate your account to continue logging in. Your profile and posts will be visible to other users."
-msgstr ""
+msgstr "Anda dapat mengaktifkan kembali akun Anda untuk melanjutkan masuk. Profil dan postingan Anda akan terlihat oleh pengguna lain."
 
 #: src/view/com/profile/ProfileFollowers.tsx:86
 msgid "You do not have any followers."
@@ -6647,7 +6647,7 @@ msgstr "Anda harus memilih setidaknya satu pelabel untuk sebuah laporan"
 
 #: src/screens/Deactivated.tsx:131
 msgid "You previously deactivated @{0}."
-msgstr ""
+msgstr "Anda telah menonaktifkan @{0} sebelumnya."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:173
 msgid "You will no longer receive notifications for this thread"
@@ -6667,11 +6667,11 @@ msgstr "Anda: {0}"
 
 #: src/screens/Messages/List/ChatListItem.tsx:142
 msgid "You: {defaultEmbeddedContentMessage}"
-msgstr ""
+msgstr "Anda: {defaultEmbeddedContentMessage}"
 
 #: src/screens/Messages/List/ChatListItem.tsx:135
 msgid "You: {short}"
-msgstr ""
+msgstr "Anda: {short}"
 
 #: src/screens/Onboarding/StepModeration/index.tsx:60
 #~ msgid "You're in control"
@@ -6686,7 +6686,7 @@ msgstr "Anda sedang dalam antrian"
 #: src/screens/Deactivated.tsx:89
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:54
 msgid "You're logged in with an App Password. Please log in with your main password to continue deactivating your account."
-msgstr "Anda masuk dengan Kata Sandi Aplikasi. Mohon masuk dengan kata sandi utama Anda untuk melanjutkan menonaktifkan akun Anda."
+msgstr "Anda masuk menggunakan Sandi Aplikasi. Mohon gunakan kata sandi utama untuk melanjutkan penonaktifan akun Anda."
 
 #: src/screens/Onboarding/StepFinished.tsx:123
 msgid "You're ready to go!"
@@ -6777,7 +6777,7 @@ msgstr "Profil Anda"
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:75
 msgid "Your profile, posts, feeds, and lists will no longer be visible to other Bluesky users. You can reactivate your account at any time by logging in."
-msgstr "Profil, postingan, umpan, dan daftar Anda tidak akan lagi terlihat oleh pengguna Bluesky lainnya. Anda dapat mengaktifkan kembali akun Anda kapan saja dengan login."
+msgstr "Profil, postingan, feed, dan daftar Anda tidak akan lagi terlihat oleh pengguna Bluesky lainnya. Anda dapat mengaktifkan kembali kapan saja dengan cara masuk ke akun."
 
 #: src/view/com/composer/Composer.tsx:329
 msgid "Your reply has been published"
