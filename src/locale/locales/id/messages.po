@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-05 04:47\n"
+"PO-Revision-Date: 2024-06-05 11:01\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: src/screens/Messages/List/ChatListItem.tsx:119
 msgid "(contains embedded content)"
-msgstr ""
+msgstr "(berisi konten yang disematkan)"
 
 #: src/view/com/modals/VerifyEmail.tsx:150
 msgid "(no email)"
@@ -94,7 +94,7 @@ msgstr "{0, plural, other {Batal suka (# menyukai)}}"
 
 #: src/view/com/util/UserAvatar.tsx:406
 msgid "{0}'s avatar"
-msgstr ""
+msgstr "avatar {0}"
 
 #: src/components/LabelingServiceCard/index.tsx:71
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
@@ -822,7 +822,7 @@ msgstr "Batal mengutip postingan"
 
 #: src/screens/Deactivated.tsx:155
 msgid "Cancel reactivation and log out"
-msgstr ""
+msgstr "Batalkan pengaktifan kembali dan keluar"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:87
 #: src/view/shell/desktop/Search.tsx:214
@@ -988,11 +988,11 @@ msgstr "klik di sini"
 
 #: src/view/com/modals/DeleteAccount.tsx:208
 msgid "Click here for more information on deactivating your account"
-msgstr ""
+msgstr "Klik di sini untuk informasi lebih lanjut tentang menonaktifkan akun Anda"
 
 #: src/view/com/modals/DeleteAccount.tsx:216
 msgid "Click here for more information."
-msgstr ""
+msgstr "Klik disini untuk informasi lebih lanjut."
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:46
 #~ msgid "Click here to add one."
@@ -1088,7 +1088,7 @@ msgstr "Menutup penampil untuk gambar header"
 
 #: src/view/com/notifications/FeedItem.tsx:205
 msgid "Collapse list of users"
-msgstr ""
+msgstr "Sembunyikan daftar pengguna"
 
 #: src/view/com/notifications/FeedItem.tsx:341
 msgid "Collapses list of users for a given notification"
@@ -1424,11 +1424,11 @@ msgstr "Tanggal lahir"
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:73
 #: src/view/screens/Settings/index.tsx:806
 msgid "Deactivate account"
-msgstr ""
+msgstr "Nonaktifkan akun"
 
 #: src/view/screens/Settings/index.tsx:818
 msgid "Deactivate my account"
-msgstr ""
+msgstr "Nonaktifkan akun saya"
 
 #: src/view/screens/Settings/index.tsx:873
 msgid "Debug Moderation"
@@ -1977,7 +1977,7 @@ msgstr "Tampilkan teks alt"
 
 #: src/view/com/notifications/FeedItem.tsx:206
 msgid "Expand list of users"
-msgstr ""
+msgstr "Perbesar daftar server "
 
 #: src/view/com/composer/ComposerReplyTo.tsx:82
 #: src/view/com/composer/ComposerReplyTo.tsx:85
@@ -2200,7 +2200,7 @@ msgstr "Ikuti {0}"
 
 #: src/view/com/posts/AviFollowButton.tsx:71
 msgid "Follow {name}"
-msgstr ""
+msgstr "Ikuti {name}"
 
 #: src/view/com/profile/ProfileMenu.tsx:244
 #: src/view/com/profile/ProfileMenu.tsx:255
@@ -2261,7 +2261,7 @@ msgstr "Mengikuti {0}"
 
 #: src/view/com/posts/AviFollowButton.tsx:53
 msgid "Following {name}"
-msgstr ""
+msgstr "Mengikuti {name}"
 
 #: src/view/screens/Settings/index.tsx:573
 msgid "Following feed preferences"
@@ -2584,7 +2584,7 @@ msgstr "Jika Anda ingin mengubah kata sandi, kami akan mengirimkan kode untuk me
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:92
 msgid "If you're trying to change your handle or email, do so before you deactivate."
-msgstr ""
+msgstr "Jika Anda mencoba mengubah nama pengguna atau email, lakukanlah sebelum Anda menonaktifkannya."
 
 #: src/lib/moderation/useReportOptions.ts:37
 msgid "Illegal and Urgent"
@@ -2943,7 +2943,7 @@ msgstr "Catatan"
 #: src/screens/Deactivated.tsx:214
 #: src/screens/Deactivated.tsx:220
 msgid "Log in or sign up"
-msgstr ""
+msgstr "Masuk atau mendaftar"
 
 #: src/screens/SignupQueued.tsx:155
 #: src/screens/SignupQueued.tsx:158
@@ -3604,7 +3604,7 @@ msgstr "Buka"
 
 #: src/view/com/posts/AviFollowButton.tsx:89
 msgid "Open {name} profile shortcut menu"
-msgstr ""
+msgstr "Buka menu pintasan profil {name}"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:276
 msgid "Open avatar creator"
@@ -3713,7 +3713,7 @@ msgstr "Membuka daftar kode undangan"
 
 #: src/view/screens/Settings/index.tsx:808
 msgid "Opens modal for account deactivation confirmation"
-msgstr ""
+msgstr "Membuka modal untuk konfirmasi penonaktifan akun"
 
 #: src/view/screens/Settings/index.tsx:830
 msgid "Opens modal for account deletion confirmation. Requires email code"
@@ -3788,7 +3788,7 @@ msgstr "Membuka preferensi utasan"
 #: src/view/com/notifications/FeedItem.tsx:427
 #: src/view/com/util/UserAvatar.tsx:409
 msgid "Opens this profile"
-msgstr ""
+msgstr "Buka profil "
 
 #: src/view/com/util/forms/DropdownButton.tsx:293
 msgid "Option {0} of {numItems}"
@@ -3805,7 +3805,7 @@ msgstr "Atau gabungkan opsi-opsi berikut:"
 
 #: src/screens/Deactivated.tsx:211
 msgid "Or, continue with another account."
-msgstr ""
+msgstr "Atau, lanjutkan dengan akun lain."
 
 #: src/screens/Deactivated.tsx:194
 msgid "Or, log into one of your other accounts."
@@ -4188,7 +4188,7 @@ msgstr "Rasio"
 
 #: src/screens/Deactivated.tsx:144
 msgid "Reactivate your account"
-msgstr ""
+msgstr "Aktifkan kembali akun Anda"
 
 #: src/components/dms/ReportDialog.tsx:172
 msgid "Reason:"
@@ -4241,7 +4241,7 @@ msgstr "Hapus Sampul"
 
 #: src/screens/Messages/Conversation/MessageInputEmbed.tsx:218
 msgid "Remove embed"
-msgstr ""
+msgstr "Hapus sematan"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:169
 #: src/view/com/posts/FeedShutdownMsg.tsx:113
@@ -4279,11 +4279,11 @@ msgstr "Hapus kata yang dibisukan dari daftar Anda"
 
 #: src/view/screens/Search/Search.tsx:1014
 msgid "Remove profile"
-msgstr ""
+msgstr "Hapus profil "
 
 #: src/view/screens/Search/Search.tsx:1016
 msgid "Remove profile from search history"
-msgstr ""
+msgstr "Hapus profil dari riwayat pencarian"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:238
 msgid "Remove quote"
@@ -4864,7 +4864,7 @@ msgstr "Kirim pesan"
 
 #: src/components/dms/dialogs/ShareViaChatDialog.tsx:47
 msgid "Send post to..."
-msgstr ""
+msgstr "Kirim postingan ke..."
 
 #: src/components/dms/ReportDialog.tsx:232
 #: src/components/dms/ReportDialog.tsx:235
@@ -5250,7 +5250,7 @@ msgstr "Ada yang tidak beres"
 #: src/screens/Deactivated.tsx:94
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:59
 msgid "Something went wrong, please try again"
-msgstr ""
+msgstr "Terjadi kesalahan, mohon coba lagi"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
@@ -6385,7 +6385,7 @@ msgstr "Maaf, Anda hanya dapat berlangganan sepuluh pelabel dan Anda telah menca
 
 #: src/screens/Deactivated.tsx:128
 msgid "Welcome back!"
-msgstr ""
+msgstr "Selamat datang kembali!"
 
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:48
 #~ msgid "Welcome to <0>Bluesky</0>"
@@ -6507,7 +6507,7 @@ msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/view/com/modals/DeleteAccount.tsx:202
 msgid "You can also temporarily deactivate your account instead, and reactivate it at any time."
-msgstr ""
+msgstr "Anda juga dapat menonaktifkan sementara akun Anda, dan mengaktifkannya kembali kapan saja."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 #~ msgid "You can change these settings later."
@@ -6686,7 +6686,7 @@ msgstr "Anda sedang dalam antrian"
 #: src/screens/Deactivated.tsx:89
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:54
 msgid "You're logged in with an App Password. Please log in with your main password to continue deactivating your account."
-msgstr ""
+msgstr "Anda masuk dengan Kata Sandi Aplikasi. Mohon masuk dengan kata sandi utama Anda untuk melanjutkan menonaktifkan akun Anda."
 
 #: src/screens/Onboarding/StepFinished.tsx:123
 msgid "You're ready to go!"
@@ -6777,7 +6777,7 @@ msgstr "Profil Anda"
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:75
 msgid "Your profile, posts, feeds, and lists will no longer be visible to other Bluesky users. You can reactivate your account at any time by logging in."
-msgstr ""
+msgstr "Profil, postingan, umpan, dan daftar Anda tidak akan lagi terlihat oleh pengguna Bluesky lainnya. Anda dapat mengaktifkan kembali akun Anda kapan saja dengan login."
 
 #: src/view/com/composer/Composer.tsx:329
 msgid "Your reply has been published"
