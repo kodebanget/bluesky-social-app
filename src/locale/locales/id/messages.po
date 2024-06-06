@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-06 05:44\n"
+"PO-Revision-Date: 2024-06-06 12:03\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -533,7 +533,7 @@ msgstr "Anda yakin untuk menghapus kata sandi aplikasi \"{name}\"?"
 
 #: src/components/dms/MessageMenu.tsx:149
 msgid "Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant."
-msgstr "Anda yakin ingin menghapus pesan ini? Pesan akan dihapus untuk Anda, tetapi tidak untuk partisipan lain."
+msgstr "Anda yakin ingin menghapus pesan ini? Pesan akan dihapus untuk Anda, tetapi tidak untuk partisipan lainnya."
 
 #: src/components/dms/ConvoMenu.tsx:189
 #~ msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for other participants."
@@ -541,7 +541,7 @@ msgstr "Anda yakin ingin menghapus pesan ini? Pesan akan dihapus untuk Anda, tet
 
 #: src/components/dms/LeaveConvoPrompt.tsx:48
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for the other participant."
-msgstr "Anda yakin ingin meninggalkan percakapan ini? Pesan akan dihapus untuk Anda, tetapi tidak untuk partisipan lain."
+msgstr "Anda yakin ingin meninggalkan percakapan ini? Pesan akan dihapus untuk Anda, tetapi tidak untuk partisipan lainnya."
 
 #: src/view/com/feeds/FeedSourceCard.tsx:293
 msgid "Are you sure you want to remove {0} from your feeds?"
@@ -653,7 +653,7 @@ msgstr "Akun yang diblokir"
 
 #: src/view/com/profile/ProfileMenu.tsx:358
 msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
-msgstr "Akun yang diblokir tidak dapat membalas di utas Anda, menyebut Anda, atau berinteraksi dengan Anda."
+msgstr "Akun yang diblokir tidak dapat membalas utas Anda, menyebut Anda, atau berinteraksi dengan Anda."
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:117
 msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. You will not see their content and they will be prevented from seeing yours."
@@ -1476,7 +1476,7 @@ msgstr "Hapus untuk saya"
 
 #: src/view/screens/ProfileList.tsx:471
 msgid "Delete List"
-msgstr "Hapus Daftar"
+msgstr "Hapus daftar"
 
 #: src/components/dms/MessageMenu.tsx:147
 msgid "Delete message"
@@ -4097,7 +4097,7 @@ msgstr "Bahasa Utama"
 
 #: src/view/screens/PreferencesThreads.tsx:97
 msgid "Prioritize Your Follows"
-msgstr "Prioritaskan Pengikut Anda"
+msgstr "Prioritaskan yang Anda Ikuti"
 
 #: src/view/screens/Settings/index.tsx:654
 #: src/view/shell/desktop/RightNav.tsx:77
@@ -5702,7 +5702,7 @@ msgstr "Feed ini tidak lagi online. Kami akan menampilkan <0>Discover</0> sebaga
 
 #: src/components/dialogs/BirthDateSettings.tsx:41
 msgid "This information is not shared with other users."
-msgstr "Informasi ini tidak akan dibagikan ke pengguna lainnya."
+msgstr "Informasi ini tidak akan dibagikan ke pengguna lain."
 
 #: src/view/com/modals/VerifyEmail.tsx:127
 msgid "This is important in case you ever need to change your email or reset your password."
@@ -6076,7 +6076,7 @@ msgstr "Gunakan berkas di server Anda"
 
 #: src/view/screens/AppPasswords.tsx:200
 msgid "Use app passwords to login to other Bluesky clients without giving full access to your account or password."
-msgstr "Gunakan kata sandi aplikasi untuk masuk ke klien Bluesky lainnya tanpa memberikan akses penuh ke akun atau kata sandi Anda."
+msgstr "Gunakan kata sandi aplikasi untuk masuk ke klien Bluesky lain tanpa memberikan akses penuh ke akun atau kata sandi Anda."
 
 #: src/view/com/modals/ChangeHandle.tsx:513
 msgid "Use bsky.social as hosting provider"
@@ -6106,7 +6106,7 @@ msgstr "Gunakan panel DNS"
 
 #: src/view/com/modals/AddAppPasswords.tsx:206
 msgid "Use this to sign into the other app along with your handle."
-msgstr "Gunakan ini untuk masuk ke aplikasi lain dengan handle Anda."
+msgstr "Gunakan ini untuk masuk ke aplikasi lain bersama dengan handle Anda."
 
 #: src/view/com/modals/InviteCodes.tsx:201
 msgid "Used by:"
@@ -6699,7 +6699,7 @@ msgstr "Anda telah memilih untuk menyembunyikan kata atau tagar dalam postingan 
 
 #: src/view/com/posts/FollowingEndOfFeed.tsx:48
 msgid "You've reached the end of your feed! Find some more accounts to follow."
-msgstr "Anda telah mencapai akhir feed Anda! Temukan beberapa akun lain untuk diikuti."
+msgstr "Anda telah mencapai bagian akhir feed! Temukan lebih banyak akun lain untuk diikuti."
 
 #: src/screens/Signup/index.tsx:164
 msgid "Your account"
@@ -6777,7 +6777,7 @@ msgstr "Profil Anda"
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:75
 msgid "Your profile, posts, feeds, and lists will no longer be visible to other Bluesky users. You can reactivate your account at any time by logging in."
-msgstr "Profil, postingan, feed, dan daftar Anda tidak akan lagi terlihat oleh pengguna Bluesky lainnya. Anda dapat mengaktifkan kembali kapan saja dengan cara masuk ke akun."
+msgstr "Profil, postingan, feed, dan daftar Anda tidak akan terlihat lagi oleh pengguna Bluesky lain. Anda dapat mengaktifkan kembali kapan saja dengan cara masuk ke akun."
 
 #: src/view/com/composer/Composer.tsx:329
 msgid "Your reply has been published"
