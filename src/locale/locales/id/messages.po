@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-06 12:03\n"
+"PO-Revision-Date: 2024-06-06 17:59\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -4917,7 +4917,7 @@ msgstr "Pilih \"Tidak\" untuk menyembunyikan semua posting ulang dari feed Anda.
 
 #: src/view/screens/PreferencesThreads.tsx:122
 msgid "Set this setting to \"Yes\" to show replies in a threaded view. This is an experimental feature."
-msgstr "Pilih \"Ya\" untuk menampilkan balasan dalam bentuk utasan. Ini merupakan fitur eksperimental."
+msgstr "Pilih \"Ya\" untuk menampilkan balasan dalam bentuk tampilan bersusun. Ini adalah fitur eksperimental."
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:260
 msgid "Set this setting to \"Yes\" to show samples of your saved feeds in your Following feed. This is an experimental feature."
@@ -5821,7 +5821,7 @@ msgstr "Preferensi Utasan"
 
 #: src/view/screens/PreferencesThreads.tsx:119
 msgid "Threaded Mode"
-msgstr "Mode Utasan"
+msgstr "Mode Bersusun"
 
 #: src/Navigation.tsx:276
 msgid "Threads Preferences"
@@ -6507,7 +6507,7 @@ msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/view/com/modals/DeleteAccount.tsx:202
 msgid "You can also temporarily deactivate your account instead, and reactivate it at any time."
-msgstr "Anda juga dapat menonaktifkan sementara akun Anda dan mengaktifkannya kembali kapan saja."
+msgstr "Anda juga dapat menonaktifkan akun Anda untuk sementara, dan mengaktifkannya kembali kapan saja."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 #~ msgid "You can change these settings later."
@@ -6647,7 +6647,7 @@ msgstr "Anda harus memilih setidaknya satu pelabel untuk sebuah laporan"
 
 #: src/screens/Deactivated.tsx:131
 msgid "You previously deactivated @{0}."
-msgstr "Anda telah menonaktifkan @{0} sebelumnya."
+msgstr "Anda sebelumnya telah menonaktifkan @{0}."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:173
 msgid "You will no longer receive notifications for this thread"
