@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-05 23:31\n"
+"PO-Revision-Date: 2024-06-06 05:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -822,7 +822,7 @@ msgstr "Batal mengutip postingan"
 
 #: src/screens/Deactivated.tsx:155
 msgid "Cancel reactivation and log out"
-msgstr "Batalkan pengaktifan kembali dan keluar"
+msgstr "Batalkan pengaktifan ulang akun dan keluar"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:87
 #: src/view/shell/desktop/Search.tsx:214
@@ -988,7 +988,7 @@ msgstr "klik di sini"
 
 #: src/view/com/modals/DeleteAccount.tsx:208
 msgid "Click here for more information on deactivating your account"
-msgstr "Klik di sini untuk informasi selengkapnya cara menonaktifkan akun Anda"
+msgstr "Klik di sini untuk informasi lebih lanjut cara menonaktifkan akun Anda"
 
 #: src/view/com/modals/DeleteAccount.tsx:216
 msgid "Click here for more information."
@@ -2332,7 +2332,7 @@ msgstr "Mulai"
 #: src/view/com/modals/VerifyEmail.tsx:197
 #: src/view/com/modals/VerifyEmail.tsx:199
 msgid "Get Started"
-msgstr "Memulai"
+msgstr "Mulai"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:224
 msgid "Give your profile a face"
@@ -2943,7 +2943,7 @@ msgstr "Catatan"
 #: src/screens/Deactivated.tsx:214
 #: src/screens/Deactivated.tsx:220
 msgid "Log in or sign up"
-msgstr "Masuk atau mendaftar"
+msgstr "Masuk atau daftar"
 
 #: src/screens/SignupQueued.tsx:155
 #: src/screens/SignupQueued.tsx:158
@@ -3554,7 +3554,7 @@ msgstr "Oh tidak!"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:133
 msgid "Oh no! Something went wrong."
-msgstr "Oh tidak! Sepertinya ada yang salah."
+msgstr "Oh tidak! Ada yang tidak beres."
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:336
 msgid "OK"
@@ -3590,7 +3590,7 @@ msgstr "Hanya berisi huruf, angka, dan tanda hubung"
 
 #: src/components/Lists.tsx:88
 msgid "Oops, something went wrong!"
-msgstr "Ups, sepertinya ada yang salah!"
+msgstr "Ups, ada yang tidak beres!"
 
 #: src/components/Lists.tsx:191
 #: src/view/screens/AppPasswords.tsx:69
@@ -3600,7 +3600,7 @@ msgstr "Ups!"
 
 #: src/screens/Onboarding/StepFinished.tsx:148
 msgid "Open"
-msgstr "Buka"
+msgstr "Terbuka"
 
 #: src/view/com/posts/AviFollowButton.tsx:89
 msgid "Open {name} profile shortcut menu"
@@ -5256,7 +5256,7 @@ msgstr "Ada kesalahan teknis, silakan coba lagi"
 #: src/screens/Moderation/index.tsx:114
 #: src/screens/Profile/Sections/Labels.tsx:87
 msgid "Something went wrong, please try again."
-msgstr "Terjadi kesalahan, silakan coba lagi."
+msgstr "Ada yang tidak beres, silakan coba lagi."
 
 #: src/App.native.tsx:85
 #: src/App.web.tsx:74
@@ -5619,7 +5619,7 @@ msgstr "Ada masalah. Periksa koneksi internet Anda dan coba lagi."
 #: src/components/dialogs/GifSelect.tsx:257
 #: src/view/com/util/ErrorBoundary.tsx:57
 msgid "There was an unexpected issue in the application. Please let us know if this happened to you!"
-msgstr "Sepertinya ada masalah pada aplikasi. Harap beri tahu kami jika Anda mengalaminya!"
+msgstr "Ada masalah tak terduga dalam aplikasi. Beri tahu kami jika hal ini terjadi pada Anda!"
 
 #: src/screens/SignupQueued.tsx:112
 msgid "There's been a rush of new users to Bluesky! We'll activate your account as soon as we can."
@@ -5706,7 +5706,7 @@ msgstr "Informasi ini tidak akan dibagikan ke pengguna lainnya."
 
 #: src/view/com/modals/VerifyEmail.tsx:127
 msgid "This is important in case you ever need to change your email or reset your password."
-msgstr "Ini penting jika Anda butuh untuk mengganti email atau reset kata sandi Anda nantinya."
+msgstr "Ini penting dilakukan untuk berjaga-jaga jika Anda perlu mengubah email atau mengatur ulang kata sandi."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:124
 #~ msgid "This label was applied by {0}."
