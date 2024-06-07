@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-07 00:19\n"
+"PO-Revision-Date: 2024-06-07 06:18\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2071,7 +2071,7 @@ msgstr "Gagal mengirim"
 #: src/components/moderation/LabelsOnMeDialog.tsx:225
 #: src/screens/Messages/Conversation/ChatDisabled.tsx:87
 msgid "Failed to submit appeal, please try again."
-msgstr "Gagal mengirimkan banding, silakan coba lagi."
+msgstr "Gagal mengajukan banding, silakan coba lagi."
 
 #: src/components/dms/MessagesNUX.tsx:60
 #: src/screens/Messages/Settings.tsx:35
@@ -6631,7 +6631,7 @@ msgstr "Anda dapat mengajukan banding atas label non-mandiri jika Anda merasa la
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:92
 msgid "You may appeal these labels if you feel they were placed in error."
-msgstr "Anda dapat mengajukan banding atas label ini jika Anda merasa label tersebut ditempatkan secara tidak tepat."
+msgstr "Anda dapat mengajukan banding atas label berikut jika Anda merasa label tersebut ditempatkan secara tidak tepat."
 
 #: src/screens/Signup/StepInfo/Policies.tsx:79
 msgid "You must be 13 years of age or older to sign up."
