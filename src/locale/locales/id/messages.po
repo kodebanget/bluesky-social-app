@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-08 11:24\n"
+"PO-Revision-Date: 2024-06-08 17:21\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3554,7 +3554,7 @@ msgstr "Oh tidak!"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:133
 msgid "Oh no! Something went wrong."
-msgstr "Oh tidak! Ada yang tidak beres."
+msgstr "Oh tidak! Ada kesalahan teknis."
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:336
 msgid "OK"
@@ -3590,7 +3590,7 @@ msgstr "Hanya berisi huruf, angka, dan tanda hubung"
 
 #: src/components/Lists.tsx:88
 msgid "Oops, something went wrong!"
-msgstr "Ups, ada yang tidak beres!"
+msgstr "Ups, ada kesalahan teknis!"
 
 #: src/components/Lists.tsx:191
 #: src/view/screens/AppPasswords.tsx:69
@@ -5245,7 +5245,7 @@ msgstr "Beberapa orang dapat membalas"
 
 #: src/screens/Messages/Conversation/index.tsx:94
 msgid "Something went wrong"
-msgstr "Ada yang tidak beres"
+msgstr "Ada kesalahan teknis"
 
 #: src/screens/Deactivated.tsx:94
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:59
@@ -5256,7 +5256,7 @@ msgstr "Ada kesalahan teknis, silakan coba lagi"
 #: src/screens/Moderation/index.tsx:114
 #: src/screens/Profile/Sections/Labels.tsx:87
 msgid "Something went wrong, please try again."
-msgstr "Ada yang tidak beres, silakan coba lagi."
+msgstr "Ada kesalahan teknis, silakan coba lagi."
 
 #: src/App.native.tsx:85
 #: src/App.web.tsx:74
