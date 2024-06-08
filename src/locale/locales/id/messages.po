@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-07 12:59\n"
+"PO-Revision-Date: 2024-06-08 11:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1088,7 +1088,7 @@ msgstr "Menutup penampil untuk gambar header"
 
 #: src/view/com/notifications/FeedItem.tsx:205
 msgid "Collapse list of users"
-msgstr "Ciutkan daftar pengguna"
+msgstr "Mengecilkan daftar pengguna"
 
 #: src/view/com/notifications/FeedItem.tsx:341
 msgid "Collapses list of users for a given notification"
@@ -1698,7 +1698,7 @@ msgstr "contoh: Spammer"
 
 #: src/view/com/modals/CreateOrEditList.tsx:301
 msgid "e.g. The posters who never miss."
-msgstr "contoh: Pemosting yang selalu kekinian."
+msgstr "contoh: Pengunggah yang selalu kekinian."
 
 #: src/view/com/modals/CreateOrEditList.tsx:302
 msgid "e.g. Users that repeatedly reply with ads."
@@ -1977,7 +1977,7 @@ msgstr "Perluas teks alt"
 
 #: src/view/com/notifications/FeedItem.tsx:206
 msgid "Expand list of users"
-msgstr "Perluas daftar pengguna"
+msgstr "Meluaskan daftar pengguna"
 
 #: src/view/com/composer/ComposerReplyTo.tsx:82
 #: src/view/com/composer/ComposerReplyTo.tsx:85
@@ -4049,7 +4049,7 @@ msgstr "Postingan tidak ditemukan"
 
 #: src/components/TagMenu/index.tsx:253
 msgid "posts"
-msgstr "postingan"
+msgstr "unggah"
 
 #: src/view/screens/Profile.tsx:193
 msgid "Posts"
@@ -4917,7 +4917,7 @@ msgstr "Pilih \"Tidak\" untuk menyembunyikan semua posting ulang dari feed Anda.
 
 #: src/view/screens/PreferencesThreads.tsx:122
 msgid "Set this setting to \"Yes\" to show replies in a threaded view. This is an experimental feature."
-msgstr "Pilih \"Ya\" untuk menampilkan balasan dalam bentuk tampilan bersusun. Ini merupakan fitur eksperimental."
+msgstr "Tetapkan pengaturan ini menjadi \"Ya\" untuk menampilkan balasan dalam bentuk tampilan berurutan. Ini merupakan fitur eksperimental."
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:260
 msgid "Set this setting to \"Yes\" to show samples of your saved feeds in your Following feed. This is an experimental feature."
@@ -5821,7 +5821,7 @@ msgstr "Preferensi Utasan"
 
 #: src/view/screens/PreferencesThreads.tsx:119
 msgid "Threaded Mode"
-msgstr "Mode Bersusun"
+msgstr "Mode Berurutan"
 
 #: src/Navigation.tsx:276
 msgid "Threads Preferences"
