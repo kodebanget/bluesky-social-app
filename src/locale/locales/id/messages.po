@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-09 04:30\n"
+"PO-Revision-Date: 2024-06-09 10:52\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -822,7 +822,7 @@ msgstr "Batal mengutip postingan"
 
 #: src/screens/Deactivated.tsx:155
 msgid "Cancel reactivation and log out"
-msgstr "Batalkan pengaktifan ulang akun dan keluar"
+msgstr "Batalkan pengaktifan ulang dan keluar"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:87
 #: src/view/shell/desktop/Search.tsx:214
@@ -988,7 +988,7 @@ msgstr "klik di sini"
 
 #: src/view/com/modals/DeleteAccount.tsx:208
 msgid "Click here for more information on deactivating your account"
-msgstr "Klik di sini untuk informasi selengkapnya tentang cara menonaktifkan akun Anda"
+msgstr "Klik di sini untuk informasi selengkapnya tentang cara nonaktifkan akun Anda"
 
 #: src/view/com/modals/DeleteAccount.tsx:216
 msgid "Click here for more information."
@@ -1977,7 +1977,7 @@ msgstr "Perluas teks alt"
 
 #: src/view/com/notifications/FeedItem.tsx:206
 msgid "Expand list of users"
-msgstr "Meluaskan daftar pengguna"
+msgstr "Bentangkan daftar pengguna"
 
 #: src/view/com/composer/ComposerReplyTo.tsx:82
 #: src/view/com/composer/ComposerReplyTo.tsx:85
@@ -2943,7 +2943,7 @@ msgstr "Catatan"
 #: src/screens/Deactivated.tsx:214
 #: src/screens/Deactivated.tsx:220
 msgid "Log in or sign up"
-msgstr "Masuk atau daftar"
+msgstr "Login atau sign up"
 
 #: src/screens/SignupQueued.tsx:155
 #: src/screens/SignupQueued.tsx:158
@@ -3554,7 +3554,7 @@ msgstr "Oh tidak!"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:133
 msgid "Oh no! Something went wrong."
-msgstr "Oh tidak! Ada kesalahan teknis."
+msgstr "Oh tidak! Terjadi kesalahan."
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:336
 msgid "OK"
@@ -3590,7 +3590,7 @@ msgstr "Hanya berisi huruf, angka, dan tanda hubung"
 
 #: src/components/Lists.tsx:88
 msgid "Oops, something went wrong!"
-msgstr "Ups, ada kesalahan teknis!"
+msgstr "Ups, terjadi kesalahan!"
 
 #: src/components/Lists.tsx:191
 #: src/view/screens/AppPasswords.tsx:69
@@ -3805,11 +3805,11 @@ msgstr "Atau gabungkan opsi-opsi berikut:"
 
 #: src/screens/Deactivated.tsx:211
 msgid "Or, continue with another account."
-msgstr "Atau, lanjutkan dengan akun lain."
+msgstr "Atau, lanjutkan dengan akun lainnya."
 
 #: src/screens/Deactivated.tsx:194
 msgid "Or, log into one of your other accounts."
-msgstr "Atau, masuk ke salah satu akun Anda yang lain."
+msgstr "Atau, login dengan salah satu akun Anda yang lain."
 
 #: src/lib/moderation/useReportOptions.ts:26
 msgid "Other"
@@ -4049,7 +4049,7 @@ msgstr "Postingan tidak ditemukan"
 
 #: src/components/TagMenu/index.tsx:253
 msgid "posts"
-msgstr "unggah"
+msgstr "postingan"
 
 #: src/view/screens/Profile.tsx:193
 msgid "Posts"
@@ -4097,7 +4097,7 @@ msgstr "Bahasa Utama"
 
 #: src/view/screens/PreferencesThreads.tsx:97
 msgid "Prioritize Your Follows"
-msgstr "Prioritaskan yang Anda Ikuti"
+msgstr "Prioritaskan akun yang Anda Ikuti"
 
 #: src/view/screens/Settings/index.tsx:654
 #: src/view/shell/desktop/RightNav.tsx:77
@@ -4917,7 +4917,7 @@ msgstr "Pilih \"Tidak\" untuk menyembunyikan semua posting ulang dari feed Anda.
 
 #: src/view/screens/PreferencesThreads.tsx:122
 msgid "Set this setting to \"Yes\" to show replies in a threaded view. This is an experimental feature."
-msgstr "Tetapkan pengaturan ini menjadi \"Ya\" untuk menampilkan balasan dalam bentuk tampilan berurutan. Ini merupakan fitur eksperimental."
+msgstr "Atur pengaturan ini ke “Ya” untuk menunjukkan balasan dalam tampilan berulir. Ini merupakan fitur eksperimental."
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:260
 msgid "Set this setting to \"Yes\" to show samples of your saved feeds in your Following feed. This is an experimental feature."
@@ -5951,7 +5951,7 @@ msgstr "Batal ikuti"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:229
 msgid "Unfollow {0}"
-msgstr "Berhenti mengikuti {0}"
+msgstr "Berhenti ikuti {0}"
 
 #: src/view/com/profile/ProfileMenu.tsx:243
 #: src/view/com/profile/ProfileMenu.tsx:253
