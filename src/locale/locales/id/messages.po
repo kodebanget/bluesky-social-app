@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-10 08:55\n"
+"PO-Revision-Date: 2024-06-10 15:42\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -822,7 +822,7 @@ msgstr "Batal mengutip postingan"
 
 #: src/screens/Deactivated.tsx:155
 msgid "Cancel reactivation and log out"
-msgstr "Batalkan pengaktifan ulang dan keluar"
+msgstr "Batalkan pengaktifan kembali dan keluar"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:87
 #: src/view/shell/desktop/Search.tsx:214
@@ -988,7 +988,7 @@ msgstr "klik di sini"
 
 #: src/view/com/modals/DeleteAccount.tsx:208
 msgid "Click here for more information on deactivating your account"
-msgstr "Klik di sini untuk informasi lebih lengkap tentang cara membekukan akun Anda"
+msgstr "Klik di sini untuk informasi lebih lanjut tentang menonaktifkan akun Anda"
 
 #: src/view/com/modals/DeleteAccount.tsx:216
 msgid "Click here for more information."
@@ -1088,7 +1088,7 @@ msgstr "Menutup penampil untuk gambar header"
 
 #: src/view/com/notifications/FeedItem.tsx:205
 msgid "Collapse list of users"
-msgstr "Mengecilkan daftar pengguna"
+msgstr "Ciutkan daftar pengguna"
 
 #: src/view/com/notifications/FeedItem.tsx:341
 msgid "Collapses list of users for a given notification"
@@ -1698,7 +1698,7 @@ msgstr "contoh: Spammer"
 
 #: src/view/com/modals/CreateOrEditList.tsx:301
 msgid "e.g. The posters who never miss."
-msgstr "contoh: Pengunggah yang selalu kekinian."
+msgstr "contoh: Pemosting yang selalu tepat sasaran."
 
 #: src/view/com/modals/CreateOrEditList.tsx:302
 msgid "e.g. Users that repeatedly reply with ads."
@@ -2943,7 +2943,7 @@ msgstr "Catatan"
 #: src/screens/Deactivated.tsx:214
 #: src/screens/Deactivated.tsx:220
 msgid "Log in or sign up"
-msgstr "Login atau sign up"
+msgstr "Masuk atau daftar"
 
 #: src/screens/SignupQueued.tsx:155
 #: src/screens/SignupQueued.tsx:158
@@ -3349,7 +3349,7 @@ msgstr "Daftar Pengguna Baru"
 
 #: src/view/screens/PreferencesThreads.tsx:79
 msgid "Newest replies first"
-msgstr "Balasan terbaru terlebih dahulu"
+msgstr "Balasan terbaru lebih dulu"
 
 #: src/screens/Onboarding/index.tsx:20
 msgid "News"
@@ -3566,7 +3566,7 @@ msgstr "Baiklah"
 
 #: src/view/screens/PreferencesThreads.tsx:78
 msgid "Oldest replies first"
-msgstr "Balasan terlama terlebih dahulu"
+msgstr "Balasan terlama lebih dulu"
 
 #: src/view/screens/Settings/index.tsx:256
 msgid "Onboarding reset"
@@ -3805,11 +3805,11 @@ msgstr "Atau gabungkan opsi-opsi berikut:"
 
 #: src/screens/Deactivated.tsx:211
 msgid "Or, continue with another account."
-msgstr "Atau, lanjutkan dengan akun lainnya."
+msgstr "Atau, lanjutkan dengan akun lain."
 
 #: src/screens/Deactivated.tsx:194
 msgid "Or, log into one of your other accounts."
-msgstr "Atau, login dengan salah satu akun Anda yang lain."
+msgstr "Atau, masuk ke salah satu akun Anda yang lain."
 
 #: src/lib/moderation/useReportOptions.ts:26
 msgid "Other"
@@ -4097,7 +4097,7 @@ msgstr "Bahasa Utama"
 
 #: src/view/screens/PreferencesThreads.tsx:97
 msgid "Prioritize Your Follows"
-msgstr "Prioritaskan akun yang Anda Ikuti"
+msgstr "Dahulukan akun yang Anda Ikuti"
 
 #: src/view/screens/Settings/index.tsx:654
 #: src/view/shell/desktop/RightNav.tsx:77
@@ -4180,7 +4180,7 @@ msgstr "Kutip postingan"
 
 #: src/view/screens/PreferencesThreads.tsx:86
 msgid "Random (aka \"Poster's Roulette\")"
-msgstr "Acak (alias \"Rolet Poster\")"
+msgstr "Acak (alias \"Rolet Pemosting\")"
 
 #: src/view/com/modals/EditImage.tsx:237
 msgid "Ratios"
@@ -4917,7 +4917,7 @@ msgstr "Pilih \"Tidak\" untuk menyembunyikan semua posting ulang dari feed Anda.
 
 #: src/view/screens/PreferencesThreads.tsx:122
 msgid "Set this setting to \"Yes\" to show replies in a threaded view. This is an experimental feature."
-msgstr "Atur pengaturan ini ke “Ya” untuk menunjukkan balasan dalam tampilan berulir. Ini merupakan fitur eksperimental."
+msgstr "Pilih \"Ya\" untuk menampilkan balasan dalam bentuk tampilan bersusun. Ini merupakan fitur eksperimental."
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:260
 msgid "Set this setting to \"Yes\" to show samples of your saved feeds in your Following feed. This is an experimental feature."
@@ -5821,7 +5821,7 @@ msgstr "Preferensi Utasan"
 
 #: src/view/screens/PreferencesThreads.tsx:119
 msgid "Threaded Mode"
-msgstr "Mode Berurutan"
+msgstr "Mode Bersusun"
 
 #: src/Navigation.tsx:276
 msgid "Threads Preferences"
