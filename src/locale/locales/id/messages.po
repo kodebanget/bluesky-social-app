@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-10 15:42\n"
+"PO-Revision-Date: 2024-06-11 16:07\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2111,7 +2111,7 @@ msgstr "Feed"
 
 #: src/view/screens/SavedFeeds.tsx:180
 msgid "Feeds are custom algorithms that users build with a little coding expertise. <0/> for more information."
-msgstr "Feeds adalah algoritma kustom yang dibuat pengguna dengan sedikit keahlian pemrograman. <0/> untuk informasi lebih lanjut."
+msgstr "Feed adalah algoritma kustom yang dibuat pengguna dengan sedikit keahlian pemrograman. <0/> untuk informasi lebih lanjut."
 
 #: src/screens/Onboarding/StepTopicalFeeds.tsx:80
 #~ msgid "Feeds can be topical as well!"
@@ -2584,7 +2584,7 @@ msgstr "Jika Anda ingin mengubah kata sandi, kami akan mengirimkan kode untuk me
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:92
 msgid "If you're trying to change your handle or email, do so before you deactivate."
-msgstr "Jika Anda mencoba untuk mengubah handle atau email, lakukanlah sebelum Anda menonaktifkannya."
+msgstr "Jika ingin mengubah handle atau email, lakukanlah sebelum Anda menonaktifkan akun."
 
 #: src/lib/moderation/useReportOptions.ts:37
 msgid "Illegal and Urgent"
@@ -2962,7 +2962,7 @@ msgstr "Masuk ke akun yang tidak tercantum dalam daftar"
 
 #: src/components/RichText.tsx:217
 msgid "Long press to open tag menu for #{tag}"
-msgstr "Tekan lama untuk membuka menu tagar untuk #{tag}"
+msgstr "Tekan lama untuk membuka menu tagar #{tag}"
 
 #: src/screens/Login/SetNewPasswordForm.tsx:116
 msgid "Looks like XXXXX-XXXXX"
@@ -3452,7 +3452,7 @@ msgstr "Tidak ditemukan hasil untuk {query}"
 #: src/components/dialogs/GifSelect.ios.tsx:200
 #: src/components/dialogs/GifSelect.tsx:216
 msgid "No search results found for \"{search}\"."
-msgstr "Tidak ada hasil pencarian yang ditemukan untuk \"{search}\"."
+msgstr "Tidak ditemukan hasil pencarian untuk \"{search}\"."
 
 #: src/components/dms/NewChat.tsx:240
 #~ msgid "No search results found for \"{searchText}\"."
@@ -4151,7 +4151,7 @@ msgstr "Daftar publik yang dapat dibagikan untuk memblokir atau membisukan pengg
 
 #: src/view/screens/Lists.tsx:66
 msgid "Public, shareable lists which can drive feeds."
-msgstr "Daftar bersifat publik yang dapat dibagikan dan digunakan sebagai feed."
+msgstr "Daftar terbuka yang dapat dibagikan dan digunakan sebagai feed."
 
 #: src/view/com/composer/Composer.tsx:447
 msgid "Publish post"
