@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-12 04:49\n"
+"PO-Revision-Date: 2024-06-12 11:33\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -52,7 +52,7 @@ msgstr "{0, plural, other {# postingan ulang}}"
 
 #: src/components/KnownFollowers.tsx:179
 msgid "{0, plural, one {and # other} other {and # others}}"
-msgstr ""
+msgstr "{0, plural, other {dan # lainnya}}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:376
 #: src/screens/Profile/Header/Metrics.tsx:23
@@ -2239,7 +2239,7 @@ msgstr "Ikuti Balik"
 
 #: src/components/KnownFollowers.tsx:169
 msgid "Followed by"
-msgstr ""
+msgstr "Diikuti oleh"
 
 #: src/view/com/profile/ProfileCard.tsx:227
 msgid "Followed by {0}"
