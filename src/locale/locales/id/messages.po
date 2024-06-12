@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-12 11:33\n"
+"PO-Revision-Date: 2024-06-12 18:06\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1239,7 +1239,7 @@ msgstr "Lanjutkan sebagai {0} (sudah masuk)"
 
 #: src/view/com/post-thread/PostThreadLoadMore.tsx:52
 msgid "Continue thread..."
-msgstr ""
+msgstr "Lanjutkan utasan..."
 
 #: src/screens/Onboarding/StepInterests/index.tsx:250
 #: src/screens/Onboarding/StepProfile/index.tsx:266
@@ -1720,7 +1720,7 @@ msgstr "Tiap kode hanya berlaku sekali. Anda akan mendapatkan tambahan kode unda
 #: src/view/screens/Feeds.tsx:400
 #: src/view/screens/Feeds.tsx:471
 msgid "Edit"
-msgstr ""
+msgstr "Ubah"
 
 #: src/view/com/lists/ListMembers.tsx:149
 msgctxt "action"
@@ -2264,12 +2264,12 @@ msgstr "Pengikut"
 
 #: src/Navigation.tsx:177
 msgid "Followers of @{0} that you know"
-msgstr ""
+msgstr "Pengikut dari @{0} yang Anda kenal"
 
 #: src/screens/Profile/KnownFollowers.tsx:108
 #: src/screens/Profile/KnownFollowers.tsx:118
 msgid "Followers you know"
-msgstr ""
+msgstr "Pengikut yang Anda kenal"
 
 #: src/components/ProfileHoverCard/index.web.tsx:411
 #: src/components/ProfileHoverCard/index.web.tsx:422
@@ -3453,7 +3453,7 @@ msgstr "Tidak seorang pun"
 
 #: src/screens/Profile/Sections/Feed.tsx:59
 msgid "No posts yet."
-msgstr ""
+msgstr "Belum ada postingan."
 
 #: src/view/com/composer/text-input/mobile/Autocomplete.tsx:101
 #: src/view/com/composer/text-input/web/Autocomplete.tsx:195
@@ -4118,7 +4118,7 @@ msgstr "Tekan untuk mengulangi"
 
 #: src/components/KnownFollowers.tsx:111
 msgid "Press to view followers of this account that you also follow"
-msgstr ""
+msgstr "Klik untuk melihat pengikut dari akun ini yang juga Anda kenal"
 
 #: src/view/com/lightbox/Lightbox.web.tsx:150
 msgid "Previous image"
@@ -5713,7 +5713,7 @@ msgstr "Konten ini tidak dapat dilihat tanpa akun Bluesky."
 
 #: src/screens/Messages/List/ChatListItem.tsx:213
 msgid "This conversation is with a deleted or a deactivated account. Press for options."
-msgstr ""
+msgstr "Ini adalah percakapan dengan akun yang telah dihapus atau dinonaktifkan. Tekan untuk pilihan."
 
 #: src/view/screens/Settings/ExportCarDialog.tsx:93
 msgid "This feature is in beta. You can read more about repository exports in <0>this blogpost</0>."
@@ -5736,7 +5736,7 @@ msgstr "Feed ini kosong! Anda mungkin perlu mengikuti lebih banyak pengguna atau
 #: src/view/screens/ProfileFeed.tsx:471
 #: src/view/screens/ProfileList.tsx:729
 msgid "This feed is empty."
-msgstr ""
+msgstr "Feed ini kosong."
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:97
 msgid "This feed is no longer online. We are showing <0>Discover</0> instead."
@@ -6332,7 +6332,7 @@ msgstr "Lihat pengguna yang menyukai feed ini"
 #: src/view/com/home/HomeHeaderLayout.web.tsx:78
 #: src/view/com/home/HomeHeaderLayoutMobile.tsx:84
 msgid "View your feeds and explore more"
-msgstr ""
+msgstr "Lihat feed Anda dan cari lebih banyak"
 
 #: src/view/com/modals/LinkWarning.tsx:89
 #: src/view/com/modals/LinkWarning.tsx:95
@@ -6423,7 +6423,7 @@ msgstr "Maaf, pencarian Anda tidak dapat dilakukan. Mohon coba lagi dalam bebera
 
 #: src/view/com/composer/Composer.tsx:318
 msgid "We're sorry! The post you are replying to has been deleted."
-msgstr ""
+msgstr "Kami mohon maaf! Postingan yang Anda balas telah dihapus."
 
 #: src/components/Lists.tsx:212
 #: src/view/screens/NotFound.tsx:48
@@ -6587,7 +6587,7 @@ msgstr "Anda tidak memiliki pengikut."
 
 #: src/screens/Profile/KnownFollowers.tsx:99
 msgid "You don't follow any users who follow @{name}."
-msgstr ""
+msgstr "Anda tidak mengikuti satupun pengguna yang mengikuti @{name}."
 
 #: src/view/com/modals/InviteCodes.tsx:67
 msgid "You don't have any invite codes yet! We'll send you some when you've been on Bluesky for a little longer."
