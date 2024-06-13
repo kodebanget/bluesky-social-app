@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-13 11:18\n"
+"PO-Revision-Date: 2024-06-13 17:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1720,7 +1720,7 @@ msgstr "Tiap kode hanya berlaku sekali. Anda akan mendapatkan tambahan kode unda
 #: src/view/screens/Feeds.tsx:400
 #: src/view/screens/Feeds.tsx:471
 msgid "Edit"
-msgstr "Ubah"
+msgstr "Sunting"
 
 #: src/view/com/lists/ListMembers.tsx:149
 msgctxt "action"
@@ -4130,7 +4130,7 @@ msgstr "Bahasa Utama"
 
 #: src/view/screens/PreferencesThreads.tsx:97
 msgid "Prioritize Your Follows"
-msgstr "Dahulukan akun yang Anda Ikuti"
+msgstr "Dahulukan yang Anda Ikuti"
 
 #: src/view/screens/Settings/index.tsx:654
 #: src/view/shell/desktop/RightNav.tsx:77
@@ -6332,7 +6332,7 @@ msgstr "Lihat pengguna yang menyukai feed ini"
 #: src/view/com/home/HomeHeaderLayout.web.tsx:78
 #: src/view/com/home/HomeHeaderLayoutMobile.tsx:84
 msgid "View your feeds and explore more"
-msgstr "Lihat feed Anda dan cari lebih banyak"
+msgstr "Lihat feed Anda dan jelajahi lebih lanjut"
 
 #: src/view/com/modals/LinkWarning.tsx:89
 #: src/view/com/modals/LinkWarning.tsx:95
@@ -6558,7 +6558,7 @@ msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/view/com/modals/DeleteAccount.tsx:202
 msgid "You can also temporarily deactivate your account instead, and reactivate it at any time."
-msgstr "Anda juga dapat menonaktifkan akun Anda untuk sementara, dan kembali mengaktifkan akun anda kapan saja."
+msgstr "Anda juga dapat menonaktifkan akun Anda sementara, dan mengaktifkannya kembali kapan saja."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 #~ msgid "You can change these settings later."
