@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-12 18:06\n"
+"PO-Revision-Date: 2024-06-13 05:01\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2264,7 +2264,7 @@ msgstr "Pengikut"
 
 #: src/Navigation.tsx:177
 msgid "Followers of @{0} that you know"
-msgstr "Pengikut dari @{0} yang Anda kenal"
+msgstr "Pengikut @{0} yang Anda kenal"
 
 #: src/screens/Profile/KnownFollowers.tsx:108
 #: src/screens/Profile/KnownFollowers.tsx:118
@@ -5278,7 +5278,7 @@ msgstr "Beberapa orang dapat membalas"
 
 #: src/screens/Messages/Conversation/index.tsx:106
 msgid "Something went wrong"
-msgstr "Terjadi kesalahan"
+msgstr "Ada yang tidak beres"
 
 #: src/screens/Deactivated.tsx:94
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:59
