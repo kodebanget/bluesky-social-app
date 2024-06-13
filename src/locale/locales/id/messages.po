@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-13 05:01\n"
+"PO-Revision-Date: 2024-06-13 11:18\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1239,7 +1239,7 @@ msgstr "Lanjutkan sebagai {0} (sudah masuk)"
 
 #: src/view/com/post-thread/PostThreadLoadMore.tsx:52
 msgid "Continue thread..."
-msgstr "Lanjutkan utasan..."
+msgstr "Lanjutkan utas..."
 
 #: src/screens/Onboarding/StepInterests/index.tsx:250
 #: src/screens/Onboarding/StepProfile/index.tsx:266
@@ -4213,7 +4213,7 @@ msgstr "Kutip postingan"
 
 #: src/view/screens/PreferencesThreads.tsx:86
 msgid "Random (aka \"Poster's Roulette\")"
-msgstr "Acak (alias \"Rolet Pemosting\")"
+msgstr "Acak (alias \"Poster's Roulette\")"
 
 #: src/view/com/modals/EditImage.tsx:237
 msgid "Ratios"
@@ -5283,13 +5283,13 @@ msgstr "Ada yang tidak beres"
 #: src/screens/Deactivated.tsx:94
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:59
 msgid "Something went wrong, please try again"
-msgstr "Ups, terjadi kesalahan. Silakan coba lagi"
+msgstr "Terjadi kesalahan. Silakan coba lagi"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
 #: src/screens/Profile/Sections/Labels.tsx:87
 msgid "Something went wrong, please try again."
-msgstr "Ups, terjadi kesalahan. Silakan coba lagi."
+msgstr "Terjadi kesalahan. Silakan coba lagi."
 
 #: src/App.native.tsx:85
 #: src/App.web.tsx:74
@@ -6367,7 +6367,7 @@ msgstr "Kami perkirakan {estimatedTime} hingga akun Anda siap."
 
 #: src/screens/Onboarding/StepFinished.tsx:126
 msgid "We hope you have a wonderful time. Remember, Bluesky is:"
-msgstr "Semoga Anda senang dan betah di sini. Ingat, Bluesky adalah:"
+msgstr "Semoga Anda senang dan betah di sini. Ingat, Bluesky itu:"
 
 #: src/view/com/posts/DiscoverFallbackHeader.tsx:29
 msgid "We ran out of posts from your follows. Here's the latest from <0/>."
@@ -6558,7 +6558,7 @@ msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/view/com/modals/DeleteAccount.tsx:202
 msgid "You can also temporarily deactivate your account instead, and reactivate it at any time."
-msgstr "Anda juga dapat menonaktifkan akun Anda untuk sementara, dan mengaktifkannya kembali kapan saja."
+msgstr "Anda juga dapat menonaktifkan akun Anda untuk sementara, dan kembali mengaktifkan akun anda kapan saja."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 #~ msgid "You can change these settings later."
@@ -6587,7 +6587,7 @@ msgstr "Anda tidak memiliki pengikut."
 
 #: src/screens/Profile/KnownFollowers.tsx:99
 msgid "You don't follow any users who follow @{name}."
-msgstr "Anda tidak mengikuti satupun pengguna yang mengikuti @{name}."
+msgstr "Anda tidak mengikuti satu pun pengguna yang mengikuti @{name}."
 
 #: src/view/com/modals/InviteCodes.tsx:67
 msgid "You don't have any invite codes yet! We'll send you some when you've been on Bluesky for a little longer."
