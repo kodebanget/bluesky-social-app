@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-13 17:14\n"
+"PO-Revision-Date: 2024-06-14 14:56\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3214,7 +3214,7 @@ msgstr "Bisukan kata ini hanya dalam tagar"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:352
 #: src/view/com/util/forms/PostDropdownBtn.tsx:358
 msgid "Mute thread"
-msgstr "Bisukan utasan"
+msgstr "Bisukan utas"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:368
 #: src/view/com/util/forms/PostDropdownBtn.tsx:370
@@ -5859,7 +5859,7 @@ msgstr "Preferensi utasan"
 #: src/view/screens/PreferencesThreads.tsx:53
 #: src/view/screens/Settings/index.tsx:604
 msgid "Thread Preferences"
-msgstr "Preferensi Utasan"
+msgstr "Preferensi Utas"
 
 #: src/view/screens/PreferencesThreads.tsx:119
 msgid "Threaded Mode"
@@ -6037,7 +6037,7 @@ msgstr "Bunyikan percakapan"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:352
 #: src/view/com/util/forms/PostDropdownBtn.tsx:357
 msgid "Unmute thread"
-msgstr "Bunyikan utasan"
+msgstr "Bunyikan utas"
 
 #: src/view/screens/ProfileFeed.tsx:290
 #: src/view/screens/ProfileList.tsx:617
