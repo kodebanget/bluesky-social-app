@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-15 10:47\n"
+"PO-Revision-Date: 2024-06-15 16:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3997,7 +3997,7 @@ msgstr "Masukkan juga kata sandi Anda:"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:256
 msgid "Please explain why you think this label was incorrectly applied by {0}"
-msgstr "Jelaskan menurut Anda mengapa {0} salah menerapkan label ini"
+msgstr "Jelaskan menurut Anda mengapa {0} salah dalam menerapkan label ini"
 
 #: src/screens/Messages/Conversation/ChatDisabled.tsx:110
 msgid "Please explain why you think your chats were incorrectly disabled"
@@ -4180,7 +4180,7 @@ msgstr "Publik"
 
 #: src/view/screens/ModerationModlists.tsx:61
 msgid "Public, shareable lists of users to mute or block in bulk."
-msgstr "Daftar publik yang dapat dibagikan untuk memblokir atau membisukan pengguna secara massal."
+msgstr "Daftar terbuka yang dapat dibagikan untuk memblokir atau membisukan pengguna secara massal."
 
 #: src/view/screens/Lists.tsx:66
 msgid "Public, shareable lists which can drive feeds."
