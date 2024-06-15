@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-15 04:51\n"
+"PO-Revision-Date: 2024-06-15 10:47\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1988,7 +1988,7 @@ msgstr "Keluar dari memasukkan permintaan pencarian"
 
 #: src/view/com/lightbox/Lightbox.web.tsx:183
 msgid "Expand alt text"
-msgstr "Perluas teks alt"
+msgstr "Bentangkan teks alt"
 
 #: src/view/com/notifications/FeedItem.tsx:206
 msgid "Expand list of users"
@@ -2585,7 +2585,7 @@ msgstr "Saya mengerti"
 
 #: src/view/com/lightbox/Lightbox.web.tsx:185
 msgid "If alt text is long, toggles alt text expanded state"
-msgstr "Jika teks alt panjang, alihkan status teks alt yang diperluas"
+msgstr "Beralih ke status teks alt yang dibentangkan jika teks alt panjang"
 
 #: src/view/com/modals/SelfLabel.tsx:128
 msgid "If none are selected, suitable for all ages."
@@ -2686,7 +2686,7 @@ msgstr "Kode konfirmasi 2FA tidak valid."
 
 #: src/view/com/post-thread/PostThreadItem.tsx:235
 msgid "Invalid or unsupported post record"
-msgstr "Catatan posting tidak valid atau tidak didukung"
+msgstr "Catatan postingan tidak valid atau tidak didukung"
 
 #: src/screens/Login/LoginForm.tsx:137
 msgid "Invalid username or password"
@@ -3583,7 +3583,7 @@ msgstr "Oh tidak!"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:133
 msgid "Oh no! Something went wrong."
-msgstr "Oh tidak! Terjadi kesalahan."
+msgstr "Oh tidak! Ada yang tidak beres."
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:336
 msgid "OK"
@@ -3619,7 +3619,7 @@ msgstr "Hanya berisi huruf, angka, dan tanda hubung"
 
 #: src/components/Lists.tsx:88
 msgid "Oops, something went wrong!"
-msgstr "Ups, terjadi kesalahan!"
+msgstr "Ups, ada yang tidak beres!"
 
 #: src/components/Lists.tsx:191
 #: src/view/screens/AppPasswords.tsx:69
@@ -4118,7 +4118,7 @@ msgstr "Tekan untuk mengulangi"
 
 #: src/components/KnownFollowers.tsx:111
 msgid "Press to view followers of this account that you also follow"
-msgstr "Klik untuk melihat pengikut dari akun ini yang juga Anda kenal"
+msgstr "Tekan untuk melihat pengikut akun ini yang juga Anda ikuti"
 
 #: src/view/com/lightbox/Lightbox.web.tsx:150
 msgid "Previous image"
@@ -5283,13 +5283,13 @@ msgstr "Ada yang tidak beres"
 #: src/screens/Deactivated.tsx:94
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:59
 msgid "Something went wrong, please try again"
-msgstr "Terjadi kesalahan. Silakan coba lagi"
+msgstr "Ada yang tidak beres, silakan coba lagi"
 
 #: src/components/ReportDialog/index.tsx:59
 #: src/screens/Moderation/index.tsx:114
 #: src/screens/Profile/Sections/Labels.tsx:87
 msgid "Something went wrong, please try again."
-msgstr "Terjadi kesalahan. Silakan coba lagi."
+msgstr "Ada yang tidak beres, silakan coba lagi."
 
 #: src/App.native.tsx:85
 #: src/App.web.tsx:74
@@ -5713,7 +5713,7 @@ msgstr "Konten ini tidak dapat dilihat tanpa akun Bluesky."
 
 #: src/screens/Messages/List/ChatListItem.tsx:213
 msgid "This conversation is with a deleted or a deactivated account. Press for options."
-msgstr "Ini adalah percakapan dengan akun yang telah dihapus atau dinonaktifkan. Tekan untuk pilihan."
+msgstr "Percakapan ini dilakukan dengan akun yang telah dihapus atau dinonaktifkan. Tekan untuk opsi lain."
 
 #: src/view/screens/Settings/ExportCarDialog.tsx:93
 msgid "This feature is in beta. You can read more about repository exports in <0>this blogpost</0>."
@@ -5731,7 +5731,7 @@ msgstr "Feed ini sedang menerima terlalu banyak trafik dan sementara tidak terse
 
 #: src/view/com/posts/CustomFeedEmptyState.tsx:37
 msgid "This feed is empty! You may need to follow more users or tune your language settings."
-msgstr "Feed ini kosong! Anda mungkin perlu mengikuti lebih banyak pengguna atau menyesuaikan pengaturan bahasa Anda."
+msgstr "Feed ini kosong! Anda mungkin perlu mengikuti lebih banyak pengguna atau menyesuaikan pengaturan bahasa."
 
 #: src/view/screens/ProfileFeed.tsx:471
 #: src/view/screens/ProfileList.tsx:729
@@ -6558,7 +6558,7 @@ msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/view/com/modals/DeleteAccount.tsx:202
 msgid "You can also temporarily deactivate your account instead, and reactivate it at any time."
-msgstr "Anda juga dapat menonaktifkan akun Anda sementara, dan mengaktifkannya kembali kapan saja."
+msgstr "Anda juga dapat menonaktifkan akun untuk sementara, dan mengaktifkannya kembali kapan saja."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 #~ msgid "You can change these settings later."
