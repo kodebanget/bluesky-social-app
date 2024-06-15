@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-14 14:56\n"
+"PO-Revision-Date: 2024-06-15 04:51\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -662,7 +662,7 @@ msgstr "Akun yang diblokir tidak dapat membalas utas Anda, menyebut Anda, atau b
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:117
 msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. You will not see their content and they will be prevented from seeing yours."
-msgstr "Akun yang diblokir tidak dapat membalas postingan Anda, menyebut Anda, atau berinteraksi dengan Anda. Anda juga tidak akan melihat konten mereka dan mereka akan dicegah melihat konten Anda."
+msgstr "Akun yang diblokir tidak dapat membalas utas Anda, menyebut Anda, atau berinteraksi dengan Anda. Anda juga tidak akan melihat konten mereka dan mereka akan dicegah melihat konten Anda."
 
 #: src/view/com/post-thread/PostThread.tsx:363
 msgid "Blocked post."
@@ -674,7 +674,7 @@ msgstr "Pemblokiran tidak menghalangi pelabel ini menerapkan label pada akun And
 
 #: src/view/screens/ProfileList.tsx:685
 msgid "Blocking is public. Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
-msgstr "Pemblokiran bersifat publik. Akun yang diblokir tidak dapat membalas postingan Anda, menyebut Anda, atau berinteraksi dengan Anda."
+msgstr "Pemblokiran bersifat publik. Akun yang diblokir tidak dapat membalas utas Anda, menyebut Anda, atau berinteraksi dengan Anda."
 
 #: src/view/com/profile/ProfileMenu.tsx:355
 msgid "Blocking will not prevent labels from being applied on your account, but it will stop this account from replying in your threads or interacting with you."
@@ -2175,7 +2175,7 @@ msgstr "Sesuaikan konten yang Anda lihat di feed Mengikuti."
 
 #: src/view/screens/PreferencesThreads.tsx:60
 msgid "Fine-tune the discussion threads."
-msgstr "Sesuaikan utasan diskusi."
+msgstr "Sesuaikan utas diskusi."
 
 #: src/screens/Onboarding/index.tsx:35
 msgid "Fitness"
@@ -3812,7 +3812,7 @@ msgstr "Membuka halaman log sistem"
 
 #: src/view/screens/Settings/index.tsx:595
 msgid "Opens the threads preferences"
-msgstr "Membuka preferensi utasan"
+msgstr "Membuka preferensi utas"
 
 #: src/view/com/notifications/FeedItem.tsx:427
 #: src/view/com/util/UserAvatar.tsx:409
@@ -5854,7 +5854,7 @@ msgstr "Ini akan menghapus {0} dari daftar kata yang Anda bisukan. Anda tetap da
 
 #: src/view/screens/Settings/index.tsx:594
 msgid "Thread preferences"
-msgstr "Preferensi utasan"
+msgstr "Preferensi utas"
 
 #: src/view/screens/PreferencesThreads.tsx:53
 #: src/view/screens/Settings/index.tsx:604
