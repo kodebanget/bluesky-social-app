@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-18 02:27\n"
+"PO-Revision-Date: 2024-06-18 20:25\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5359,7 +5359,7 @@ msgstr "Langkah {0} dari {1}"
 
 #: src/view/screens/Settings/index.tsx:304
 msgid "Storage cleared, you need to restart the app now."
-msgstr "Penyimpanan dihapus, Anda perlu memulai ulang aplikasi sekarang."
+msgstr "Penyimpanan dibersihkan, Anda perlu memulai ulang aplikasi sekarang."
 
 #: src/Navigation.tsx:224
 #: src/view/screens/Settings/index.tsx:863
