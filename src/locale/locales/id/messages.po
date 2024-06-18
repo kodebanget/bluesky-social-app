@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-15 16:50\n"
+"PO-Revision-Date: 2024-06-18 02:27\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6702,7 +6702,7 @@ msgstr "Anda harus memilih setidaknya satu pelabel untuk sebuah laporan"
 
 #: src/screens/Deactivated.tsx:131
 msgid "You previously deactivated @{0}."
-msgstr "Anda sebelumnya telah menonaktifkan @{0}."
+msgstr "Anda sebelumnya telah dinonaktifkan @{0}."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:168
 msgid "You will no longer receive notifications for this thread"
