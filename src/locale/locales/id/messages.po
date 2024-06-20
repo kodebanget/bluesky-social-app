@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-20 10:47\n"
+"PO-Revision-Date: 2024-06-20 16:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2831,7 +2831,7 @@ msgstr "yang tersisa"
 
 #: src/view/screens/Settings/index.tsx:308
 msgid "Legacy storage cleared, you need to restart the app now."
-msgstr "Penyimpanan lama dihapus, Anda perlu memulai ulang aplikasi sekarang."
+msgstr "Penyimpanan lama dibersihkan, Anda perlu memulai ulang aplikasi sekarang."
 
 #: src/screens/Login/index.tsx:130
 #: src/screens/Login/index.tsx:145
@@ -3742,7 +3742,7 @@ msgstr "Membuka daftar kode undangan"
 
 #: src/view/screens/Settings/index.tsx:808
 msgid "Opens modal for account deactivation confirmation"
-msgstr "Membuka modal untuk konfirmasi penonaktifan akun"
+msgstr "Membuka jendela modal untuk konfirmasi penonaktifan akun"
 
 #: src/view/screens/Settings/index.tsx:830
 msgid "Opens modal for account deletion confirmation. Requires email code"
@@ -4564,7 +4564,7 @@ msgstr "Mencoba masuk kembali"
 #: src/view/com/util/error/ErrorMessage.tsx:57
 #: src/view/com/util/error/ErrorScreen.tsx:74
 msgid "Retries the last action, which errored out"
-msgstr "Mencoba kembali tindakan terakhir, yang gagal"
+msgstr "Mencoba kembali tindakan terakhir yang gagal"
 
 #: src/components/dms/MessageItem.tsx:241
 #: src/components/Error.tsx:90
@@ -6355,7 +6355,7 @@ msgstr "Peringatkan konten dan saring dari feed"
 
 #: src/screens/Hashtag.tsx:210
 msgid "We couldn't find any results for that hashtag."
-msgstr "Kami tidak dapat menemukan hasil apa pun untuk tagar tersebut."
+msgstr "Kami tidak menemukan hasil apa pun untuk tagar tersebut."
 
 #: src/screens/Messages/Conversation/index.tsx:107
 msgid "We couldn't load this conversation"
