@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-18 20:25\n"
+"PO-Revision-Date: 2024-06-20 10:47\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3007,7 +3007,7 @@ msgstr "Sepertinya Anda menghapus semua feed tersemat. Tapi jangan khawatir, And
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:37
 msgid "Looks like you're missing a following feed. <0>Click here to add one.</0>"
-msgstr "Sepertinya Anda kehilangan feed mengikuti. <0>Klik di sini untuk menambahkan.</0>"
+msgstr "Sepertinya Anda belum memiliki feed mengikuti. <0>Klik di sini untuk menambahkan.</0>"
 
 #: src/view/com/modals/LinkWarning.tsx:79
 msgid "Make sure this is where you intend to go!"
@@ -4213,7 +4213,7 @@ msgstr "Kutip postingan"
 
 #: src/view/screens/PreferencesThreads.tsx:86
 msgid "Random (aka \"Poster's Roulette\")"
-msgstr "Acak (alias \"Poster's Roulette\")"
+msgstr "Acak (alias \"Rolet Pemosting\")"
 
 #: src/view/com/modals/EditImage.tsx:237
 msgid "Ratios"
@@ -5400,7 +5400,7 @@ msgstr "Berlangganan ke daftar ini"
 
 #: src/view/screens/Search/Search.tsx:425
 msgid "Suggested Follows"
-msgstr "Saran untuk Diikuti"
+msgstr "Saran akun untuk Diikuti"
 
 #: src/view/com/profile/ProfileHeaderSuggestedFollows.tsx:65
 msgid "Suggested for you"
@@ -6702,7 +6702,7 @@ msgstr "Anda harus memilih setidaknya satu pelabel untuk sebuah laporan"
 
 #: src/screens/Deactivated.tsx:131
 msgid "You previously deactivated @{0}."
-msgstr "Anda sebelumnya telah dinonaktifkan @{0}."
+msgstr "Anda telah menonaktifkan @{0} sebelumnya."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:168
 msgid "You will no longer receive notifications for this thread"
