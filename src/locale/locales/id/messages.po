@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-23 04:49\n"
+"PO-Revision-Date: 2024-06-23 11:21\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -447,7 +447,7 @@ msgstr "Lanjutan"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:271
 msgid "All accounts have been followed!"
-msgstr ""
+msgstr "Semua akun yang telah diikuti!"
 
 #: src/view/screens/Feeds.tsx:721
 msgid "All the feeds you've saved, right in one place."
@@ -516,12 +516,12 @@ msgstr ""
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 msgid "An error occurred while saving the image."
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan gambar."
 
 #: src/components/StarterPack/QrCodeDialog.tsx:76
 #: src/components/StarterPack/ShareDialog.tsx:91
 msgid "An error occurred while saving the QR code!"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan kode QR!"
 
 #: src/components/dms/MessageMenu.tsx:134
 #~ msgid "An error occurred while trying to delete the message. Please try again."
