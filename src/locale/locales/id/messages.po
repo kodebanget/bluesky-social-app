@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-23 11:21\n"
+"PO-Revision-Date: 2024-06-24 01:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -95,7 +95,7 @@ msgstr "{0, plural, other {Batal suka (# menyukai)}}"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:343
 msgid "{0} people have used this starter pack!"
-msgstr ""
+msgstr "{0} orang sudah menggunakan starter pack ini!"
 
 #: src/view/screens/ProfileList.tsx:286
 #~ msgid "{0} your feeds"
@@ -170,7 +170,7 @@ msgstr "{numUnreadNotifications} belum dibaca"
 
 #: src/components/NewskieDialog.tsx:92
 msgid "{profileName} joined Bluesky {0} ago"
-msgstr ""
+msgstr "{profileName} bergabung ke Bluesky {0} yang lalu"
 
 #: src/components/NewskieDialog.tsx:87
 msgid "{profileName} joined Bluesky using a starter pack {0} ago"
