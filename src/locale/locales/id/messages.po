@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-25 14:39\n"
+"PO-Revision-Date: 2024-06-25 20:37\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5841,7 +5841,7 @@ msgstr ""
 
 #: src/view/screens/Profile.tsx:221
 msgid "Starter Packs"
-msgstr ""
+msgstr "Paket Pemula"
 
 #: src/view/screens/Settings/index.tsx:862
 #~ msgid "Status page"
@@ -5969,7 +5969,7 @@ msgstr "Ceritakan sebuah lelucon!"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:63
 msgid "Tell us a little more"
-msgstr ""
+msgstr "Beritahu kami lebih banyak lagi"
 
 #: src/view/shell/desktop/RightNav.tsx:86
 msgid "Terms"
@@ -6368,7 +6368,7 @@ msgstr "Pengguna ini termasuk dalam daftar <0>{0}</0> yang telah Anda bisukan"
 
 #: src/components/NewskieDialog.tsx:53
 msgid "This user is new here. Press for more info about when they joined."
-msgstr ""
+msgstr "Pengguna ini baru di sini. Tekan untuk lebih lanjut mengenai kapan mereka bergabung."
 
 #: src/view/com/profile/ProfileFollows.tsx:87
 msgid "This user isn't following anyone."
@@ -6477,7 +6477,7 @@ msgstr "Tidak dapat terhubung ke layanan. Mohon periksa koneksi internet Anda."
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:513
 msgid "Unable to delete"
-msgstr ""
+msgstr "Tidak dapat dihapus"
 
 #: src/components/dms/MessagesListBlockedFooter.tsx:89
 #: src/components/dms/MessagesListBlockedFooter.tsx:96
@@ -6826,7 +6826,7 @@ msgstr "Lihat profil {0}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:430
 msgid "View blocked user's profile"
-msgstr ""
+msgstr "Lihat profil pengguna yang diblokir"
 
 #: src/view/screens/Log.tsx:56
 msgid "View debug entry"
@@ -6975,7 +6975,7 @@ msgstr "Maaf! Kami tidak dapat menemukan halaman yang Anda cari."
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:330
 msgid "We're sorry! You can only subscribe to twenty labelers, and you've reached your limit of twenty."
-msgstr ""
+msgstr "Maaf! Anda hanya dapat berlangganan dua puluh pelabel, dan Anda telah mencapai batas dua puluh."
 
 #: src/screens/Deactivated.tsx:128
 msgid "Welcome back!"
@@ -7024,7 +7024,7 @@ msgstr ""
 
 #: src/view/com/threadgate/WhoCanReply.tsx:210
 msgid "Who can reply?"
-msgstr ""
+msgstr "Siapa yang dapat membalas?"
 
 #: src/screens/Home/NoFeedsPinned.tsx:79
 #: src/screens/Messages/List/index.tsx:185
@@ -7110,7 +7110,7 @@ msgstr "Kemarin, {time}"
 
 #: src/components/StarterPack/StarterPackCard.tsx:68
 msgid "you"
-msgstr ""
+msgstr "anda"
 
 #: src/screens/SignupQueued.tsx:136
 msgid "You are in line."
