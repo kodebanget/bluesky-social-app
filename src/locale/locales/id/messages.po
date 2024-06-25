@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-25 06:51\n"
+"PO-Revision-Date: 2024-06-25 14:39\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -119,11 +119,11 @@ msgstr "{count, plural, other {Disukai oleh # pengguna}}"
 
 #: src/lib/hooks/useTimeAgo.ts:69
 msgid "{diff, plural, one {day} other {days}}"
-msgstr "{diff, plural, one {hari} other {hari}}"
+msgstr "{diff, plural, other {hari}}"
 
 #: src/lib/hooks/useTimeAgo.ts:64
 msgid "{diff, plural, one {hour} other {hours}}"
-msgstr "{diff, plural, one {jam} other {jam}}"
+msgstr "{diff, plural, other {jam}}"
 
 #: src/lib/hooks/useTimeAgo.ts:59
 msgid "{diff, plural, one {minute} other {minutes}}"
@@ -131,11 +131,11 @@ msgstr "{diff, plural, one {menit} other {menit}}"
 
 #: src/lib/hooks/useTimeAgo.ts:75
 msgid "{diff, plural, one {month} other {months}}"
-msgstr "{diff, plural, one {bulan} other {bulan}}"
+msgstr "{diff, plural, other {bulan}}"
 
 #: src/lib/hooks/useTimeAgo.ts:54
 msgid "{diffSeconds, plural, one {second} other {seconds}}"
-msgstr "{diffSeconds, plural, one {detik} other {detik}}"
+msgstr "{diffSeconds, plural, other {detik}}"
 
 #: src/screens/StarterPack/Wizard/index.tsx:182
 msgid "{displayName}'s Starter Pack"
