@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-28 07:58\n"
+"PO-Revision-Date: 2024-06-28 14:17\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1082,7 +1082,7 @@ msgstr "Pilihkan untuk saya"
 
 #: src/screens/StarterPack/Wizard/index.tsx:187
 msgid "Choose People"
-msgstr "Pilih Orang"
+msgstr "Pilih Akun"
 
 #: src/view/com/auth/server-input/index.tsx:79
 msgid "Choose Service"
@@ -1964,7 +1964,7 @@ msgstr "Edit avatar"
 
 #: src/components/StarterPack/Wizard/WizardEditListDialog.tsx:117
 msgid "Edit Feeds"
-msgstr "Sunting Feed"
+msgstr "Ubah Daftar Feed"
 
 #: src/view/com/composer/photos/Gallery.tsx:151
 #: src/view/com/modals/EditImage.tsx:208
@@ -1992,7 +1992,7 @@ msgstr "Edit profil saya"
 
 #: src/components/StarterPack/Wizard/WizardEditListDialog.tsx:115
 msgid "Edit People"
-msgstr "Sunting Orang"
+msgstr "Ubah Daftar Akun"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:181
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:179
@@ -2019,7 +2019,7 @@ msgstr "Edit Daftar Pengguna"
 
 #: src/components/WhoCanReply.tsx:127
 msgid "Edit who can reply"
-msgstr "Sunting siapa yang dapat membalas"
+msgstr "Ubah siapa yang dapat membalas"
 
 #: src/view/com/modals/EditProfile.tsx:194
 msgid "Edit your display name"
@@ -3326,7 +3326,7 @@ msgstr "Daftar yang memblokir pengguna ini:"
 
 #: src/view/screens/Search/Explore.tsx:130
 msgid "Load more"
-msgstr "Muat lainnya"
+msgstr "Muat lebih banyak"
 
 #: src/view/screens/Search/Explore.tsx:218
 msgid "Load more suggested feeds"
@@ -5915,7 +5915,7 @@ msgstr "Paket Pemula"
 
 #: src/components/StarterPack/StarterPackCard.tsx:65
 msgid "Starter pack by {0}"
-msgstr "Paket pemula {0}"
+msgstr "Paket pemula oleh {0}"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:614
 msgid "Starter pack is invalid"
@@ -6457,7 +6457,7 @@ msgstr "Pengguna ini termasuk dalam daftar <0>{0}</0> yang telah Anda bisukan"
 
 #: src/components/NewskieDialog.tsx:65
 msgid "This user is new here. Press for more info about when they joined."
-msgstr "Pengguna ini baru di sini. Tekan untuk informasi lebih lanjut tentang kapan ia bergabung."
+msgstr "Pengguna ini masih baru. Tekan untuk informasi lebih lanjut tentang kapan ia bergabung."
 
 #: src/view/com/profile/ProfileFollows.tsx:87
 msgid "This user isn't following anyone."
@@ -7232,7 +7232,7 @@ msgstr "Anda juga bisa menemukan Feed Kustom baru untuk diikuti."
 
 #: src/view/com/modals/DeleteAccount.tsx:202
 msgid "You can also temporarily deactivate your account instead, and reactivate it at any time."
-msgstr "Anda juga dapat menonaktifkan akun untuk sementara, dan mengaktifkannya kembali kapanpun."
+msgstr "Anda juga dapat menonaktifkan akun untuk sementara, dan mengaktifkannya kembali kapan saja."
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:143
 #~ msgid "You can change these settings later."
@@ -7440,7 +7440,7 @@ msgstr "Anda akan mengikuti orang-orang ini dan {0} lainnya"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:231
 msgid "You'll follow these people right away"
-msgstr "Anda akan langsung mengikuti orang-orang ini"
+msgstr "Anda akan otomatis mengikuti para pengguna ini"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:271
 msgid "You'll stay updated with these feeds"
