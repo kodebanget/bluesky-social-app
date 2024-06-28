@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-27 16:58\n"
+"PO-Revision-Date: 2024-06-28 00:36\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -111,7 +111,7 @@ msgstr "Avatar {0}"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:68
 msgid "{0}'s favorite feeds and people - join me!"
-msgstr "Feed dan pengguna favorit {0} - bergabunglah dengan saya!"
+msgstr "Feed dan pengguna favorit {0} - ayo bergabung!"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:47
 msgid "{0}'s starter pack"
@@ -460,7 +460,7 @@ msgstr "Konten Dewasa"
 
 #: src/screens/Moderation/index.tsx:356
 msgid "Adult content can only be enabled via the Web at <0>bsky.app</0>."
-msgstr "Konten dewasa hanya dapat diaktifkan melalui Web <0>bsky.app</0>."
+msgstr "Konten dewasa hanya dapat diaktifkan melalui laman <0>bsky.app</0>."
 
 #: src/components/moderation/LabelPreference.tsx:242
 msgid "Adult content is disabled."
@@ -844,7 +844,7 @@ msgstr "Bluesky adalah jaringan terbuka di mana Anda dapat memilih penyedia host
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:282
 msgid "Bluesky will choose a set of recommended accounts from people in your network."
-msgstr "Bluesky akan memilih serangkaian akun yang direkomendasikan dari orang-orang di jaringan Anda."
+msgstr "Bluesky akan memilih serangkaian akun yang direkomendasikan dari orang-orang dalam jaringan Anda."
 
 #: src/screens/Moderation/index.tsx:557
 msgid "Bluesky will not show your profile and posts to logged-out users. Other apps may not honor this request. This does not make your account private."
