@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-28 00:36\n"
+"PO-Revision-Date: 2024-06-28 07:58\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -99,7 +99,7 @@ msgstr "{0} telah bergabung minggu ini"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:378
 msgid "{0} people have used this starter pack!"
-msgstr "{0} orang sudah menggunakan paket pemula ini!"
+msgstr "{0} orang telah menggunakan paket pemula ini!"
 
 #: src/view/screens/ProfileList.tsx:286
 #~ msgid "{0} your feeds"
@@ -658,7 +658,7 @@ msgstr "Apakah Anda yakin ingin menghapus paket pemula ini?"
 
 #: src/view/screens/AppPasswords.tsx:282
 msgid "Are you sure you want to delete the app password \"{name}\"?"
-msgstr "Anda yakin untuk menghapus kata sandi aplikasi \"{name}\"?"
+msgstr "Apakah Anda yakin ingin menghapus sandi aplikasi \"{name}\"?"
 
 #: src/components/dms/MessageMenu.tsx:123
 #~ msgid "Are you sure you want to delete this message? The message will be deleted for you, but not for other participants."
@@ -3693,7 +3693,7 @@ msgstr "Alam"
 
 #: src/view/com/util/post-embeds/ExternalLinkEmbed.tsx:73
 msgid "Navigate to starter pack"
-msgstr "Menuju ke paket pemula"
+msgstr "Arahkan ke paket pemula"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:173
 #: src/screens/Login/LoginForm.tsx:312
@@ -5811,7 +5811,7 @@ msgstr "Masuk sebagai @{0}"
 
 #: src/view/com/notifications/FeedItem.tsx:197
 msgid "signed up with your starter pack"
-msgstr "mendaftar dengan paket pemula Anda"
+msgstr "telah mendaftar dengan paket pemula Anda"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:300
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:307
@@ -7388,11 +7388,11 @@ msgstr "Anda harus mengikuti setidaknya tujuh orang lainnya untuk membuat paket 
 
 #: src/components/StarterPack/QrCodeDialog.tsx:60
 msgid "You must grant access to your photo library to save a QR code"
-msgstr "Anda harus memberikan akses pada penyimpanan foto Anda untuk menyimpan kode QR"
+msgstr "Anda harus memberikan akses ke pustaka foto Anda untuk menyimpan kode QR"
 
 #: src/components/StarterPack/ShareDialog.tsx:68
 msgid "You must grant access to your photo library to save the image."
-msgstr "Anda harus memberikan akses pada penyimpanan foto Anda untuk menyimpan gambar ini."
+msgstr "Anda harus memberikan akses ke pustaka foto Anda untuk menyimpan gambar ini."
 
 #: src/components/ReportDialog/SubmitView.tsx:205
 msgid "You must select at least one labeler for a report"
@@ -7444,7 +7444,7 @@ msgstr "Anda akan langsung mengikuti orang-orang ini"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:271
 msgid "You'll stay updated with these feeds"
-msgstr "Anda akan mendapatkan informasi terbaru melalui feed berikut"
+msgstr "Anda akan tetap terbarui melalui feed berikut"
 
 #: src/screens/Onboarding/StepModeration/index.tsx:60
 #~ msgid "You're in control"
