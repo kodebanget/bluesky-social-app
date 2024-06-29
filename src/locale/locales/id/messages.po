@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-29 04:35\n"
+"PO-Revision-Date: 2024-06-29 10:31\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -111,7 +111,7 @@ msgstr "Avatar {0}"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:68
 msgid "{0}'s favorite feeds and people - join me!"
-msgstr "Feed dan pengguna favorit {0} - ayo bergabung!"
+msgstr "Feed dan akun favorit {0} - ayo bergabung!"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:47
 msgid "{0}'s starter pack"
@@ -538,7 +538,7 @@ msgstr "Terjadi kesalahan"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:315
 msgid "An error occurred while generating your starter pack. Want to try again?"
-msgstr "Terjadi kesalahan saat membuat paket pemula. Mau coba kembali?"
+msgstr "Terjadi kesalahan saat membuat paket pemula. Coba lagi?"
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 #~ msgid "An error occurred while saving the image."
@@ -2681,7 +2681,7 @@ msgstr "Galeri"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:279
 msgid "Generate a starter pack"
-msgstr "Buat paket pemula"
+msgstr "Buatkan paket pemula"
 
 #: src/components/dms/MessagesNUX.tsx:168
 msgid "Get started"
@@ -3065,7 +3065,7 @@ msgstr "Undang orang lain ke paket pemula ini!"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:35
 msgid "Invite your friends to follow your favorite feeds and people"
-msgstr "Undang teman Anda untuk mengikuti feed dan orang-orang favorit Anda"
+msgstr "Undang teman untuk mengikuti feed dan akun favorit Anda"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:32
 msgid "Invites, but personal"
@@ -3107,7 +3107,7 @@ msgstr "Dilabeli oleh {0}."
 
 #: src/components/moderation/ContentHider.tsx:145
 msgid "Labeled by the author."
-msgstr "Dilabeli oleh penulis."
+msgstr "Dilabeli oleh pemosting."
 
 #: src/view/screens/Profile.tsx:207
 msgid "Labels"
@@ -3401,7 +3401,7 @@ msgstr "Sepertinya Anda belum memiliki feed mengikuti. <0>Klik di sini untuk men
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:254
 msgid "Make one for me"
-msgstr "Buatkan paket pemula untuk saya"
+msgstr "Buatkan untuk saya"
 
 #: src/view/com/modals/LinkWarning.tsx:79
 msgid "Make sure this is where you intend to go!"
@@ -4827,7 +4827,7 @@ msgstr "Dihapus dari daftar feed Anda"
 
 #: src/view/com/composer/ExternalEmbed.tsx:88
 msgid "Removes default thumbnail from {0}"
-msgstr "Menghapus gambar pra tinjau bawaan dari {0}"
+msgstr "Menghapus keluku gambar bawaan dari {0}"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:239
 msgid "Removes quoted post"
@@ -7436,7 +7436,7 @@ msgstr "Anda akan mengikuti pengguna yang disarankan setelah selesai membuat aku
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:233
 msgid "You'll follow these people and {0} others"
-msgstr "Anda akan mengikuti orang-orang ini dan {0} lainnya"
+msgstr "Anda akan mengikuti para pengguna ini dan {0} lainnya"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:231
 msgid "You'll follow these people right away"
