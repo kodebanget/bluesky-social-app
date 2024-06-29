@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-28 20:26\n"
+"PO-Revision-Date: 2024-06-29 04:35\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1550,7 +1550,7 @@ msgstr "Buat paket pemula"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:246
 msgid "Create a starter pack for me"
-msgstr "Buat paket pemula untuk saya"
+msgstr "Buatkan paket pemula untuk saya"
 
 #: src/screens/Signup/index.tsx:154
 msgid "Create Account"
@@ -6238,7 +6238,7 @@ msgstr "Ada masalah saat mengirimkan laporan. Silakan periksa koneksi internet A
 
 #: src/view/screens/AppPasswords.tsx:70
 msgid "There was an issue with fetching your app passwords"
-msgstr "Ada masalah dengan pengambilan kata sandi aplikasi Anda"
+msgstr "Ada masalah saat pengambilan kata sandi aplikasi Anda"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:107
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:129
