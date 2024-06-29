@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-29 10:31\n"
+"PO-Revision-Date: 2024-06-29 16:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -413,7 +413,7 @@ msgstr "Tambahkan feed rekomendasi"
 
 #: src/screens/StarterPack/Wizard/index.tsx:488
 msgid "Add some feeds to your starter pack!"
-msgstr "Tambah beberapa feed ke dalam paket pemula Anda!"
+msgstr "Tambahkan beberapa feed ke dalam paket pemula Anda!"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:41
 msgid "Add the default feed of only people you follow"
@@ -1082,7 +1082,7 @@ msgstr "Pilihkan untuk saya"
 
 #: src/screens/StarterPack/Wizard/index.tsx:187
 msgid "Choose People"
-msgstr "Pilih Akun"
+msgstr "Pilih Pengguna"
 
 #: src/view/com/auth/server-input/index.tsx:79
 msgid "Choose Service"
@@ -1992,7 +1992,7 @@ msgstr "Sunting profil saya"
 
 #: src/components/StarterPack/Wizard/WizardEditListDialog.tsx:115
 msgid "Edit People"
-msgstr "Ubah Daftar Akun"
+msgstr "Ubah Daftar Pengguna"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:181
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:179
@@ -3090,7 +3090,7 @@ msgstr "Bergabung di Bluesky"
 
 #: src/components/StarterPack/QrCode.tsx:56
 msgid "Join the conversation"
-msgstr "Bergabunglah dalam percakapan"
+msgstr "Bergabunglah dengan kami"
 
 #: src/screens/Onboarding/index.tsx:21
 #: src/screens/Onboarding/state.ts:89
@@ -3693,7 +3693,7 @@ msgstr "Alam"
 
 #: src/view/com/util/post-embeds/ExternalLinkEmbed.tsx:73
 msgid "Navigate to starter pack"
-msgstr "Arahkan ke paket pemula"
+msgstr "Menuju ke paket pemula"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:173
 #: src/screens/Login/LoginForm.tsx:312
@@ -4359,7 +4359,7 @@ msgstr "Izin untuk mengakses rol kamera ditolak. Silakan aktifkan di pengaturan 
 
 #: src/components/StarterPack/Wizard/WizardListCard.tsx:55
 msgid "Person toggle"
-msgstr "Tombol alih orang"
+msgstr "Tombol alih pengguna"
 
 #: src/screens/Onboarding/index.tsx:28
 #: src/screens/Onboarding/state.ts:93
@@ -5811,7 +5811,7 @@ msgstr "Masuk sebagai @{0}"
 
 #: src/view/com/notifications/FeedItem.tsx:197
 msgid "signed up with your starter pack"
-msgstr "telah mendaftar dengan paket pemula Anda"
+msgstr "mendaftar dengan paket pemula Anda"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:300
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:307
@@ -5927,7 +5927,7 @@ msgstr "Paket Pemula"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:238
 msgid "Starter packs let you easily share your favorite feeds and people with your friends."
-msgstr "Paket pemula memudahkan Anda untuk berbagi feed dan orang-orang favorit Anda dengan teman."
+msgstr "Paket pemula memudahkan Anda untuk berbagi feed dan akun favorit Anda dengan teman."
 
 #: src/view/screens/Settings/index.tsx:862
 #~ msgid "Status page"
@@ -6154,7 +6154,7 @@ msgstr "Kebijakan Privasi telah dipindahkan ke <0/>"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:624
 msgid "The starter pack that you are trying to view is invalid. You may delete this starter pack instead."
-msgstr "Paket pemula yang Anda coba lihat tidak valid. Anda dapat menghapus paket pemula ini."
+msgstr "Paket pemula yang ingin Anda lihat tidak valid. Anda dapat menghapus paket pemula ini."
 
 #: src/view/screens/Support.tsx:36
 msgid "The support form has been moved. If you need help, please <0/> or visit {HELP_DESK_URL} to get in touch with us."
@@ -7384,7 +7384,7 @@ msgstr "Anda harus berusia 13 tahun atau lebih untuk mendaftar."
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:306
 msgid "You must be following at least seven other people to generate a starter pack."
-msgstr "Anda harus mengikuti setidaknya tujuh orang lainnya untuk membuat paket pemula."
+msgstr "Anda harus mengikuti setidaknya tujuh orang sebelum membuat paket pemula."
 
 #: src/components/StarterPack/QrCodeDialog.tsx:60
 msgid "You must grant access to your photo library to save a QR code"
@@ -7436,7 +7436,7 @@ msgstr "Anda akan mengikuti pengguna yang disarankan setelah selesai membuat aku
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:233
 msgid "You'll follow these people and {0} others"
-msgstr "Anda akan mengikuti para pengguna ini dan {0} lainnya"
+msgstr "Anda akan mengikuti pengguna ini dan {0} lainnya"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:231
 msgid "You'll follow these people right away"
@@ -7444,7 +7444,7 @@ msgstr "Anda akan otomatis mengikuti para pengguna ini"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:271
 msgid "You'll stay updated with these feeds"
-msgstr "Anda akan tetap terbarui melalui feed berikut"
+msgstr "Dapatkan informasi terbaru melalui feed berikut"
 
 #: src/screens/Onboarding/StepModeration/index.tsx:60
 #~ msgid "You're in control"
