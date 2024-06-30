@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-29 16:46\n"
+"PO-Revision-Date: 2024-06-30 04:48\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -958,7 +958,7 @@ msgstr "Batal memotong gambar"
 
 #: src/view/com/modals/EditProfile.tsx:245
 msgid "Cancel profile editing"
-msgstr "Batal menyunting profil"
+msgstr "Batal mengedit profil"
 
 #: src/view/com/util/post-ctrls/RepostButton.tsx:133
 msgid "Cancel quote post"
@@ -1950,7 +1950,7 @@ msgstr "Tiap kode hanya berlaku sekali. Anda akan mendapatkan tambahan kode unda
 #: src/view/screens/Feeds.tsx:385
 #: src/view/screens/Feeds.tsx:453
 msgid "Edit"
-msgstr "Sunting"
+msgstr "Ubah"
 
 #: src/view/com/lists/ListMembers.tsx:149
 msgctxt "action"
@@ -1977,14 +1977,14 @@ msgstr "Edit detail daftar"
 
 #: src/view/com/modals/CreateOrEditList.tsx:239
 msgid "Edit Moderation List"
-msgstr "Sunting Daftar Moderasi"
+msgstr "Ubah Daftar Moderasi"
 
 #: src/Navigation.tsx:271
 #: src/view/screens/Feeds.tsx:383
 #: src/view/screens/Feeds.tsx:451
 #: src/view/screens/SavedFeeds.tsx:93
 msgid "Edit My Feeds"
-msgstr "Ubah Daftar Feed Saya"
+msgstr "Ubah Daftar Feed"
 
 #: src/view/com/modals/EditProfile.tsx:153
 msgid "Edit my profile"
@@ -1997,7 +1997,7 @@ msgstr "Ubah Daftar Pengguna"
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:181
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:179
 msgid "Edit profile"
-msgstr "Sunting profil"
+msgstr "Edit profil"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:184
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:182
@@ -2011,11 +2011,11 @@ msgstr "Edit Profil"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:465
 msgid "Edit starter pack"
-msgstr "Sunting paket pemula"
+msgstr "Ubah paket pemula"
 
 #: src/view/com/modals/CreateOrEditList.tsx:234
 msgid "Edit User List"
-msgstr "Sunting Daftar Pengguna"
+msgstr "Ubah Daftar Pengguna"
 
 #: src/components/WhoCanReply.tsx:127
 msgid "Edit who can reply"
@@ -2031,7 +2031,7 @@ msgstr "Sunting deskripsi profil Anda"
 
 #: src/Navigation.tsx:335
 msgid "Edit your starter pack"
-msgstr "Sunting paket pemula Anda"
+msgstr "Ubah paket pemula Anda"
 
 #: src/screens/Onboarding/index.tsx:31
 #: src/screens/Onboarding/state.ts:86
@@ -4878,7 +4878,7 @@ msgstr "Membalas <0><1/></0>"
 #: src/view/com/posts/FeedItem.tsx:437
 msgctxt "description"
 msgid "Reply to a blocked post"
-msgstr "Balas ke postingan yang diblokir"
+msgstr "Membalas postingan yang diblokir"
 
 #: src/components/dms/MessageMenu.tsx:132
 #: src/components/dms/MessagesListBlockedFooter.tsx:77
