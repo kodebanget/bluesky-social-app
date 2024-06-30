@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-06-30 04:48\n"
+"PO-Revision-Date: 2024-06-30 10:47\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1973,7 +1973,7 @@ msgstr "Edit gambar"
 
 #: src/view/screens/ProfileList.tsx:459
 msgid "Edit list details"
-msgstr "Edit detail daftar"
+msgstr "Ubah rincian daftar"
 
 #: src/view/com/modals/CreateOrEditList.tsx:239
 msgid "Edit Moderation List"
@@ -1988,7 +1988,7 @@ msgstr "Ubah Daftar Feed"
 
 #: src/view/com/modals/EditProfile.tsx:153
 msgid "Edit my profile"
-msgstr "Sunting profil saya"
+msgstr "Edit profil saya"
 
 #: src/components/StarterPack/Wizard/WizardEditListDialog.tsx:115
 msgid "Edit People"
